@@ -1,0 +1,3273 @@
+stop_id,stop_code,stop_name,stop_lat,stop_lon
+ABDARE,ABA,Aberdare Rail Station,51.7145,-3.44182
+ABDO,AUR,Aberdour Rail Station,56.05459,-3.30056
+ABDVY,AVY,Aberdovey Rail Station,52.54432,-4.05589
+ABER,ABE,Aber Rail Station,51.57496,-3.22983
+ABGLELE,AGL,Abergele & Pensarn Rail Station,53.29457,-3.58262
+ABRCYNS,ACY,Abercynon Rail Station,51.64471,-3.32699
+ABRDEEN,ABD,Aberdeen Rail Station,57.1437,-2.09869
+ABRE,ABH,Abererch Rail Station,52.89858,-4.37418
+ABRGVNY,AGV,Abergavenny Rail Station,51.81715,-3.00914
+ABRYSTH,AYW,Aberystwyth Rail Station,52.41404,-4.08189
+ABWD,ABW,Abbey Wood (London) Rail Station,51.49106,0.12139
+ACBG,ACB,Acton Bridge Rail Station,53.26651,-2.60313
+ACHANLT,AAT,Achanalt Rail Station,57.60959,-4.91385
+ACHHSHL,ACH,Achnashellach Rail Station,57.48207,-5.33306
+ACHILCK,AUK,Auchinleck Rail Station,55.47027,-4.29535
+ACHNSHN,ACN,Achnasheen Rail Station,57.57929,-5.07233
+ACKLNGT,ACK,Acklington Rail Station,55.3071,-1.65183
+ACLE,ACL,Acle Rail Station,52.63468,1.54392
+ACOCKSG,ACG,Acocks Green Rail Station,52.44932,-1.81898
+ACRNGTN,ACR,Accrington Rail Station,53.75297,-2.36955
+ACTNCTL,ACC,Acton Central Rail Station,51.50871,-0.26297
+ACTONML,AML,Acton Main Line Rail Station,51.51718,-0.26676
+ADERLYP,ADD,Adderley Park Rail Station,52.48308,-1.85594
+ADIEWEL,ADW,Addiewell Rail Station,55.84341,-3.60653
+ADISHAM,ADM,Adisham Rail Station,51.2412,1.19909
+ADLC,ADC,Adlington (Cheshire) Rail Station,53.31955,-2.13356
+ADLESTN,ASN,Addlestone Rail Station,51.37304,-0.48446
+ADNL,ADL,Adlington (Lancs) Rail Station,53.61324,-2.60307
+ADWICK,AWK,Adwick Rail Station,53.57232,-1.18036
+AGHTNPH,AUG,Aughton Park Rail Station,53.55425,-2.89522
+AIGBURT,AIG,Aigburth Rail Station,53.36456,-2.92715
+AINSDAL,ANS,Ainsdale Rail Station,53.60203,-3.04265
+AINTREE,AIN,Aintree Rail Station,53.47391,-2.95628
+AIRBLES,AIR,Airbles Rail Station,55.78283,-3.99419
+AIRDRIE,ADR,Airdrie Rail Station,55.86398,-3.98291
+AIRP,APN,Newcastle Airport Metro,55.03595,-1.71105
+ALBNHRC,AYP,ALBANY PARK HURST ROAD,51.4358,0.1264
+ALBNYPK,AYP,Albany Park Rail Station,51.43545,0.12574
+ALBRGHT,ALB,Albrighton Rail Station,52.63794,-2.2689
+ALDEDGE,ALD,Alderley Edge Rail Station,53.30378,-2.2368
+ALDMSTN,AMT,Aldermaston Rail Station,51.40196,-1.13742
+ALDRSHT,AHT,Aldershot Rail Station,51.24642,-0.75986
+ALDTON,AGT,Aldrington Rail Station,50.83638,-0.18382
+ALERTN,LPY,Liverpool South Parkway Rail Station,53.35836,-2.88912
+ALEXNDP,AAP,Alexandra Palace Rail Station,51.59792,-0.12024
+ALFRETN,ALF,Alfreton Rail Station,53.10043,-1.3697
+ALLENSW,ALW,Allens West Rail Station,54.52462,-1.36112
+ALLOA,ALO,Alloa Rail Station,56.11779,-3.79006
+ALNESS,ASS,Alness Rail Station,57.69439,-4.24972
+ALNMOTH,ALM,Alnmouth Rail Station,55.39278,-1.63664
+ALRESFD,ALR,Alresford (Essex) Rail Station,51.854,0.99744
+ALSAGER,ASG,Alsager Rail Station,53.093,-2.29906
+ALSHAM,AYH,Aylesham Rail Station,51.22725,1.20945
+ALTHORN,ALN,Althorne Rail Station,51.64787,0.75248
+ALTNBRC,ABC,Altnabreac Rail Station,58.38815,-3.70628
+ALTON,AON,Alton Rail Station,51.15197,-0.96691
+ALTPE,ALP,Althorpe Rail Station,53.5855,-0.73318
+ALTRNHM,ALT,Altrincham Rail Station,53.38771,-2.34689
+ALVCHRC,ALV,Alvechurch Rail Station,52.34607,-1.96766
+ALXANDR,ALX,Alexandria Rail Station,55.98508,-4.57748
+ALXPD,AXP,Alexandra Parade Rail Station,55.86317,-4.21065
+AMBERGT,AMB,Ambergate Rail Station,53.06051,-1.4807
+AMERSHM,AMR,Amersham Rail Station,51.67402,-0.60761
+AMLY,AMY,Amberley Rail Station,50.89668,-0.54199
+AMMANFD,AMF,Ammanford Rail Station,51.79597,-3.99673
+ANCASTR,ANC,Ancaster Rail Station,52.98769,-0.53562
+ANDOVER,ADV,Andover Rail Station,51.21155,-1.49223
+ANDRSTN,AND,Anderston Rail Station,55.8599,-4.27098
+ANERLEY,ANZ,Anerley Rail Station,51.41215,-0.06589
+ANGMRNG,ANG,Angmering Rail Station,50.81657,-0.48939
+ANNAN,ANN,Annan Rail Station,54.98383,-3.26258
+ANSDELL,AFV,Ansdell & Fairhaven Rail Station,53.74146,-2.99303
+ANSL,ANL,Anniesland Rail Station,55.88935,-4.32196
+APBY,APP,Appleby Rail Station,54.58034,-2.48669
+APDR,APD,Appledore (Kent) Rail Station,51.03324,0.81634
+APERLYB,APY,Apperley Bridge Rail Station,53.84175,-1.70583
+APLYBDG,APB,Appley Bridge Rail Station,53.57867,-2.71925
+APPLEFD,APF,Appleford Rail Station,51.63964,-1.24214
+APSLEY,APS,Apsley Rail Station,51.73252,-0.46293
+ARBROTH,ARB,Arbroath Rail Station,56.55957,-2.58893
+ARCHRAT,ART,Arrochar & Tarbet Rail Station,56.20324,-4.72303
+ARDGAY,ARD,Ardgay Rail Station,57.88145,-4.36209
+ARDLUI,AUI,Ardlui Rail Station,56.30197,-4.72166
+ARDRSHB,ADS,Ardrossan Harbour Rail Station,55.63987,-4.82111
+ARDRSSB,ASB,Ardrossan South Beach Rail Station,55.64141,-4.80121
+ARDRSTN,ADN,Ardrossan Town Rail Station,55.6397,-4.81268
+ARDWICK,ADK,Ardwick Rail Station,53.47134,-2.21388
+ARGYLST,AGS,Argyle Street Rail Station,55.85761,-4.25061
+ARISAIG,ARG,Arisaig Rail Station,56.91254,-5.83908
+ARLSEY,ARL,Arlesey Rail Station,52.02603,-0.26632
+ARMADLE,ARA,ARMADALE (SKYE),57.0619,-5.89411
+ARMDALE,ARM,Armadale (W Lothian) Rail Station,55.88571,-3.69541
+ARMTHWT,AWT,Armathwaite Rail Station,54.80946,-2.77207
+ARNSIDE,ARN,Arnside Rail Station,54.20273,-2.82824
+ARRAM,ARR,Arram Rail Station,53.88434,-0.42657
+ARUNDEL,ARU,Arundel Rail Station,50.84821,-0.54617
+ASCOT,ACT,Ascot Rail Station,51.40624,-0.67583
+ASCTUWD,AUW,Ascott-under-Wychwood Rail Station,51.86734,-1.56405
+ASFDMSX,AFS,Ashford (Surrey) Rail Station,51.43651,-0.46807
+ASFIELD,ASF,Ashfield Rail Station,55.88892,-4.24921
+ASHBRYS,ABY,Ashburys Rail Station,53.47164,-2.19444
+ASHCHRC,ASC,Ashchurch for Tewkesbury Rail Station,51.9989,-2.10876
+ASHD,AHD,Ashtead Rail Station,51.31787,-0.30757
+ASHFKY,AFK,Ashford International Rail Station,51.14329,0.87484
+ASHH,ASH,Ash Rail Station,51.2496,-0.71281
+ASHLEY,ASY,Ashley Rail Station,53.35572,-2.34146
+ASHONUL,AHN,Ashton-under-Lyne Rail Station,53.49127,-2.09431
+ASHUBUS,ABF,ASHURST BALD FACE STAG P.H,51.12956,0.15232
+ASHURST,AHS,Ashurst (Kent) Rail Station,51.12866,0.15265
+ASHVALE,AHV,Ash Vale Rail Station,51.27225,-0.72165
+ASHWELC,AWM,Ashwell & Morden Rail Station,52.03077,-0.10979
+ASKAM,ASK,Askam Rail Station,54.18893,-3.20451
+ASLCKTN,ALK,Aslockton Rail Station,52.95155,-0.8981
+ASPLEYG,APG,Aspley Guise Rail Station,52.02124,-0.63233
+ASPTRIA,ASP,Aspatria Rail Station,54.75895,-3.33187
+ASTON,AST,Aston Rail Station,52.50423,-1.87193
+ATADALE,ATT,Attadale Rail Station,57.39504,-5.45558
+ATHERTN,ATN,Atherton Rail Station,53.52914,-2.47897
+ATHRSTN,ATH,Atherstone Rail Station,52.57897,-1.55281
+ATNBRO,ATB,Attenborough Rail Station,52.90621,-1.23142
+ATTLBON,ATL,Attleborough Rail Station,52.51455,1.02235
+AUDLEYE,AUD,Audley End Rail Station,52.00444,0.20716
+AVIEMRE,AVM,Aviemore Rail Station,57.18851,-3.82887
+AVNCLFF,AVF,Avoncliff Rail Station,51.33965,-2.28133
+AVONMTH,AVN,Avonmouth Rail Station,51.50036,-2.69947
+AXMNSTR,AXM,Axminster Rail Station,50.77927,-3.00472
+AYLESFD,AYL,Aylesford Rail Station,51.30132,0.46617
+AYLSBRY,AYS,Aylesbury Rail Station,51.81389,-0.8151
+AYLSPWY,AVP,Aylesbury Vale Parkway Rail Station,51.83116,-0.86018
+AYRR,AYR,Ayr Rail Station,55.45814,-4.62588
+BACHE,BAC,Bache Rail Station,53.20878,-2.89167
+BAGE,BNA,Burnage Rail Station,53.42117,-2.21568
+BAGSHOT,BAG,Bagshot Rail Station,51.36437,-0.68866
+BAILDON,BLD,Baildon Rail Station,53.85022,-1.75364
+BALCOMB,BAB,Balcombe Rail Station,51.05552,-0.13693
+BALDOCK,BDK,Baldock Rail Station,51.99287,-0.18756
+BALHAM,BAL,Balham Rail Station,51.44322,-0.15242
+BALISTN,BIO,Baillieston Rail Station,55.8445,-4.1137
+BALLOCH,BHC,Balloch Rail Station,56.0025,-4.58331
+BALMOSS,BSI,Balmossie Rail Station,56.47456,-2.83896
+BAMFORD,BAM,Bamford Rail Station,53.339,-1.68908
+BANAVIE,BNV,Banavie Rail Station,56.84331,-5.09543
+BANGOR,BNG,Bangor (Gwynedd) Rail Station,53.22228,-4.13588
+BANSBUS,BAD,BANSTEAD (FIRTREE ROAD),51.32998,-0.2144
+BANSTED,BAD,Banstead Rail Station,51.32935,-0.21316
+BARASIE,BSS,Barassie Rail Station,55.56106,-4.65114
+BARELA,BAR,Bare Lane Rail Station,54.07454,-2.83533
+BARGOED,BGD,Bargoed Rail Station,51.69256,-3.22966
+BARKING,BKG,Barking Rail Station,51.53949,0.0809
+BARLSOP,BPL,BARLASTON ORCHARD PLACE,52.94223,-2.1681
+BARMING,BMG,Barming Rail Station,51.28489,0.47896
+BARNES,BNS,Barnes Rail Station,51.46708,-0.24216
+BAROW,BIF,Barrow-in-Furness Rail Station,54.119,-3.22612
+BAROWOS,BWS,Barrow upon Soar Rail Station,52.74933,-1.14484
+BARRY,BRY,Barry Rail Station,51.39678,-3.28498
+BARRYDK,BYD,Barry Docks Rail Station,51.40244,-3.2607
+BARRYIS,BYI,Barry Island Rail Station,51.39241,-3.27336
+BARWHVN,BAV,Barrow Haven Rail Station,53.69742,-0.39296
+BASILDN,BSO,Basildon Rail Station,51.5681,0.45679
+BATABAL,BBL,Bat & Ball Rail Station,51.28976,0.19423
+BATHSPA,BTH,Bath Spa Rail Station,51.37768,-2.35702
+BATLEY,BTL,Batley Rail Station,53.70994,-1.62295
+BATRSPK,BAK,Battersea Park Rail Station,51.47696,-0.14753
+BATTLE,BAT,Battle Rail Station,50.91291,0.4947
+BAYFORD,BAY,Bayford Rail Station,51.75771,-0.09561
+BCHGRV,BCG,Birchgrove Rail Station,51.52155,-3.20185
+BCKNHMH,BEC,Beckenham Hill Rail Station,51.42458,-0.01595
+BCKNHMJ,BKJ,Beckenham Junction Rail Station,51.41103,-0.02581
+BCKNMJC,BKJ,Beckenham Junction Rail Station,51.41117,-0.02602
+BCKWATR,BAW,Blackwater Rail Station,51.33158,-0.77674
+BCKY,BCK,Buckley Rail Station,53.16252,-3.05538
+BCNGNOS,BCH,Birchington-on-Sea Rail Station,51.37749,1.30141
+BCNSFLD,BCF,Beaconsfield Rail Station,51.61129,-0.64382
+BCSTN,BCS,Bicester North Rail Station,51.90348,-1.15038
+BCSTRTN,BIT,Bicester Village Rail Station,51.89302,-1.14876
+BCWD,BWO,Bricket Wood Rail Station,51.70543,-0.35911
+BDHMNRD,BDH,BEDHAMPTON NEW ROAD,50.8537,-0.99698
+BDHMPTN,BDH,Bedhampton Rail Station,50.85396,-0.99583
+BDICK,BDC,BRODICK,55.57738,-5.13939
+BDMNSTR,BMT,Bedminster Rail Station,51.44009,-2.59415
+BDSTON,BID,Bidston Rail Station,53.40913,-3.07856
+BEARLEY,BER,Bearley Rail Station,52.24441,-1.75026
+BEASDAL,BSL,Beasdale Rail Station,56.89955,-5.7638
+BEAULY,BEL,Beauly Rail Station,57.47828,-4.46987
+BEBNGTN,BEB,Bebington Rail Station,53.35765,-3.00363
+BECCLES,BCC,Beccles Rail Station,52.45852,1.56949
+BEDFDM,BDM,Bedford Rail Station,52.13619,-0.47944
+BEDWRTH,BEH,Bedworth Rail Station,52.4793,-1.46739
+BEDYN,BDW,Bedwyn Rail Station,51.37964,-1.59879
+BEKSBRN,BKS,Bekesbourne Rail Station,51.26136,1.13671
+BELM,BLM,Belmont Rail Station,51.34381,-0.19886
+BELNGHM,BGM,Bellingham Rail Station,51.43291,-0.01933
+BELPER,BLP,Belper Rail Station,53.02376,-1.48251
+BELVEDR,BVD,Belvedere Rail Station,51.49212,0.15229
+BEMPTON,BEM,Bempton Rail Station,54.12766,-0.18046
+BENFLET,BEF,Benfleet Rail Station,51.54394,0.56171
+BEREALS,BAS,Bere Alston Rail Station,50.48559,-4.20035
+BEREFRS,BFE,Bere Ferrers Rail Station,50.45128,-4.18143
+BERKHMD,BKM,Berkhamsted Rail Station,51.76313,-0.56201
+BERMPRK,BEP,Bermuda Park Rail Station,52.50143,-1.47218
+BERRYB,BBW,Berry Brow Rail Station,53.62104,-1.79343
+BERWICK,BRK,Berwick (Sussex) Rail Station,50.84038,0.16602
+BESCRLA,BES,Bescar Lane Rail Station,53.62385,-2.91461
+BESJOHN,BSJ,Bedford St Johns Rail Station,52.12948,-0.4675
+BESTON,BEE,Beeston Rail Station,52.92075,-1.20766
+BETSYCD,BYC,Betws-y-Coed Rail Station,53.09206,-3.80086
+BEVERLY,BEV,Beverley Rail Station,53.84227,-0.42298
+BEXHILL,BEX,Bexhill Rail Station,50.84104,0.47702
+BEXLEY,BXY,Bexley Rail Station,51.44022,0.1479
+BGLAN,BAJ,Baglan Rail Station,51.61427,-3.80939
+BGOALAN,BEA,Bridge of Allan Rail Station,56.15663,-3.95723
+BGRN,BTG,Barnt Green Rail Station,52.36109,-1.99247
+BHAMINT,BHI,Birmingham International Rail Station,52.45081,-1.72586
+BHAMJEW,JEQ,Jewellery Quarter Rail Station,52.48943,-1.91321
+BHAMMRS,BMO,Birmingham Moor Street Rail Station,52.47908,-1.89247
+BHAMNWS,BHM,Birmingham New Street Rail Station,52.47782,-1.90021
+BHAMSNH,BSW,Birmingham Snow Hill Rail Station,52.48335,-1.89909
+BHILLPK,BHK,Bush Hill Park Rail Station,51.64152,-0.06922
+BICKLEY,BKL,Bickley Rail Station,51.4001,0.04524
+BIGLSWD,BIW,Biggleswade Rail Station,52.08468,-0.26119
+BILBROK,BBK,Bilbrook Rail Station,52.62372,-2.18609
+BILERCY,BIC,Billericay Rail Station,51.62888,0.41863
+BILSHST,BIG,Billingshurst Rail Station,51.0152,-0.4503
+BINGHAM,BIN,Bingham Rail Station,52.95419,-0.95154
+BIRCHWD,BWD,Birchwood Rail Station,53.41272,-2.52531
+BIRKBCK,BIK,Birkbeck Rail Station,51.40389,-0.05574
+BISHPTN,BPT,Bishopton Rail Station,55.90226,-4.50049
+BISLND,BTS,Burntisland Rail Station,56.05708,-3.2332
+BITERNE,BTE,Bitterne Rail Station,50.91822,-1.377
+BKDLE,BDL,Birkdale Rail Station,53.63405,-3.01445
+BKHLS,BHS,Brockholes Rail Station,53.59697,-1.76969
+BKNELL,BUK,Bucknell Rail Station,52.35738,-2.94738
+BKNHRST,BCU,Brockenhurst Rail Station,50.81684,-1.57353
+BKSWELL,BKW,Berkswell Rail Station,52.39627,-1.6423
+BLAENAU,BFF,Blaenau Ffestiniog Rail Station,52.99455,-3.93859
+BLAIRHL,BAI,Blairhill Rail Station,55.86645,-4.04329
+BLAKEDN,BKD,Blakedown Rail Station,52.4064,-2.17687
+BLANTYR,BLT,Blantyre Rail Station,55.79732,-4.08697
+BLARATH,BLA,Blair Atholl Rail Station,56.76554,-3.85023
+BLAYDON,BLO,Blaydon Rail Station,54.96579,-1.71258
+BLCHSRD,BHO,Blackhorse Road Rail Station,51.5866,-0.04124
+BLCKPB,BPB,Blackpool Pleasure Beach Rail Station,53.78795,-3.05388
+BLCKPLN,BPN,Blackpool North Rail Station,53.82191,-3.04927
+BLCKS,BPS,Blackpool South Rail Station,53.7987,-3.04894
+BLEASBY,BSB,Bleasby Rail Station,53.04136,-0.94369
+BLFR,BFR,London Blackfriars Rail Station,51.51181,-0.10333
+BLFSTPT,BFA,BELFAST PORT,54.629,-5.89047
+BLGRVE,BLG,Bellgrove Rail Station,55.8567,-4.22437
+BLIEURD,BEU,Beaulieu Road Rail Station,50.85505,-1.50475
+BLKB,BBN,Blackburn Rail Station,53.74651,-2.47912
+BLKHTH,BKH,Blackheath Rail Station,51.46579,0.00887
+BLKRDGE,BKR,Blackridge Rail Station,55.88425,-3.7508
+BLKST,BKT,Blake Street Rail Station,52.60488,-1.84491
+BLLVUE,BLV,Belle Vue Rail Station,53.46237,-2.18051
+BLNDLAC,BLN,Blundellsands & Crosby Rail Station,53.48768,-3.03986
+BLNGHM,BIL,Billingham Rail Station,54.6056,-1.27972
+BLOXN,BWN,Bloxwich North Rail Station,52.62543,-2.01768
+BLOXWCH,BLX,Bloxwich Rail Station,52.6182,-2.01148
+BLRD,BLK,Blackrod Rail Station,53.59152,-2.56952
+BLSHL,BLH,Bellshill Rail Station,55.81706,-4.0245
+BLTCHLY,BLY,Bletchley Rail Station,51.99533,-0.73632
+BLTNODR,BTD,Bolton-Upon-Dearne Rail Station,53.51894,-1.31155
+BLTRNAB,BEG,Beltring Rail Station,51.20471,0.4035
+BLYBDGE,BYB,Blythe Bridge Rail Station,52.96814,-2.06696
+BMBRBDG,BMB,Bamber Bridge Rail Station,53.72686,-2.66077
+BMHL,BML,Bramhall Rail Station,53.36061,-2.16359
+BMLY,BMY,Bramley (Hants) Rail Station,51.33029,-1.061
+BNBR,BAN,Banbury Rail Station,52.06031,-1.32813
+BNDON,BND,Brandon Rail Station,52.45401,0.62473
+BNGY,BIY,Bingley Rail Station,53.84861,-1.83732
+BNHAM,BNM,Burnham (Berks) Rail Station,51.5235,-0.64637
+BNHL,BNL,Barnhill Rail Station,55.87749,-4.223
+BNKHALL,BAH,Bank Hall Rail Station,53.43749,-2.98751
+BNRHYDN,BEY,Ben Rhydding Rail Station,53.92571,-1.79743
+BNSBDGE,BNI,Barnes Bridge Rail Station,51.47201,-0.25263
+BNSD,BUD,Burneside (Cumbria) Rail Station,54.35498,-2.76668
+BNSLY,BNY,Barnsley Rail Station,53.5543,-1.47716
+BNTBY,BTB,Barnetby Rail Station,53.57512,-0.40968
+BNTEY,BTY,Bentley (Hants) Rail Station,51.18123,-0.86813
+BNTFORD,BFD,Brentford Rail Station,51.48755,-0.30965
+BNTHAM,BEN,Bentham Rail Station,54.11552,-2.51068
+BNWK,BRW,Brunswick Rail Station,53.38324,-2.97608
+BODMNPW,BOD,Bodmin Parkway Rail Station,50.44586,-4.66293
+BODORGN,BOR,Bodorgan Rail Station,53.2043,-4.418
+BOGNORR,BOG,Bognor Regis Rail Station,50.78656,-0.67618
+BOGSTON,BGS,Bogston Rail Station,55.93704,-4.7114
+BOLTON,BON,Bolton Rail Station,53.57414,-2.42582
+BOMO,BMH,Bournemouth Rail Station,50.72727,-1.8645
+BOOKHAM,BKA,Bookham Rail Station,51.28874,-0.38402
+BOORCHY,BRO,Bridge of Orchy Rail Station,56.51621,-4.76411
+BOOTLE,BOC,Bootle (Cumbria) Rail Station,54.2913,-3.39386
+BOOTLNS,BNW,Bootle New Strand Rail Station,53.45339,-2.99475
+BOOTLOR,BOT,Bootle Oriel Road Rail Station,53.44662,-2.99573
+BORNEND,BNE,Bourne End Rail Station,51.57712,-0.71047
+BORTH,BRH,Borth Rail Station,52.49103,-4.05018
+BORWGAW,BRG,Borough Green & Wrotham Rail Station,51.29322,0.30625
+BOSHAM,BOH,Bosham Rail Station,50.84275,-0.84743
+BOSTON,BSN,Boston Rail Station,52.97809,-0.031
+BOTESFD,BTF,Bottesford Rail Station,52.94461,-0.79484
+BOTLEY,BOE,Botley Rail Station,50.91645,-1.25924
+BOURNVL,BRV,Bournville Rail Station,52.42696,-1.92642
+BOWBRKH,BWB,Bow Brickhill Rail Station,52.0043,-0.69608
+BOWESPK,BOP,Bowes Park Rail Station,51.60701,-0.12058
+BOWLING,BWG,Bowling Rail Station,55.93108,-4.49384
+BOXHAWH,BXW,Box Hill & Westhumble Rail Station,51.25401,-0.32849
+BOXHBUS,BXX,BOXHILL BURFORD BDGE HOTEL,51.25425,-0.32338
+BRACKNL,BCE,Bracknell Rail Station,51.41309,-0.7517
+BRADFS,BDQ,Bradford Forster Square Rail Station,53.79692,-1.75296
+BRADIN,BDI,Bradford Interchange Rail Station,53.79107,-1.7496
+BRAINFP,BTP,Braintree Freeport Rail Station,51.86941,0.56843
+BRAINTR,BTR,Braintree Rail Station,51.87539,0.55669
+BRAMPTN,BRP,Brampton (Suffolk) Rail Station,52.39543,1.54381
+BRANKSM,BSM,Branksome Rail Station,50.72696,-1.91976
+BRBM,BDB,Broadbottom Rail Station,53.44097,-2.01652
+BRBY,BSY,Brondesbury Rail Station,51.54516,-0.20231
+BRBYPK,BSP,Brondesbury Park Rail Station,51.5407,-0.21013
+BRDFDOA,BOA,Bradford-on-Avon Rail Station,51.34491,-2.25233
+BRDGWTR,BWT,Bridgwater Rail Station,51.12785,-2.99041
+BRDING,BDN,Brading Rail Station,50.67837,-1.13872
+BRDLNGT,BDT,Bridlington Rail Station,54.08413,-0.19872
+BRDNML,BLL,Bardon Mill Rail Station,54.97449,-2.3465
+BRDS,BBS,Bordesley Rail Station,52.47187,-1.87777
+BREDBRY,BDY,Bredbury Rail Station,53.42315,-2.11049
+BREICH,BRC,Breich Rail Station,55.82731,-3.66813
+BRFRY,BYF,Broughty Ferry Rail Station,56.46716,-2.87315
+BRFT,BMF,Broomfleet Rail Station,53.74021,-0.67183
+BRGDDIE,BGI,Bargeddie Rail Station,55.85129,-4.07381
+BRGEND,BGN,Bridgend Rail Station,51.50697,-3.57528
+BRGG,BGG,Brigg Rail Station,53.54914,-0.48612
+BRGHBUS,LRR,LONDON ROAD DITCHLING RISE,50.83597,-0.13816
+BRGHLRD,LRB,London Road (Brighton) Rail Station,50.83666,-0.1365
+BRGHTN,BTN,Brighton Rail Station,50.829,-0.14128
+BRHD,BRR,Barrhead Rail Station,55.80375,-4.39728
+BRHM,BAA,Barnham Rail Station,50.8309,-0.63968
+BRHOUSE,BGH,Brighouse Rail Station,53.6982,-1.77944
+BRIDGTN,BDG,Bridgeton Rail Station,55.84896,-4.22606
+BRIERFL,BRF,Brierfield Rail Station,53.82398,-2.23649
+BRIMSDN,BMD,Brimsdown Rail Station,51.65558,-0.03082
+BRITFRY,BNF,Briton Ferry Rail Station,51.63816,-3.81989
+BRITHDR,BHD,Brithdir Rail Station,51.7103,-3.22872
+BRIXTON,BRX,Brixton Rail Station,51.4633,-0.11418
+BRKMNPK,BPK,Brookmans Park Rail Station,51.72106,-0.20455
+BRKNCPK,CNP,Conway Park Rail Station,53.39336,-3.02267
+BRKNHDC,BKC,Birkenhead Central Rail Station,53.38831,-3.02082
+BRKNHDN,BKN,Birkenhead North Rail Station,53.40443,-3.05753
+BRKNHDP,BKP,Birkenhead Park Rail Station,53.3974,-3.0391
+BRKNIOM,BKI,BIRKENHEAD 12 QUAYS,53.39982,-3.01365
+BRKWOOD,BKO,Brookwood Rail Station,51.30376,-0.63575
+BRLANDS,BRS,Berrylands Rail Station,51.39904,-0.28071
+BRLEYPK,BUY,Burley Park Rail Station,53.81203,-1.57777
+BRMB,BOM,Bromborough Rail Station,53.32184,-2.9869
+BRMBRK,BMR,Bromborough Rake Rail Station,53.3299,-2.98947
+BRMCRSS,BMC,Bromley Cross Rail Station,53.61404,-2.4109
+BRMLYSR,BLE,Bramley (West Yorks) Rail Station,53.80535,-1.63721
+BRMOUTH,BRM,Barmouth Rail Station,52.72289,-4.0566
+BRMPTNC,BMP,Brampton (Cumbria) Rail Station,54.93239,-2.70295
+BRMSGRV,BMV,Bromsgrove Rail Station,52.32228,-2.04734
+BRNCHTN,BCN,Branchton Rail Station,55.94059,-4.80355
+BRNGTN,BNT,Brinnington Rail Station,53.43211,-2.13512
+BRNHRST,BNH,Barnehurst Rail Station,51.46496,0.15965
+BRNMONC,BUU,Burnham-on-Crouch Rail Station,51.63366,0.81403
+BRNSTPL,BNP,Barnstaple Rail Station,51.07397,-4.06312
+BRNYARM,BYA,Berney Arms Rail Station,52.58979,1.63038
+BROADGR,BGE,Broad Green Rail Station,53.4065,-2.89348
+BROCKLY,BCY,Brockley Rail Station,51.46465,-0.03754
+BROMLYN,BMN,Bromley North Rail Station,51.40833,0.01699
+BROMLYS,BMS,Bromley South Rail Station,51.39997,0.01734
+BROOME,BME,Broome Rail Station,52.42277,-2.88521
+BRORA,BRA,Brora Rail Station,58.01295,-3.85228
+BROUGH,BUH,Brough Rail Station,53.72696,-0.57872
+BROXBRN,BXB,Broxbourne Rail Station,51.74691,-0.01109
+BRRHL,BRL,Barrhill Rail Station,55.097,-4.78178
+BRRYLNK,BYL,Barry Links Rail Station,56.49315,-2.74544
+BRSCGHB,BCB,Burscough Bridge Rail Station,53.60525,-2.84088
+BRSCGHJ,BCJ,Burscough Junction Rail Station,53.59752,-2.84061
+BRSDE,BUI,Burnside (Strathclyde) Rail Station,55.81692,-4.20239
+BRSR,BSR,Broadstairs Rail Station,51.36067,1.43356
+BRSTLTM,BRI,Bristol Temple Meads Rail Station,51.44927,-2.58044
+BRSTPWY,BPW,Bristol Parkway Rail Station,51.5138,-2.54216
+BRTHMBR,BAU,Barton-on-Humber Rail Station,53.68892,-0.44344
+BRTJYC,BUJ,Burton Joyce Rail Station,52.98344,-1.04088
+BRTWOOD,BRE,Brentwood Rail Station,51.6136,0.29959
+BRUCGRV,BCV,Bruce Grove Rail Station,51.59396,-0.06987
+BRUNDAL,BDA,Brundall Rail Station,52.61948,1.4393
+BRUNDLG,BGA,Brundall Gardens Rail Station,52.62344,1.41842
+BRUSTAN,BSU,Brunstane Rail Station,55.94251,-3.10099
+BRUTON,BRU,Bruton Rail Station,51.11164,-2.44707
+BRWCGAL,XAA,GALASHIELS BUS STATION,55.61746,-2.80576
+BRWCKUT,BWK,Berwick-upon-Tweed Rail Station,55.77434,-2.01097
+BRWHINS,BNR,Brockley Whins Rail Station,54.95954,-1.46135
+BRYN,BYN,Bryn Rail Station,53.49986,-2.64721
+BRYSTNS,BYS,Braystones Rail Station,54.43936,-3.54183
+BSAUKLD,BIA,Bishop Auckland Rail Station,54.65719,-1.67771
+BSCTSTA,BSC,Bescot Stadium Rail Station,52.56309,-1.99111
+BSDN,BRN,Bearsden Rail Station,55.91713,-4.33202
+BSHB,BBG,Bishopbriggs Rail Station,55.90388,-4.22491
+BSHPSFD,BIS,Bishops Stortford Rail Station,51.86669,0.16489
+BSNGSTK,BSK,Basingstoke Rail Station,51.26836,-1.08726
+BSSN,BIP,Bishopstone Rail Station,50.78014,0.08276
+BSSNBUS,BST,BISHOPSTONE (HILL RISE),50.78185,0.08383
+BSTD,BSD,Bearsted Rail Station,51.27582,0.57758
+BSTEDMS,BSE,Bury St Edmunds Rail Station,52.25376,0.71331
+BTCHWTH,BTO,Betchworth Rail Station,51.24819,-0.26697
+BTHGATE,BHG,Bathgate Rail Station,55.89715,-3.6361
+BTHNLGR,BET,Bethnal Green Rail Station,51.52392,-0.05957
+BTLRSLA,BUL,Butlers Lane Rail Station,52.59247,-1.83802
+BTLSBDG,BLB,Battlesbridge Rail Station,51.62482,0.56529
+BTLYSY,BYK,Bentley (S Yorks) Rail Station,53.54393,-1.15095
+BTRSBY,BTT,Battersby Rail Station,54.45768,-1.09297
+BUCKNHM,BUC,Buckenham Rail Station,52.59774,1.47033
+BUDESTD,BUA,BUDE STRAND,50.8284,-4.54732
+BUGLE,BGL,Bugle Rail Station,50.40035,-4.7921
+BUILTHR,BHR,Builth Road Rail Station,52.16932,-3.42703
+BULWELL,BLW,Bulwell Rail Station,52.9994,-1.19555
+BURES,BUE,Bures Rail Station,51.97116,0.76914
+BURGESH,BUG,Burgess Hill Rail Station,50.95365,-0.12741
+BURLYIW,BUW,Burley-in-Wharfedale Rail Station,53.90815,-1.75337
+BURNLYB,BUB,Burnley Barracks Rail Station,53.79088,-2.25809
+BURNLYC,BNC,Burnley Central Rail Station,53.79351,-2.24497
+BURNMR,BYM,Burnley Manchester Road Rail Station,53.78496,-2.24887
+BURSLDN,BUO,Bursledon Rail Station,50.88369,-1.30503
+BURTNOT,BUT,Burton-on-Trent Rail Station,52.80581,-1.64246
+BUSBY,BUS,Busby Rail Station,55.78034,-4.2622
+BUSHEY,BSH,Bushey Rail Station,51.64558,-0.38475
+BUSHYDC,BSH,Bushey Rail Station,51.64575,-0.38532
+BUXTON,BUX,Buxton Rail Station,53.26072,-1.91286
+BXLYHTH,BXH,Bexleyheath Rail Station,51.4635,0.13373
+BXTD,BXD,Buxted Rail Station,50.99001,0.13144
+BYFLANH,BFN,Byfleet & New Haw Rail Station,51.34979,-0.48139
+BYNEA,BYE,Bynea Rail Station,51.67203,-4.09888
+CADOXTN,CAD,Cadoxton Rail Station,51.41228,-3.2489
+CAERGWL,CGW,Caergwrle Rail Station,53.10786,-3.03291
+CALSTCK,CSK,Calstock Rail Station,50.4978,-4.20899
+CAMBDGE,CBG,Cambridge Rail Station,52.19407,0.13746
+CAMBNTH,CMB,Cambridge North Rail Station,52.22448,0.15848
+CAMELON,CMO,Camelon Rail Station,56.00609,-3.81761
+CAMHTH,CBH,Cambridge Heath (London) Rail Station,51.53197,-0.05728
+CANLEY,CNL,Canley Rail Station,52.39924,-1.54757
+CANONST,CST,London Cannon Street Rail Station,51.51084,-0.09059
+CARBISB,CBB,Carbis Bay Rail Station,50.19705,-5.46326
+CARDFBR,CDB,Cardiff Bay Rail Station,51.46711,-3.1664
+CARDFQS,CDQ,Cardiff Queen Street Rail Station,51.48196,-3.17018
+CARFIN,CRF,Carfin Rail Station,55.80762,-3.95568
+CARK,CAK,Cark Rail Station,54.17795,-2.97406
+CARLILE,CAR,Carlisle Rail Station,54.89065,-2.93319
+CARMYLE,CML,Carmyle Rail Station,55.83434,-4.15818
+CARRBDG,CAG,Carrbridge Rail Station,57.2795,-3.8282
+CARSWS,CWS,Caersws Rail Station,52.51612,-3.4325
+CASTLFD,CFD,Castleford Rail Station,53.72408,-1.35465
+CATERHM,CAT,Caterham Rail Station,51.28214,-0.07831
+CATFBDG,CFB,Catford Bridge Rail Station,51.44474,-0.02479
+CATFORD,CTF,Catford Rail Station,51.44441,-0.02632
+CATHAYS,CYS,Cathays Rail Station,51.4889,-3.17868
+CATTAL,CTL,Cattal Rail Station,53.99744,-1.32053
+CAUSLND,CAU,Causeland Rail Station,50.40569,-4.46645
+CBARPAR,CBP,Castle Bar Park Rail Station,51.52293,-0.33155
+CBAY,CWB,Colwyn Bay Rail Station,53.29636,-3.72542
+CBGH,COH,Crowborough Rail Station,51.04638,0.18801
+CBHMSDA,CSD,Cobham & Stoke d'Abernon Rail Station,51.3181,-0.38935
+CBORNE,CBN,Camborne Rail Station,50.21043,-5.29741
+CBRK,CBK,Cranbrook Rail Station,50.75009,-3.42042
+CCARY,CLC,Castle Cary Rail Station,51.09981,-2.52279
+CCRT,CCT,Cathcart Rail Station,55.81767,-4.26054
+CDCOT,CDT,Caldicot Rail Station,51.58479,-2.76057
+CDND,CDD,Cardenden Rail Station,56.14125,-3.26164
+CDNL,CDO,Cardonald Rail Station,55.85257,-4.34069
+CDRS,CDR,Cardross Rail Station,55.96038,-4.65307
+CEFNYBD,CYB,Cefn-y-Bedd Rail Station,53.0988,-3.03105
+CFFT,CFF,Croftfoot Rail Station,55.81825,-4.22832
+CFLATTS,CFL,Crossflatts Rail Station,53.85846,-1.84489
+CFPK,CFT,Crofton Park Rail Station,51.45519,-0.0365
+CHADHDD,CFH,Chafford Hundred Rail Station,51.48556,0.28745
+CHAPLTN,CPN,Chapelton (Devon) Rail Station,51.01653,-4.02472
+CHARTHM,CRT,Chartham Rail Station,51.25726,1.01804
+CHASNRD,CSR,Chassen Road Rail Station,53.44616,-2.36823
+CHATHAM,CTM,Chatham Rail Station,51.38038,0.52115
+CHBURY,CBY,Charlbury Rail Station,51.87243,-1.48969
+CHCHSTR,CCH,Chichester Rail Station,50.83205,-0.78175
+CHDH,CHU,Cheadle Hulme Rail Station,53.37593,-2.1883
+CHDNGTN,CED,Cheddington Rail Station,51.85792,-0.66215
+CHDWLHT,CTH,Chadwell Heath Rail Station,51.56804,0.12896
+CHEAM,CHE,Cheam Rail Station,51.35548,-0.21417
+CHEF,CEF,Chapel-en-le-Frith Rail Station,53.31223,-1.91876
+CHELFD,CEL,Chelford Rail Station,53.27031,-2.28058
+CHEPSTW,CPW,Chepstow Rail Station,51.64005,-2.67114
+CHESHNT,CHN,Cheshunt Rail Station,51.70287,-0.02396
+CHETNOL,CNO,Chetnole Rail Station,50.86636,-2.57293
+CHFD,CHD,Chesterfield Rail Station,53.23822,-1.42012
+CHFN,CHF,Church Fenton Rail Station,53.8266,-1.22759
+CHHL,CHT,Chathill Rail Station,55.53673,-1.70638
+CHINGFD,CHI,Chingford Rail Station,51.63308,0.0099
+CHIPNHM,CPM,Chippenham Rail Station,51.46249,-2.11539
+CHIRK,CRK,Chirk Rail Station,52.93309,-3.06564
+CHISWCK,CHK,Chiswick Rail Station,51.48113,-0.26784
+CHLFNAL,CFO,Chalfont & Latimer Rail Station,51.66792,-0.56059
+CHLKWEL,CHW,Chalkwell Rail Station,51.53872,0.67059
+CHLMSFD,CHM,Chelmsford Rail Station,51.73637,0.46857
+CHLSFLD,CLD,Chelsfield Rail Station,51.35625,0.10907
+CHLTNHM,CNM,Cheltenham Spa Rail Station,51.8974,-2.09962
+CHLWTH,CHL,Chilworth Rail Station,51.21521,-0.52482
+CHNLY,CLY,Chinley Rail Station,53.34029,-1.94394
+CHNRLOW,XCQ,CHINNOR  LOWER ROAD,51.69808,-0.90632
+CHOLSEY,CHO,Cholsey Rail Station,51.5702,-1.15802
+CHORBUK,BSV,Buckshaw Parkway Rail Station,53.67334,-2.66083
+CHORLEY,CRL,Chorley Rail Station,53.65253,-2.62684
+CHOS,CTW,Church & Oswaldtwistle Rail Station,53.75052,-2.39121
+CHPLTWN,CLN,Chapeltown Rail Station,53.46233,-1.46628
+CHPWKSC,CWC,Chappel & Wakes Colne Rail Station,51.9259,0.7585
+CHRISTC,CHR,Christchurch Rail Station,50.73821,-1.78455
+CHRNGXG,CHC,Charing Cross (Glasgow) Rail Station,55.86468,-4.26982
+CHRSTSH,CHH,Christs Hospital Rail Station,51.05068,-0.36356
+CHRW,CLW,Chorleywood Rail Station,51.65425,-0.51832
+CHRX,CHX,London Charing Cross Rail Station,51.50779,-0.12445
+CHSD,CHP,Chipstead Rail Station,51.30928,-0.1695
+CHSLHRS,CIT,Chislehurst Rail Station,51.40555,0.05742
+CHSRD,CRD,Chester Road Rail Station,52.53564,-1.83248
+CHSSN,CSN,Chessington North Rail Station,51.36404,-0.3007
+CHSSS,CSS,Chessington South Rail Station,51.35655,-0.30816
+CHST,CTR,Chester Rail Station,53.19669,-2.87959
+CHSW,CSW,Chestfield & Swalecliffe Rail Station,51.36024,1.06693
+CHTLRT,CTE,Chatelherault Rail Station,55.76522,-4.00467
+CHTR,CYT,Cherry Tree Rail Station,53.73287,-2.51838
+CHTSEY,CHY,Chertsey Rail Station,51.38707,-0.50932
+CILMERY,CIM,Cilmeri Rail Station,52.15053,-3.45654
+CKHL,CKH,Corkerhill Rail Station,55.8375,-4.33429
+CLACTON,CLT,Clacton-on-Sea Rail Station,51.794,1.15409
+CLANDON,CLA,Clandon Rail Station,51.264,-0.50277
+CLAPTON,CPT,Clapton Rail Station,51.56164,-0.05702
+CLARBRD,CLR,Clarbeston Road Rail Station,51.85166,-4.88355
+CLAVRDN,CLV,Claverdon Rail Station,52.27709,-1.69656
+CLCHHYT,HYH,Hythe (Essex) Rail Station,51.88564,0.92753
+CLCHRTN,CET,Colchester Town Rail Station,51.88645,0.90476
+CLCHSTR,COL,Colchester Rail Station,51.90071,0.8926
+CLDNNRB,CIR,Caledonian Road & Barnsbury Rail Station,51.54304,-0.11673
+CLDRCRX,CAC,Caldercruix Rail Station,55.88794,-3.88771
+CLELAND,CEA,Cleland Rail Station,55.80465,-3.91024
+CLFDOWN,CFN,Clifton Down Rail Station,51.46454,-2.61174
+CLHM,CLM,Collingham Rail Station,53.14408,-0.75039
+CLITHRO,CLH,Clitheroe Rail Station,53.87346,-2.39434
+CLMN,CIL,Chilham Rail Station,51.24461,0.9759
+CLOCKHS,CLK,Clock House Rail Station,51.40858,-0.04066
+CLPHHS,CLP,Clapham High Street Rail Station,51.46548,-0.13252
+CLPHMJ1,CLJ,Clapham Junction Rail Station,51.46422,-0.17007
+CLPHMJC,CLJ,Clapham Junction Rail Station,51.46415,-0.17017
+CLPHMJM,CLJ,Clapham Junction Rail Station,51.46426,-0.17018
+CLPHMJW,CLJ,Clapham Junction Rail Station,51.46419,-0.16999
+CLPM,CPY,Clapham (N Yorks) Rail Station,54.10538,-2.41038
+CLRKSTN,CKS,Clarkston Rail Station,55.78935,-4.27564
+CLST,CLS,Chester-le-Street Rail Station,54.85459,-1.57802
+CLTHRPS,CLE,Cleethorpes Rail Station,53.5619,-0.02922
+CLTN,CLI,Clifton (Manchester) Rail Station,53.52249,-2.31475
+CLWALL,CWL,Colwall Rail Station,52.07987,-2.35695
+CLYBANK,CYK,Clydebank Rail Station,55.90069,-4.40441
+CLYGATE,CLG,Claygate Rail Station,51.36121,-0.34825
+CLYNDRW,CUW,Clunderwen Rail Station,51.84054,-4.73184
+CMBH,CMH,Cwmbach Rail Station,51.70146,-3.41481
+CMBLEY,CAM,Camberley Rail Station,51.33633,-0.74427
+CMBRNLD,CUB,Cumbernauld Rail Station,55.94202,-3.98033
+CMBSLNG,CBL,Cambuslang Rail Station,55.8196,-4.17301
+CMDNRD,CMD,Camden Road Rail Station,51.54179,-0.1387
+CMER,CMR,Cromer Rail Station,52.93008,1.29282
+CMTHN,CMN,Carmarthen Rail Station,51.85335,-4.30596
+CNCK,CAO,Cannock Rail Station,52.68616,-2.02215
+CNDAW,ZCW,Canada Water Rail Station,51.498,-0.05
+CNNB,CNN,Canonbury Rail Station,51.54873,-0.09219
+CNNBELL,CNN,CANONBURY ELL,51.54847,-0.09282
+CNRYNP,CRP,CAIRNRYAN (LOCH RYAN PORT),54.96286,-5.01624
+CNST,CAN,Carnoustie Rail Station,56.50056,-2.7066
+CNTBE,CBE,Canterbury East Rail Station,51.27427,1.07597
+CNTBW,CBW,Canterbury West Rail Station,51.28427,1.0753
+CNTLEY,CNY,Cantley Rail Station,52.57875,1.51341
+CNTY,CAY,Carntyne Rail Station,55.85487,-4.17857
+COATBDC,CBC,Coatbridge Central Rail Station,55.8625,-4.0319
+COATBDS,CBS,Coatbridge Sunnyside Rail Station,55.86683,-4.02829
+COATDYK,COA,Coatdyke Rail Station,55.86434,-4.00498
+CODNBCH,COB,Cooden Beach Rail Station,50.83337,0.42686
+CODSALL,CSL,Codsall Rail Station,52.62729,-2.20176
+COGAN,CGN,Cogan Rail Station,51.44599,-3.18909
+COKSBDG,CBR,Cooksbridge Rail Station,50.90375,-0.0092
+COLESHL,CEH,Coleshill Parkway Rail Station,52.51652,-1.70818
+COLNE,CNE,Colne Rail Station,53.85474,-2.18186
+COLSDNS,CDS,Coulsdon South Rail Station,51.31584,-0.13789
+COLSTWN,CDN,Coulsdon Town Rail Station,51.32204,-0.13446
+COMBE,CME,Combe (Oxon) Rail Station,51.83259,-1.39407
+COMONDL,COM,Commondale Rail Station,54.48127,-0.97515
+CONBRGH,CNS,Conisbrough Rail Station,53.48931,-1.23433
+CONGLTN,CNG,Congleton Rail Station,53.15785,-2.19258
+CONNELF,CON,Connel Ferry Rail Station,56.45235,-5.38544
+CONONBR,CBD,Conon Bridge Rail Station,57.56175,-4.44041
+CONONLY,CEY,Cononley Rail Station,53.91757,-2.01207
+CONWY,CNW,Conwy Rail Station,53.2801,-3.83052
+COOKHAM,COO,Cookham Rail Station,51.55746,-0.72208
+COOMBE,COE,Coombe Junction Halt (Rail Station),50.44517,-4.48139
+COPLSTN,COP,Copplestone Rail Station,50.81446,-3.75157
+CORBY,COR,Corby Rail Station,52.48885,-0.68834
+CORPACH,CPA,Corpach Rail Station,56.84283,-5.12196
+CORROUR,CRR,Corrour Rail Station,56.76021,-4.6906
+CORYTON,COY,Coryton Rail Station,51.52043,-3.23182
+COSELEY,CSY,Coseley Rail Station,52.54508,-2.08578
+COSFORD,COS,Cosford Rail Station,52.64483,-2.30027
+COSHAM,CSA,Cosham Rail Station,50.84192,-1.06733
+COTNGLY,COT,Cottingley Rail Station,53.76782,-1.58771
+COVAREN,CAA,Coventry Arena Rail Station,52.44773,-1.49412
+COVNTRY,COV,Coventry Rail Station,52.40081,-1.51346
+COWDBUS,COC,COWDEN CROSSROADS,51.15029,0.10038
+COWDEN,CWN,Cowden Rail Station,51.15564,0.11003
+CPNHRST,CPU,Capenhurst Rail Station,53.26017,-2.94228
+CRADLYH,CRA,Cradley Heath Rail Station,52.46965,-2.09049
+CRAVENA,CRV,Craven Arms Rail Station,52.44254,-2.83742
+CRAWLEY,CRW,Crawley Rail Station,51.11221,-0.18667
+CRBG,CRB,Corbridge Rail Station,54.96626,-2.0184
+CRCK,CKL,Corkickle Rail Station,54.54168,-3.58216
+CRDFAIR,XCF,CARDIFF INTERNATIONAL APT,51.39431,-3.34528
+CRDFCEN,CDF,Cardiff Central Rail Station,51.47602,-3.1793
+CREDITN,CDI,Crediton Rail Station,50.7833,-3.64678
+CRESING,CES,Cressing Rail Station,51.85234,0.57796
+CREWE,CRE,Crewe Rail Station,53.08962,-2.43297
+CRFD,CRY,Crayford Rail Station,51.44828,0.17894
+CRGDRN,CGD,Craigendoran Rail Station,55.99479,-4.71124
+CRGURE,CRU,CRAIGNURE,56.47144,-5.70828
+CRHL,CWH,Crews Hill Rail Station,51.68448,-0.10689
+CRICCTH,CCC,Criccieth Rail Station,52.91841,-4.23751
+CRKLWD,CRI,Cricklewood Rail Station,51.55845,-0.21268
+CRKRN,CKN,Crewkerne Rail Station,50.87353,-2.7785
+CRLK,CLU,Carluke Rail Station,55.73126,-3.84892
+CRLN,CTN,Charlton Rail Station,51.48681,0.03126
+CRMLNGT,CRM,Cramlington Rail Station,55.08777,-1.59859
+CRNF,CNF,Carnforth Rail Station,54.12968,-2.77123
+CRNG,CHG,Charing (Kent) Rail Station,51.2081,0.79033
+CRNLRCH,CNR,Crianlarich Rail Station,56.39047,-4.61843
+CROKSTN,CKT,Crookston Rail Station,55.84231,-4.36467
+CROMFD,CMF,Cromford Rail Station,53.11293,-1.54916
+CROSSHL,COI,Crosshill Rail Station,55.83328,-4.25681
+CROT,CSO,Croston Rail Station,53.66756,-2.77775
+CROUCHH,CRH,Crouch Hill Rail Station,51.5713,-0.11715
+CROWLE,CWE,Crowle Rail Station,53.58973,-0.81736
+CROY,CRO,Croy Rail Station,55.95568,-4.03598
+CRPHLY,CPH,Caerphilly Rail Station,51.57158,-3.21848
+CRPNDPK,CPK,Carpenders Park Rail Station,51.62835,-0.38594
+CRSHLTB,CSB,Carshalton Beeches Rail Station,51.35741,-0.1698
+CRSHLTN,CSH,Carshalton Rail Station,51.36845,-0.16637
+CRSKEYS,CKY,Crosskeys Rail Station,51.6209,-3.12617
+CRSMYLF,CMY,Crossmyloof Rail Station,55.83394,-4.28432
+CRSNGTN,CSG,Cressington Rail Station,53.35875,-2.912
+CRSTRS,CRS,Carstairs Rail Station,55.69104,-3.66847
+CRTN,CTO,Carlton Rail Station,52.96509,-1.07865
+CRTSDYK,CDY,Cartsdyke Rail Station,55.94221,-4.73159
+CRWHRST,CWU,Crowhurst Rail Station,50.88858,0.50134
+CRWLL,CWD,Creswell (Derbys) Rail Station,53.26411,-1.21639
+CRWTHRN,CRN,Crowthorne Rail Station,51.36673,-0.81927
+CRYSTLP,CYP,Crystal Palace Rail Station,51.41811,-0.07261
+CSBY,CTB,CASTLEBAY,56.95416,-7.48849
+CSEAH,IMW,Imperial Wharf Rail Station,51.47495,-0.18282
+CSFD,CFR,Chandlers Ford Rail Station,50.98368,-1.38517
+CSGT,CRG,Cross Gates Rail Station,53.80491,-1.45158
+CSTL,CAS,Castleton (Manchester) Rail Station,53.59185,-2.17823
+CSTR,CTT,Church Stretton Rail Station,52.53742,-2.80369
+CTMSLNK,CTK,City Thameslink Rail Station,51.51393,-0.10359
+CTNG,CLL,Collington Rail Station,50.83929,0.45786
+CTNM,CSM,Castleton Moor Rail Station,54.46714,-0.94665
+CTTGHM,CGM,Cottingham Rail Station,53.78165,-0.40643
+CUDNGTN,CUD,Cuddington Rail Station,53.23992,-2.59931
+CUFFLEY,CUF,Cuffley Rail Station,51.70872,-0.10978
+CULHAM,CUM,Culham Rail Station,51.65379,-1.23651
+CULRAIN,CUA,Culrain Rail Station,57.91951,-4.40427
+CUMBRAE,CUL,CUMBRAE SLIP,55.78096,-4.90372
+CUPAR,CUP,Cupar Rail Station,56.31699,-3.00876
+CURRIEH,CUH,Curriehill Rail Station,55.90056,-3.31875
+CWDNBTH,COW,Cowdenbeath Rail Station,56.11209,-3.34319
+CWMBRAN,CWM,Cwmbran Rail Station,51.65658,-3.0162
+CXTN,CUX,Cuxton Rail Station,51.37392,0.46171
+CYNGHRD,CYN,Cynghordy Rail Station,52.0515,-3.74821
+DAISYH,DSY,Daisy Hill Rail Station,53.53945,-2.51586
+DALGETY,DAG,Dalgety Bay Rail Station,56.04209,-3.36772
+DALMUIR,DMR,Dalmuir Rail Station,55.91193,-4.42668
+DALRY,DLY,Dalry Rail Station,55.70622,-4.71108
+DALS,DLJ,Dalston Junction Rail Station,51.54611,-0.07514
+DALSKLD,DLK,Dalston Kingsland Rail Station,51.54815,-0.0757
+DALSTON,DLS,Dalston (Cumbria) Rail Station,54.84617,-2.98885
+DALTON,DLT,Dalton Rail Station,54.15424,-3.179
+DALWHIN,DLW,Dalwhinnie Rail Station,56.93517,-4.2462
+DANBY,DNY,Danby Rail Station,54.46615,-0.91096
+DANESCT,DCT,Danescourt Rail Station,51.5005,-3.23392
+DANZEY,DZY,Danzey Rail Station,52.32481,-1.82088
+DARNALL,DAN,Darnall Rail Station,53.38458,-1.41257
+DARSHAM,DSM,Darsham Rail Station,52.273,1.52347
+DARTFD,DFD,Dartford Rail Station,51.44737,0.21925
+DARWEN,DWN,Darwen Rail Station,53.69803,-2.46494
+DATCHET,DAT,Datchet Rail Station,51.48308,-0.57942
+DAVNPRT,DVN,Davenport Rail Station,53.3909,-2.15296
+DAWLISH,DWL,Dawlish Rail Station,50.58082,-3.46463
+DAWLSHW,DWW,Dawlish Warren Rail Station,50.59871,-3.44356
+DAWSHLM,KVD,Kelvindale Rail Station,55.89355,-4.30957
+DEAL,DEA,Deal Rail Station,51.22304,1.39885
+DEAN,DEN,Dean Rail Station,51.04246,-1.63487
+DEGANWY,DGY,Deganwy Rail Station,53.29475,-3.83339
+DEIGHTN,DHN,Deighton Rail Station,53.66848,-1.7519
+DELAMER,DLM,Delamere Rail Station,53.22877,-2.66656
+DENHAM,DNM,Denham Rail Station,51.57884,-0.49744
+DENHMGC,DGC,Denham Golf Club Rail Station,51.5806,-0.51779
+DENMRKH,DMK,Denmark Hill Rail Station,51.4682,-0.08936
+DENT,DNT,Dent Rail Station,54.28241,-2.3636
+DEPDENE,DPD,Dorking Deepdene Rail Station,51.2388,-0.32464
+DEPTFD,DEP,Deptford Rail Station,51.47885,-0.02627
+DERBYRD,DBR,Derby Road (Ipswich) Rail Station,52.05055,1.18264
+DEVNPRT,DPT,Devonport Rail Station,50.37853,-4.17071
+DGLROAD,DGL,Dingle Road Rail Station,51.44005,-3.18059
+DGNHMDC,DDK,Dagenham Dock Rail Station,51.52609,0.1461
+DIDCOTP,DID,Didcot Parkway Rail Station,51.61095,-1.24289
+DIGBY,DIG,Digby & Sowton Rail Station,50.71399,-3.47356
+DILTONM,DMH,Dilton Marsh Rail Station,51.24899,-2.20792
+DINASP,DNS,Dinas Powys Rail Station,51.43166,-3.21835
+DINASR,DMG,Dinas (Rhondda) Rail Station,51.61783,-3.43754
+DINGWAL,DIN,Dingwall Rail Station,57.59423,-4.4222
+DINSDAL,DND,Dinsdale Rail Station,54.51473,-1.46706
+DISLEY,DSL,Disley Rail Station,53.35818,-2.04248
+DISS,DIS,Diss Rail Station,52.37366,1.1237
+DLMALLY,DAL,Dalmally Rail Station,56.40119,-4.98355
+DLMRNOK,DAK,Dalmarnock Rail Station,55.84208,-4.21771
+DLMY,DAM,Dalmeny Rail Station,55.98632,-3.38162
+DLREOCH,DLR,Dalreoch Rail Station,55.94741,-4.57786
+DLTN,DAR,Darlington Rail Station,54.52065,-1.54657
+DLTNCGT,CGT,CATTERICK GARRISON TESCO,54.37449,-1.72442
+DLTNRIM,RMK,RICHMOND (MARKET),54.40238,-1.7381
+DLWYDLN,DWD,Dolwyddelan Rail Station,53.05201,-3.88513
+DMBRTNC,DBC,Dumbarton Central Rail Station,55.94665,-4.56692
+DMBRTNE,DBE,Dumbarton East Rail Station,55.94225,-4.55414
+DNDL,DBD,Denby Dale Rail Station,53.57263,-1.66321
+DNFRMLE,DFE,Dunfermline Town Rail Station,56.06819,-3.45253
+DNFRMQM,DFL,Dunfermline Queen Margaret Rail Station,56.08057,-3.42147
+DNLP,DNL,Dunlop Rail Station,55.71188,-4.53239
+DNROBIN,DNO,Dunrobin Castle Rail Station,57.98553,-3.94892
+DNSN,DOT,Dunston Rail Station,54.95005,-1.64204
+DNSRSTP,XDY,DUNSTER STEEP,51.19293,-3.43887
+DNTG,DTG,Dinting Rail Station,53.44933,-1.9703
+DNTON,DTN,Denton Rail Station,53.45686,-2.13166
+DOCKYDP,DOC,Dockyard (Plymouth) Rail Station,50.38217,-4.1759
+DODWRTH,DOD,Dodworth Rail Station,53.54432,-1.53169
+DOLAU,DOL,Dolau Rail Station,52.29535,-3.26362
+DOLEHAM,DLH,Doleham Rail Station,50.91859,0.60997
+DOLGARG,DLG,Dolgarrog Rail Station,53.18635,-3.82264
+DONC,DON,Doncaster Rail Station,53.52215,-1.13985
+DORE,DOR,Dore & Totley Rail Station,53.32763,-1.5153
+DORIDGE,DDG,Dorridge Rail Station,52.37207,-1.7529
+DORKING,DKG,Dorking Rail Station,51.24093,-0.32425
+DORMANS,DMS,Dormans Rail Station,51.15579,-0.00431
+DOUGLAS,DGS,DOUGLAS (ISLE OF MAN),54.14809,-4.4727
+DOVERP,DVP,Dover Priory Rail Station,51.1257,1.30529
+DOVRCRT,DVC,Dovercourt Rail Station,51.93874,1.28061
+DOVYJN,DVY,Dovey Junction Rail Station,52.56436,-3.9239
+DOWNHAM,DOW,Downham Market Rail Station,52.60411,0.36568
+DRAYGRN,DRG,Drayton Green Rail Station,51.51661,-0.33019
+DRBY,DBY,Derby Rail Station,52.91655,-1.46335
+DRCHS,DCH,Dorchester South Rail Station,50.70929,-2.43724
+DRCHW,DCW,Dorchester West Rail Station,50.71095,-2.44254
+DREMJ,DRM,Drem Rail Station,56.00512,-2.78605
+DRHM,DHM,Durham Rail Station,54.77939,-1.58175
+DRIFILD,DRF,Driffield Rail Station,54.00153,-0.43466
+DRIGG,DRI,Drigg Rail Station,54.37696,-3.44341
+DRKGW,DKT,Dorking West Rail Station,51.23622,-0.33998
+DRMCHPL,DMC,Drumchapel Rail Station,55.90481,-4.36288
+DRMFCHR,DFR,Drumfrochar Rail Station,55.94125,-4.77477
+DRMGLCH,DRU,Drumgelloch Rail Station,55.86735,-3.94888
+DRNGTOS,DUR,Durrington-on-Sea Rail Station,50.81753,-0.41147
+DRONFLD,DRO,Dronfield Rail Station,53.30137,-1.46878
+DRTN,DRT,Darton Rail Station,53.58837,-1.53166
+DRTWCHS,DTW,Droitwich Spa Rail Station,52.2682,-2.15836
+DRUMRY,DMY,Drumry Rail Station,55.90459,-4.38547
+DRYP,DYP,Drayton Park Rail Station,51.55282,-0.10543
+DTNG,DNG,Dunton Green Rail Station,51.29649,0.17094
+DUBLFST,DPS,DUBLIN PORT - STENA,53.34671,-6.19863
+DUBLINF,DFP,DUBLIN FERRYPORT,53.34604,-6.22053
+DUDESTN,DUD,Duddeston Rail Station,52.48836,-1.87139
+DUDLPT,DDP,Dudley Port Rail Station,52.52465,-2.04948
+DUFIELD,DFI,Duffield Rail Station,52.9884,-1.48597
+DUIRNSH,DRN,Duirinish Rail Station,57.31997,-5.69132
+DUKEST,DST,Duke Street Rail Station,55.85843,-4.21305
+DULNGHM,DUL,Dullingham Rail Station,52.20165,0.36666
+DUMBRCK,DUM,Dumbreck Rail Station,55.84465,-4.30124
+DUMFRES,DMF,Dumfries Rail Station,55.07255,-3.6043
+DUMPTNP,DMP,Dumpton Park Rail Station,51.3457,1.42582
+DUNANE,DBL,Dunblane Rail Station,56.18589,-3.96549
+DUNBAR,DUN,Dunbar Rail Station,55.99829,-2.51335
+DUNCRAG,DCG,Duncraig Rail Station,57.337,-5.63713
+DUNDETB,DEE,Dundee Rail Station,56.45648,-2.9712
+DUNKELD,DKD,Dunkeld & Birnam Rail Station,56.55706,-3.5784
+DUNOON,DUO,DUNOON,55.94678,-4.92414
+DUNS,DUU,DUNS,55.77705,-2.34272
+DURSLEY,CDU,Cam & Dursley Rail Station,51.71762,-2.35908
+DVHL,DVH,Dove Holes Rail Station,53.30003,-1.88975
+DWBY,DEW,Dewsbury Rail Station,53.69213,-1.63311
+DYCE,DYC,Dyce Rail Station,57.20565,-2.19232
+DYFRYNA,DYF,Dyffryn Ardudwy Rail Station,52.78885,-4.10464
+EALINGB,EAL,Ealing Broadway Rail Station,51.51484,-0.30175
+EARLSWD,ELD,Earlswood (Surrey) Rail Station,51.22733,-0.17082
+EASTBRK,EBK,Eastbrook Rail Station,51.43763,-3.20614
+EASTHAM,ZEH,EAST HAM LT,51.53877,0.05044
+EBOLDON,EBL,East Boldon Rail Station,54.94621,-1.42035
+EBOURNE,EBN,Eastbourne Rail Station,50.76938,0.28125
+EBSFDOM,EBD,Ebbsfleet International Rail Station,51.44297,0.32092
+EBWVPWY,EBV,Ebbw Vale Parkway Rail Station,51.75714,-3.1961
+EBWVTN,EBB,Ebbw Vale Town Rail Station,51.77669,-3.20258
+ECCLES,ECC,Eccles Rail Station,53.48536,-2.33451
+ECLR,ECS,Eccles Road Rail Station,52.47088,0.96992
+ECPK,ECL,Eccleston Park Rail Station,53.43078,-2.78004
+ECROYDN,ECR,East Croydon Rail Station,51.37545,-0.09278
+EDALE,EDL,Edale Rail Station,53.36497,-1.81663
+EDGH,EDG,Edge Hill Rail Station,53.40261,-2.94648
+EDIDBRY,EDY,East Didsbury Rail Station,53.40931,-2.222
+EDINAIR,EDA,EDINBURGH AIRPORT,55.94701,-3.361
+EDINBUR,EDB,Edinburgh Rail Station,55.95186,-3.18816
+EDINGWY,EGY,Edinburgh Gateway Rail Station,55.94094,-3.32025
+EDINPRK,EDP,Edinburgh Park Rail Station,55.92755,-3.30766
+EDMNGRN,EDR,Edmonton Green Rail Station,51.62493,-0.06111
+EDNB,EBR,Edenbridge Rail Station,51.20843,0.06065
+EDNT,EBT,Edenbridge Town Rail Station,51.20008,0.06717
+EDPK,EDN,Eden Park Rail Station,51.39009,-0.02636
+EDULWCH,EDW,East Dulwich Rail Station,51.46149,-0.08057
+EFARLGH,EFL,East Farleigh Rail Station,51.25524,0.48473
+EFNGHMJ,EFF,Effingham Junction Rail Station,51.29149,-0.41997
+EGGESFD,EGG,Eggesford Rail Station,50.88774,-3.87475
+EGHAM,EGH,Egham Rail Station,51.42965,-0.54651
+EGLSCLF,EAG,Eaglescliffe Rail Station,54.52943,-1.34944
+EGRFRTH,EGF,East Garforth Rail Station,53.79198,-1.37054
+EGRNSTD,EGR,East Grinstead Rail Station,51.12627,-0.0179
+EGTON,EGT,Egton Rail Station,54.43748,-0.76146
+EKILBRD,EKL,East Kilbride Rail Station,55.766,-4.18023
+ELCT,ZET,EARLS COURT L.T.,51.49135,-0.19434
+ELGH,ESL,Eastleigh Rail Station,50.96925,-1.35008
+ELGIN,ELG,Elgin Rail Station,57.64291,-3.31125
+ELMERSE,ELE,Elmers End Rail Station,51.398,-0.04968
+ELMSWEL,ESW,Elmswell Rail Station,52.23804,0.91259
+ELMW,ESD,Elmstead Woods Rail Station,51.41712,0.04427
+ELPHNAC,EPH,Elephant & Castle Rail Station,51.49403,-0.09873
+ELSC,ELR,Elsecar Rail Station,53.49866,-1.42742
+ELSENHM,ESM,Elsenham Rail Station,51.92054,0.22807
+ELSMPRT,ELP,Ellesmere Port Rail Station,53.28219,-2.89642
+ELSN,EAS,EARLSTON,55.63817,-2.67987
+ELTHAM,ELW,Eltham Rail Station,51.45564,0.05247
+ELTON,ELO,Elton & Orston Rail Station,52.95213,-0.85551
+ELTR,ELS,Elstree & Borehamwood Rail Station,51.65307,-0.28008
+ELWD,EWD,Earlswood (West Midlands) Rail Station,52.36658,-1.86117
+ELYY,ELY,Ely Rail Station,52.39123,0.26683
+EMALING,EML,East Malling Rail Station,51.28581,0.43928
+EMPKAIR,EMA,EAST MIDLANDS AIRPORT (BUS,52.82783,-1.32912
+EMPKWAY,EMD,East Midlands Parkway Rail Station,52.8625,-1.26323
+EMRSPKH,EMP,Emerson Park Rail Station,51.56864,0.22011
+EMSWTH,EMS,Emsworth Rail Station,50.85161,-0.93843
+ENFC,ENC,Enfield Chase Rail Station,51.65325,-0.0907
+ENFLDLK,ENL,Enfield Lock Rail Station,51.67092,-0.02853
+ENFLDTN,ENF,Enfield Town Rail Station,51.65202,-0.07933
+ENTWISL,ENT,Entwistle Rail Station,53.65597,-2.41454
+EPSDNS,EPD,Epsom Downs Rail Station,51.32369,-0.23895
+EPSM,EPS,Epsom Rail Station,51.33439,-0.26878
+ERDNGTN,ERD,Erdington Rail Station,52.52828,-1.83951
+ERGNCHP,ECP,Energlyn & Churchill Park Rail Station,51.58321,-3.2288
+ERIDBUS,ERB,ERIDGE (A26 BUS STOP),51.08729,0.20034
+ERIDGE,ERI,Eridge Rail Station,51.08896,0.20143
+ERITH,ERH,Erith Rail Station,51.48167,0.17505
+ERLFLD,EAD,Earlsfield Rail Station,51.44234,-0.18771
+ERLSTWN,ERL,Earlestown Rail Station,53.45114,-2.63766
+ERLY,EAR,Earley Rail Station,51.4411,-0.91799
+ESHER,ESH,Esher Rail Station,51.37989,-0.35334
+ESHS,EST,Easterhouse Rail Station,55.85975,-4.10718
+ESKBANK,EKB,Eskbank Rail Station,55.8818,-3.08307
+ESSEXRD,EXR,Essex Road Rail Station,51.5407,-0.09628
+ESTFLDS,MTC,Mitcham Eastfields Rail Station,51.40774,-0.15465
+ESTHRAK,ERA,Eastham Rake Rail Station,53.30754,-2.98113
+ESTRNGT,EGN,Eastrington Rail Station,53.75516,-0.78763
+ETCHNGM,ETC,Etchingham Rail Station,51.01054,0.44236
+ETILBRY,ETL,East Tilbury Rail Station,51.48483,0.41293
+EUSTON,EUS,London Euston Rail Station,51.52846,-0.13496
+EUXT,EBA,Euxton Balshaw Lane Rail Station,53.65983,-2.67165
+EVESHAM,EVE,Evesham Rail Station,52.0984,-1.94731
+EWELLE,EWE,Ewell East Rail Station,51.3453,-0.24153
+EWELW,EWW,Ewell West Rail Station,51.35004,-0.25699
+EWRTHNG,EWR,East Worthing Rail Station,50.82164,-0.35489
+EXETERC,EXC,Exeter Central Rail Station,50.72648,-3.53328
+EXETRSD,EXD,Exeter St Davids Rail Station,50.72927,-3.54329
+EXETRST,EXT,Exeter St Thomas Rail Station,50.71715,-3.53884
+EXHIBTC,EXG,Exhibition Centre (Glasgow) Rail Station,55.86155,-4.28359
+EXMOUTH,EXM,Exmouth Rail Station,50.62163,-3.41497
+EXTON,EXN,Exton Rail Station,50.6683,-3.4441
+EYNSFD,EYN,Eynsford Rail Station,51.36272,0.20439
+FAIRLIE,FRL,Fairlie Rail Station,55.75194,-4.85327
+FALCNWD,FCN,Falconwood Rail Station,51.45915,0.0793
+FALKRKG,FKG,Falkirk Grahamston Rail Station,56.00261,-3.78505
+FALKRKH,FKK,Falkirk High Rail Station,55.99181,-3.79224
+FALMTHD,FAL,Falmouth Docks Rail Station,50.15071,-5.05603
+FALMTHT,FMT,Falmouth Town Rail Station,50.14834,-5.06493
+FAMBDGE,NFA,North Fambridge Rail Station,51.64858,0.68166
+FAMR,FMR,Falmer Rail Station,50.86213,-0.08739
+FAREHAM,FRM,Fareham Rail Station,50.85303,-1.19204
+FARNHAM,FNH,Farnham Rail Station,51.2119,-0.79243
+FAULDHS,FLD,Fauldhouse Rail Station,55.82247,-3.71932
+FAVRSHM,FAV,Faversham Rail Station,51.31171,0.89104
+FAYGATE,FGT,Faygate Rail Station,51.09589,-0.26302
+FAZKRLY,FAZ,Fazakerley Rail Station,53.46908,-2.93672
+FEARN,FRN,Fearn Rail Station,57.77814,-3.99394
+FELL,FEG,FELLGATE,54.95739,-1.48519
+FELTHAM,FEL,Feltham Rail Station,51.4479,-0.40984
+FENCHRS,FST,London Fenchurch Street Rail Station,51.51147,-0.07801
+FENITON,FNT,Feniton Rail Station,50.78668,-3.28542
+FERNHIL,FER,Fernhill Rail Station,51.68649,-3.39588
+FERRIBY,FRY,Ferriby Rail Station,53.71715,-0.50783
+FFAIRFC,FFA,Ffairfach Rail Station,51.87247,-3.99286
+FGDHBR,FGH,Fishguard Harbour Rail Station,52.01073,-4.98634
+FGDHGWK,FGW,Fishguard & Goodwick Rail Station,52.00411,-4.99484
+FILEY,FIL,Filey Rail Station,54.20986,-0.29385
+FILTNEW,FIT,Filton Abbey Wood Rail Station,51.50494,-2.56243
+FINSTCK,FIN,Finstock Rail Station,51.85278,-1.46934
+FISKRTN,FSK,Fiskerton Rail Station,53.06027,-0.91219
+FITZWLM,FZW,Fitzwilliam Rail Station,53.6325,-1.37427
+FIVEWYS,FWY,Five Ways Rail Station,52.47109,-1.91295
+FLEET,FLE,Fleet Rail Station,51.29063,-0.83081
+FLIMBY,FLM,Flimby Rail Station,54.68969,-3.52074
+FLINT,FLN,Flint Rail Station,53.24975,-3.13251
+FLITWCK,FLT,Flitwick Rail Station,52.00364,-0.49526
+FLIXTON,FLI,Flixton Rail Station,53.44381,-2.38425
+FLKSTNC,FKC,Folkestone Central Rail Station,51.08289,1.16948
+FLKSTNW,FKW,Folkestone West Rail Station,51.08458,1.1539
+FLSCRHN,FOC,Falls of Cruachan Rail Station,56.39388,-5.11248
+FLWRYFD,FLF,Flowery Field Rail Station,53.46185,-2.08105
+FLXSTOW,FLX,Felixstowe Rail Station,51.96707,1.35044
+FNCHLYR,FNY,Finchley Road & Frognal Rail Station,51.55026,-0.18314
+FNPK,FPK,Finsbury Park Rail Station,51.56433,-0.10658
+FORD,FOD,Ford Rail Station,50.82939,-0.57841
+FORESTH,FOH,Forest Hill Rail Station,51.43928,-0.05316
+FORMBY,FBY,Formby Rail Station,53.55348,-3.07091
+FORRES,FOR,Forres Rail Station,57.61118,-3.62487
+FORSNRD,FRS,Forsinard Rail Station,58.3569,-3.89688
+FOUROKS,FOK,Four Oaks Rail Station,52.57978,-1.82803
+FOXFILD,FOX,Foxfield Rail Station,54.25867,-3.21606
+FOXTON,FXN,Foxton Rail Station,52.11921,0.05631
+FRANT,FRT,Frant Rail Station,51.10403,0.29454
+FRATGSA,FTN,FRATTON GOLDSMITH AVENUE,50.79571,-1.07339
+FRATTON,FTN,Fratton Rail Station,50.79634,-1.07398
+FRBN,FRB,Fairbourne Rail Station,52.69604,-4.04941
+FRBRMN,FNB,Farnborough (Main) Rail Station,51.2966,-0.75573
+FRBRNTH,FNN,Farnborough North Rail Station,51.30204,-0.74303
+FRDSHM,FRD,Frodsham Rail Station,53.29581,-2.72357
+FRESHFD,FFD,Freshford Rail Station,51.34203,-2.30101
+FRESVIL,FFD,FRESHFORD VILLAGE,51.3423,-2.30144
+FRFD,FRF,Fairfield Rail Station,53.47129,-2.14577
+FRIMLEY,FML,Frimley Rail Station,51.31186,-0.74699
+FRINTON,FRI,Frinton-on-Sea Rail Station,51.83768,1.24317
+FRNCMB,FNC,Farncombe Rail Station,51.19715,-0.60455
+FRNDNLT,ZFD,Farringdon (London) Rail Station,51.52017,-0.1052
+FRNNGRD,FNR,Farningham Road Rail Station,51.40166,0.23545
+FRNW,FNW,Farnworth Rail Station,53.55,-2.38785
+FROME,FRO,Frome Rail Station,51.22727,-2.31
+FRSHFLD,FRE,Freshfield Rail Station,53.56605,-3.07183
+FRSTGT,FOG,Forest Gate Rail Station,51.54943,0.02435
+FRSTGTJ,FOG,FOREST GATE JN,51.55003,0.02354
+FRTMTLD,FTM,Fort Matilda Rail Station,55.95903,-4.79527
+FRTWLM,FTW,Fort William Rail Station,56.82044,-5.10614
+FRWATER,FRW,Fairwater Rail Station,51.4939,-3.23384
+FRZNGHL,FZH,Frizinghall Rail Station,53.82037,-1.769
+FSHBBUS,FSB,FISHBOURNE (A259),50.83941,-0.8155
+FSHBORN,FSB,Fishbourne Rail Station,50.83905,-0.81508
+FSHRSGT,FSG,Fishersgate Rail Station,50.83423,-0.21942
+FSTR,FEN,Fenny Stratford Rail Station,52.00007,-0.716
+FTHRSTN,FEA,Featherstone Rail Station,53.67906,-1.35844
+FULWELL,FLW,Fulwell Rail Station,51.43393,-0.34947
+FURNESV,FNV,Furness Vale Rail Station,53.34875,-1.98884
+FURZEP,FZP,Furze Platt Rail Station,51.53302,-0.72847
+FYSD,FYS,Ferryside Rail Station,51.76837,-4.36946
+GALASLS,GAL,Galashiels Rail Station,55.6178,-2.80547
+GALTILL,SGB,Smethwick Galton Bridge Rail Station,52.50227,-1.98075
+GALTINT,SGB,Smethwick Galton Bridge High Level Rail Station,52.50201,-1.98066
+GARFRTH,GRF,Garforth Rail Station,53.79658,-1.38231
+GARROWH,GAR,Garrowhill Rail Station,55.85524,-4.12946
+GARSDLE,GSD,Garsdale Rail Station,54.32143,-2.32635
+GARTH,GTH,Garth (Powys) Rail Station,52.13323,-3.52991
+GARVE,GVE,Garve Rail Station,57.61304,-4.68839
+GARW,GSW,Garswood Rail Station,53.48852,-2.67213
+GATHRST,GST,Gathurst Rail Station,53.5594,-2.69439
+GATLEY,GTY,Gatley Rail Station,53.3929,-2.23123
+GBGHLRD,GBL,Gainsborough Lea Road Rail Station,53.38609,-0.76858
+GBNK,GBK,Greenbank Rail Station,53.25146,-2.53427
+GBROC,GNB,Gainsborough Central Rail Station,53.39958,-0.76969
+GDLMING,GOD,Godalming Rail Station,51.18658,-0.61886
+GERRDSX,GER,Gerrards Cross Rail Station,51.58902,-0.55528
+GFLD,GNF,Greenfield Rail Station,53.53886,-2.01384
+GFORD,GFD,Greenford Rail Station,51.54233,-0.34584
+GGLSWCK,GIG,Giggleswick Rail Station,54.0618,-2.30285
+GIDB,GUI,Guide Bridge Rail Station,53.47463,-2.11371
+GIDEAPK,GDP,Gidea Park Rail Station,51.5819,0.20596
+GIFNOCK,GFN,Giffnock Rail Station,55.80399,-4.29301
+GIPSYH,GIP,Gipsy Hill Rail Station,51.42445,-0.08384
+GIRVAN,GIR,Girvan Rail Station,55.24631,-4.84838
+GLAISDL,GLS,Glaisdale Rail Station,54.43938,-0.79379
+GLASHTN,GLH,Glasshoughton Rail Station,53.70904,-1.34201
+GLAZBRK,GLZ,Glazebrook Rail Station,53.42836,-2.45966
+GLBRDYK,GBD,Gilberdyke Rail Station,53.74796,-0.73224
+GLDTHRP,GOE,Goldthorpe Rail Station,53.53419,-1.31281
+GLFCHFR,GFF,Gilfach Fargoed Rail Station,51.68425,-3.22657
+GLGC,GLC,Glasgow Central Rail Station,55.8597,-4.25804
+GLGCLL,GLC,Glasgow Central Low Level Rail Station,55.85855,-4.25852
+GLGHST,HST,High Street (Glasgow) Rail Station,55.85956,-4.24012
+GLGN,GLG,Glengarnock Rail Station,55.73889,-4.6745
+GLGQHL,GLQ,Glasgow Queen Street Rail Station,55.86219,-4.25146
+GLGQLL,GLQ,Glasgow Queen Street Low Level Rail Station,55.86235,-4.25065
+GLHM,GIL,Gillingham (Dorset) Rail Station,51.03403,-2.27262
+GLNCNWY,GCW,Glan Conwy Rail Station,53.26742,-3.79773
+GLNEGLS,GLE,Gleneagles Rail Station,56.27485,-3.73117
+GLNFNNN,GLF,Glenfinnan Rail Station,56.8724,-5.44962
+GLNGHMK,GLM,Gillingham (Kent) Rail Station,51.38656,0.54985
+GLNRTHS,GLT,Glenrothes with Thornton Rail Station,56.16236,-3.14302
+GLOSTER,GCR,Gloucester Rail Station,51.86556,-2.23849
+GLSP,GLO,Glossop Rail Station,53.44447,-1.94907
+GLYNDE,GLY,Glynde Rail Station,50.85917,0.07008
+GNHT,GNH,Greenhithe for Bluewater Rail Station,51.45037,0.28029
+GNLN,GNL,Green Lane Rail Station,53.38325,-3.01641
+GNRSBRY,GUN,Gunnersbury Rail Station,51.4917,-0.2753
+GNTN,GTN,Grangetown (Cardiff) Rail Station,51.46761,-3.18972
+GNWH,GNW,Greenwich Rail Station,51.47822,-0.01426
+GOBOWEN,GOB,Gobowen Rail Station,52.89351,-3.03717
+GODLY,GDL,Godley Rail Station,53.4517,-2.05477
+GODMAYS,GMY,Goodmayes Rail Station,51.56558,0.11081
+GODSTON,GDN,Godstone Rail Station,51.21816,-0.05008
+GOLFSTR,GOF,Golf Street Rail Station,56.49779,-2.71954
+GOLSPIE,GOL,Golspie Rail Station,57.97146,-3.98721
+GOMSHAL,GOM,Gomshall Rail Station,51.2194,-0.44185
+GOOLE,GOO,Goole Rail Station,53.70491,-0.87421
+GOOSTRY,GTR,Goostrey Rail Station,53.22255,-2.32647
+GORASTR,GOR,Goring & Streatley Rail Station,51.52149,-1.13305
+GORDONH,GDH,Gordon Hill Rail Station,51.66333,-0.09461
+GOREBRG,GBG,Gorebridge Rail Station,55.84027,-3.04652
+GORNGBS,GBS,Goring-by-Sea Rail Station,50.81772,-0.43308
+GORTON,GTO,Gorton Rail Station,53.46907,-2.16621
+GOSPLOK,GPO,Gospel Oak Rail Station,51.55533,-0.15077
+GOUROCK,GRK,Gourock Rail Station,55.96232,-4.81666
+GOURPIE,GXX,GOUROCK PIER,55.95994,-4.81433
+GOVS,GOS,Grange-over-Sands Rail Station,54.19572,-2.90275
+GOWERTN,GWN,Gowerton Rail Station,51.64872,-4.03593
+GOXHILL,GOX,Goxhill Rail Station,53.6767,-0.33712
+GRATELY,GRT,Grateley Rail Station,51.17006,-1.62077
+GRAVLYH,GVH,Gravelly Hill Rail Station,52.51499,-1.8526
+GRAYS,GRY,Grays Rail Station,51.47625,0.32183
+GREENRD,GNR,Green Road Rail Station,54.24452,-3.24557
+GRENCKC,GKC,Greenock Central Rail Station,55.94534,-4.75263
+GRENCKW,GKW,Greenock West Rail Station,55.94733,-4.76783
+GRETGRN,GEA,Gretna Green Rail Station,55.00105,-3.0652
+GRGMASJ,GGJ,Georgemas Junction Rail Station,58.51362,-3.45212
+GRGRAVE,GGV,Gargrave Rail Station,53.97841,-2.10517
+GRLCHHD,GCH,Garelochhead Rail Station,56.07986,-4.82572
+GRMSBYD,GMD,Grimsby Docks Rail Station,53.57432,-0.07562
+GRMSBYT,GMB,Grimsby Town Rail Station,53.56343,-0.08698
+GRNDLFD,GRN,Grindleford Rail Station,53.30556,-1.6263
+GRNFLDS,GRL,Greenfaulds Rail Station,55.93523,-3.9931
+GROSMNT,GMT,Grosmont Rail Station,54.43611,-0.72497
+GRPK,GPK,Grange Park Rail Station,51.64261,-0.09736
+GRSTH,GSN,Garston (Herts) Rail Station,51.68661,-0.38174
+GRTCSH,GRH,Gartcosh Rail Station,55.88566,-4.07949
+GRTHMG,GMG,Garth (Bridgend) Rail Station,51.59645,-3.64145
+GRVPK,GRP,Grove Park Rail Station,51.43086,0.02173
+GRVSEND,GRV,Gravesend Rail Station,51.44135,0.36664
+GSCD,GRS,Garscadden Rail Station,55.88769,-4.365
+GTAYTON,GTA,Great Ayton Rail Station,54.48957,-1.11535
+GTBNTLY,GRB,Great Bentley Rail Station,51.85176,1.06515
+GTCHSFD,GRC,Great Chesterford Rail Station,52.05981,0.19352
+GTCOATS,GCT,Great Coates Rail Station,53.57575,-0.13023
+GTHM,GRA,Grantham Rail Station,52.90647,-0.64245
+GTMLVRN,GMV,Great Malvern Rail Station,52.1092,-2.31827
+GTMSNDN,GMN,Great Missenden Rail Station,51.70352,-0.70914
+GTSHDMC,MCE,Metrocentre Rail Station,54.95875,-1.66563
+GTWK,GTW,Gatwick Airport Rail Station,51.15649,-0.16104
+GUILDFD,GLD,Guildford Rail Station,51.23684,-0.58094
+GUISELY,GSY,Guiseley Rail Station,53.87593,-1.71508
+GUNISLK,GSL,Gunnislake Rail Station,50.51608,-4.21941
+GUNTON,GNT,Gunton Rail Station,52.86634,1.34912
+GWRSYLT,GWE,Gwersyllt Rail Station,53.07257,-3.01789
+GYPSYLA,GYP,Gypsy Lane Rail Station,54.53289,-1.17939
+HABRO,HAB,Habrough Rail Station,53.60607,-0.26946
+HACKNYC,HKC,Hackney Central Rail Station,51.5471,-0.05606
+HACKNYW,HKW,Hackney Wick Rail Station,51.54341,-0.02492
+HADFILD,HDF,Hadfield Rail Station,53.46074,-1.96532
+HADISCO,HAD,Haddiscoe Rail Station,52.52879,1.62301
+HADLYWD,HDW,Hadley Wood Rail Station,51.6685,-0.17617
+HADMATP,HDM,Haddenham & Thame Parkway Rail Station,51.77085,-0.94214
+HAGFOLD,HGF,Hag Fold Rail Station,53.53385,-2.49482
+HAGGERS,HGG,Haggerston Rail Station,51.5387,-0.07567
+HAGLEY,HAG,Hagley Rail Station,52.42249,-2.14642
+HAGT,HGT,Harrogate Rail Station,53.99318,-1.53761
+HAKNYNM,HAC,Hackney Downs Rail Station,51.54876,-0.06082
+HALE,HAL,Hale Rail Station,53.37872,-2.34736
+HALG,HAI,Halling Rail Station,51.35248,0.44493
+HALLRD,HLR,Hall Road Rail Station,53.49748,-3.04963
+HALSWTH,HAS,Halesworth Rail Station,52.34681,1.50567
+HALW,HED,Halewood Rail Station,53.36448,-2.83013
+HAMERTN,HMM,Hammerton Rail Station,53.99633,-1.2841
+HAMLTNC,HNC,Hamilton Central Rail Station,55.77319,-4.03888
+HAMLTNW,HNW,Hamilton West Rail Station,55.77886,-4.05481
+HAMPTON,HMP,Hampton (London) Rail Station,51.41593,-0.37212
+HAMSTED,HSD,Hamstead (Birmingham) Rail Station,52.53107,-1.92898
+HAMTSQ,BKQ,Birkenhead Hamilton Square Rail Station,53.39469,-3.01368
+HAMWICK,HMW,Hampton Wick Rail Station,51.4144,-0.31251
+HANDBRO,HND,Hanborough Rail Station,51.82516,-1.37353
+HANWELL,HAN,Hanwell Rail Station,51.51183,-0.33858
+HAPTON,HPN,Hapton Rail Station,53.78161,-2.31691
+HARLSDN,HDN,Harlesden Rail Station,51.53625,-0.25771
+HARMYRS,HMY,Hairmyres Rail Station,55.76196,-4.22001
+HAROOTH,HOH,Harrow-on-the-Hill Rail Station,51.57917,-0.33594
+HARTFD,HTF,Hartford Rail Station,53.24176,-2.55363
+HARWICH,HWC,Harwich Town Rail Station,51.94414,1.28668
+HASLEMR,HSL,Haslemere Rail Station,51.08865,-0.71916
+HASOCKS,HSK,Hassocks Rail Station,50.92461,-0.14595
+HASTING,HGS,Hastings Rail Station,50.85789,0.57674
+HATFILD,HAT,Hatfield (Herts) Rail Station,51.76388,-0.21559
+HATHRSG,HSG,Hathersage Rail Station,53.32577,-1.65172
+HATRSLY,HTY,Hattersley Rail Station,53.44528,-2.04031
+HATTON,HTN,Hatton (Warks) Rail Station,52.29528,-1.67298
+HAVANT,HAV,Havant Rail Station,50.85443,-0.98161
+HAVENHS,HVN,Havenhouse Rail Station,53.11447,0.27317
+HAVRFDW,HVF,Haverfordwest Rail Station,51.80263,-4.9602
+HAWARDN,HWD,Hawarden Rail Station,53.18536,-3.03208
+HAWDNBG,HWB,Hawarden Bridge Rail Station,53.21807,-3.03272
+HAYESAH,HAY,Hayes & Harlington Rail Station,51.50309,-0.42068
+HAYLE,HYL,Hayle Rail Station,50.18556,-5.41984
+HAYMRKT,HYM,Haymarket Rail Station,55.94532,-3.21831
+HAYS,HYS,Hayes (Kent) Rail Station,51.37646,0.01015
+HAZL,HAZ,Hazel Grove Rail Station,53.37754,-2.12202
+HBDNBDG,HBD,Hebden Bridge Rail Station,53.73759,-2.00906
+HBRN,HBN,Hollingbourne Rail Station,51.26518,0.62785
+HBROOMS,HIB,High Brooms Rail Station,51.1494,0.27733
+HBRTBDG,HBB,Hubberts Bridge Rail Station,52.97535,-0.11053
+HBRY,HBY,Hartlebury Rail Station,52.33449,-2.22112
+HCHP,HCH,Holmes Chapel Rail Station,53.19893,-2.35114
+HCKNGTN,HEC,Heckington Rail Station,52.97732,-0.29394
+HCRT,HMC,Hampton Court Rail Station,51.40255,-0.34275
+HDNS,HNF,Hednesford Rail Station,52.71011,-2.00178
+HDON,HEN,Hendon Rail Station,51.58007,-0.23867
+HDRSFLD,HUD,Huddersfield Rail Station,53.6485,-1.78469
+HEADCRN,HCN,Headcorn Rail Station,51.16571,0.62748
+HEALING,HLI,Healing Rail Station,53.5818,-0.16063
+HEATHHL,HHL,Heath High Level Rail Station,51.51643,-3.18154
+HEATHLL,HLL,Heath Low Level Rail Station,51.51566,-3.18197
+HEDGEND,HDE,Hedge End Rail Station,50.93232,-1.2945
+HEDNGLY,HDY,Headingley Rail Station,53.81797,-1.59419
+HEDSTNL,HDL,Headstone Lane Rail Station,51.60265,-0.35722
+HELIFLD,HLD,Hellifield Rail Station,54.01086,-2.22784
+HELMSDL,HMS,Helmsdale Rail Station,58.11744,-3.65869
+HELSBY,HSB,Helsby Rail Station,53.2752,-2.77121
+HEMLHMP,HML,Hemel Hempstead Rail Station,51.74233,-0.49077
+HENGOED,HNG,Hengoed Rail Station,51.64699,-3.22553
+HENLYIA,HNL,Henley-in-Arden Rail Station,52.29149,-1.78399
+HENSALL,HEL,Hensall Rail Station,53.69854,-1.11452
+HEREFRD,HFD,Hereford Rail Station,52.06116,-2.70821
+HERNEH,HNH,Herne Hill Rail Station,51.4533,-0.10229
+HERSHAM,HER,Hersham Rail Station,51.37681,-0.38996
+HERTFDE,HFE,Hertford East Rail Station,51.79903,-0.07294
+HESSLE,HES,Hessle Rail Station,53.71744,-0.44182
+HESWALL,HSW,Heswall Rail Station,53.32972,-3.0737
+HEVEBUS,HBF,HEVER (BROCAS FARM),51.18536,0.10054
+HEVER,HEV,Hever Rail Station,51.18141,0.09507
+HEWOMTR,HEW,HEWORTH (METRO),54.95158,-1.55574
+HEWORTH,HEW,Heworth Rail Station,54.95167,-1.55675
+HEXHAM,HEX,Hexham Rail Station,54.97346,-2.09479
+HEYFORD,HYD,Heyford Rail Station,51.91919,-1.29927
+HEYMST,HHB,Heysham Port Rail Station,54.03314,-2.91311
+HEYSHBR,HHB,HEYSHAM HARBOUR,54.0325,-2.91447
+HFDN,HFN,Hertford North Rail Station,51.79886,-0.09179
+HFLPEVL,HAP,Hatfield Peverel Rail Station,51.77986,0.59212
+HGHBRDG,HIG,Highbridge & Burnham-on-Sea Rail Station,51.21816,-2.97215
+HGHI,HHY,Highbury & Islington Rail Station,51.54618,-0.10376
+HGHMSPK,HIP,Highams Park Rail Station,51.60835,-0.00022
+HGHNGTN,HEI,Heighington Rail Station,54.59696,-1.58177
+HIGHBYA,HHY,Highbury & Islington Rail Station,51.54609,-0.10377
+HIGHBYE,HHY,HIGHBURY AND ISLINGTON ELL,51.54586,-0.10356
+HIGM,HGM,Higham Rail Station,51.42656,0.46628
+HILLSID,HIL,Hillside Rail Station,53.6221,-3.02472
+HILSEA,HLS,Hilsea Rail Station,50.82827,-1.0588
+HINCKLY,HNK,Hinckley Rail Station,52.535,-1.37192
+HINDLEY,HIN,Hindley Rail Station,53.54224,-2.5755
+HINTONA,HNA,Hinton Admiral Rail Station,50.75264,-1.71413
+HITCHIN,HIT,Hitchin Rail Station,51.95328,-0.26348
+HITN,HTO,Hightown Rail Station,53.5251,-3.05707
+HITW,HID,Hall i' th' Wood Rail Station,53.59742,-2.41311
+HKBG,HCB,Hackbridge Rail Station,51.37787,-0.15391
+HLDG,HDG,Heald Green Rail Station,53.36941,-2.23667
+HLDNBRO,HLB,Hildenborough Rail Station,51.21448,0.22759
+HLFT,HLF,Hillfoot Rail Station,55.92009,-4.32027
+HLFX,HFX,Halifax Rail Station,53.72096,-1.85357
+HLGN,HLG,Hall Green Rail Station,52.43691,-1.84565
+HLMW,HLM,Holmwood Rail Station,51.18119,-0.32081
+HLNGTNE,HLE,Hillington East Rail Station,55.85418,-4.35501
+HLNGTNW,HLW,Hillington West Rail Station,55.85602,-4.37158
+HLNSBRC,HLC,Helensburgh Central Rail Station,56.00421,-4.73276
+HLNSBRU,HLU,Helensburgh Upper Rail Station,56.01236,-4.7298
+HLTWHST,HWH,Haltwhistle Rail Station,54.96785,-2.46356
+HLYH,HHD,Holyhead Rail Station,53.30768,-4.631
+HMBLE,HME,Hamble Rail Station,50.87137,-1.32916
+HMPDNPK,HMD,Hampden Park (Sussex) Rail Station,50.7964,0.27936
+HMPHRYP,HUP,Humphrey Park Rail Station,53.45223,-2.32754
+HMPSTDH,HDH,Hampstead Heath Rail Station,51.55521,-0.16571
+HMPTNIA,HIA,Hampton-in-Arden Rail Station,52.42903,-1.69993
+HMST,HMT,Ham Street Rail Station,51.06838,0.85451
+HMWTHY,HAM,Hamworthy Rail Station,50.72519,-2.01936
+HNCHLYW,HYW,Hinchley Wood Rail Station,51.375,-0.34052
+HNDFRTH,HTH,Handforth Rail Station,53.34649,-2.21363
+HNDSHWT,THW,The Hawthorns Rail Station,52.50537,-1.96401
+HNGT,HRR,Harrington Rail Station,54.61348,-3.56551
+HNLYOT,HOT,Henley-on-Thames Rail Station,51.53418,-0.90021
+HNSTNTN,HUS,HUNSTANTON BUS STATION,52.93676,0.48648
+HNTL,HNT,Huntly Rail Station,57.44449,-2.77574
+HNTNGDN,HUN,Huntingdon Rail Station,52.32865,-0.19207
+HOCKLEY,HOC,Hockley Rail Station,51.60355,0.659
+HOEKVHL,HVH,HOEK VAN HOLLAND,51.9978,4.12617
+HOLSCHR,XEE,HOLSWORTHY CHURCH,50.81096,-4.3522
+HOLSLIB,XEE,HOLSWORTHY LIBRARY,50.81081,-4.35281
+HOLTONH,HOL,Holton Heath Rail Station,50.71141,-2.07784
+HOLYTWN,HLY,Holytown Rail Station,55.8129,-3.97393
+HOMRTON,HMN,Homerton Rail Station,51.54701,-0.04236
+HONITON,HON,Honiton Rail Station,50.79658,-3.18672
+HONLEY,HOY,Honley Rail Station,53.60823,-1.78097
+HONROPK,HPA,Honor Oak Park Rail Station,51.44999,-0.04551
+HONYBRN,HYB,Honeybourne Rail Station,52.1016,-1.83374
+HOOK,HOK,Hook Rail Station,51.28,-0.96164
+HOOTON,HOO,Hooton Rail Station,53.2972,-2.97701
+HOPC,HPE,Hope (Flintshire) Rail Station,53.11736,-3.03688
+HOPD,HOP,Hope (Derbyshire) Rail Station,53.34611,-1.72989
+HOPTONH,HPT,Hopton Heath Rail Station,52.39141,-2.91206
+HORLEY,HOR,Horley Rail Station,51.16877,-0.16105
+HORSHAM,HRH,Horsham Rail Station,51.06606,-0.31927
+HORWICH,HWI,Horwich Parkway Rail Station,53.5781,-2.53967
+HOSCAR,HSC,Hoscar Rail Station,53.59777,-2.80442
+HOUGHGR,HGN,Hough Green Rail Station,53.37239,-2.77507
+HOUNSLW,HOU,Hounslow Rail Station,51.46194,-0.36228
+HOVE,HOV,Hove Rail Station,50.83521,-0.17069
+HOWDEN,HOW,Howden Rail Station,53.76471,-0.86046
+HOWOOD,HOZ,Howwood (Renfrewshire) Rail Station,55.81056,-4.56306
+HOWWOOD,HWW,How Wood (Herts) Rail Station,51.71774,-0.34467
+HOXTON,HOX,Hoxton Rail Station,51.53151,-0.07568
+HOYLAKE,HYK,Hoylake Rail Station,53.39021,-3.17883
+HRGY,HGY,Harringay Rail Station,51.57736,-0.10514
+HRGYGL,HRY,Harringay Green Lanes Rail Station,51.57718,-0.09814
+HRLC,HRL,Harlech Rail Station,52.86133,-4.10919
+HRLDWOD,HRO,Harold Wood Rail Station,51.59276,0.23313
+HRLG,HLN,Harlington (Beds) Rail Station,51.96206,-0.49569
+HRLNGRD,HRD,Harling Road Rail Station,52.45369,0.90914
+HRLWMIL,HWM,Harlow Mill Rail Station,51.79036,0.13231
+HRLWTWN,HWN,Harlow Town Rail Station,51.78107,0.09513
+HRNBPK,HBP,Hornbeam Park Rail Station,53.97987,-1.52682
+HRNEBAY,HNB,Herne Bay Rail Station,51.36459,1.11773
+HRNSY,HRN,Hornsey Rail Station,51.58646,-0.11198
+HROW,HRW,Harrow & Wealdstone Rail Station,51.59181,-0.33398
+HROWDC,HRW,Harrow & Wealdstone Rail Station,51.59212,-0.33444
+HRPNDN,HPD,Harpenden Rail Station,51.81464,-0.35148
+HRSLEY,HSY,Horsley Rail Station,51.27935,-0.43541
+HRSM,HRM,Harrietsham Rail Station,51.24483,0.6724
+HRSTGRN,HUR,Hurst Green Rail Station,51.24443,0.00394
+HRTLEPL,HPL,Hartlepool Rail Station,54.68675,-1.20732
+HRTW,HTW,Hartwood Rail Station,55.81148,-3.83932
+HSFT,HRS,Horsforth Rail Station,53.8477,-1.63023
+HSFTLBD,XLB,LEEDS & BRADFORD AIRPORT,53.86923,-1.65931
+HTCHEND,HTE,Hatch End Rail Station,51.60942,-0.3686
+HTCP,HTC,Heaton Chapel Rail Station,53.42556,-2.17904
+HTFLASF,HFS,Hatfield & Stainforth Rail Station,53.58871,-1.02338
+HTHRGRN,HGR,Hither Green Rail Station,51.45202,-0.00094
+HTNCRNS,HUT,Hutton Cranswick Rail Station,53.95585,-0.43386
+HTNRIBL,HIR,Horton-in-Ribblesdale Rail Station,54.14938,-2.30203
+HTRBUS2,HWA,HEATHROW TERMINAL 2 BUS,51.47241,-0.45174
+HTRBUS3,HWE,HEATHROW TERMINAL 3 BUS,51.47125,-0.45791
+HTRBUS5,HWX,Heathrow Airport Terminal 5,51.47135,-0.48965
+HTRWAPT,HXX,Heathrow Terminals 1-3 Rail Station,51.47184,-0.45536
+HTRWCBS,HTR,Heathrow Airport Central Bus Stn (Rail-Air),51.47109,-0.45331
+HTRWTM4,HAF,Heathrow Terminal 4 Rail Station,51.45934,-0.44625
+HTRWTM5,HWV,Heathrow Terminal 5 Rail Station,51.47221,-0.48996
+HUCKNAL,HKN,Hucknall Rail Station,53.03828,-1.19581
+HULL,HUL,Hull Rail Station,53.74415,-0.34568
+HULLBS,HUU,HULL PARAGON INTERCHANGE,53.74417,-0.3472
+HUNCOAT,HCT,Huncoat Rail Station,53.77178,-2.34756
+HUNGRFD,HGD,Hungerford Rail Station,51.41491,-1.51229
+HUNMNBY,HUB,Hunmanby Rail Station,54.17392,-0.31456
+HUNTSX,HNX,Hunts Cross Rail Station,53.36071,-2.85586
+HUYTON,HUY,Huyton Rail Station,53.40968,-2.84299
+HWKHEAD,HKH,Hawkhead Rail Station,55.84219,-4.39885
+HWYCOMB,HWY,High Wycombe Rail Station,51.62958,-0.74541
+HYDB,HDB,Haydon Bridge Rail Station,54.97517,-2.24759
+HYDEC,HYC,Hyde Central Rail Station,53.45188,-2.08525
+HYDEN,HYT,Hyde North Rail Station,53.4648,-2.08546
+HYDNSRD,HYR,Haydons Road Rail Station,51.42545,-0.18881
+HYKEHAM,HKM,Hykeham Rail Station,53.195,-0.6002
+HYNDLND,HYN,Hyndland Rail Station,55.87975,-4.31467
+HYWRDSH,HHE,Haywards Heath Rail Station,51.00568,-0.10508
+IFIELD,IFI,Ifield Rail Station,51.11562,-0.21477
+ILFORD,IFD,Ilford Rail Station,51.55912,0.06968
+ILKES,ILN,Ilkeston Rail Station,52.97959,-1.29493
+ILKLEY,ILK,Ilkley Rail Station,53.92476,-1.82203
+INCE,INC,Ince (Manchester) Rail Station,53.53891,-2.61152
+INEL,INE,Ince & Elton Rail Station,53.27661,-2.81652
+INGTSTN,INT,Ingatestone Rail Station,51.66704,0.38425
+INSCH,INS,Insch Rail Station,57.3375,-2.61711
+INVERKP,INP,Inverkip Rail Station,55.9061,-4.87259
+INVGWRE,ING,Invergowrie Rail Station,56.45647,-3.0574
+INVRSHN,INH,Invershin Rail Station,57.92487,-4.39948
+INVURIE,INR,Inverurie Rail Station,57.28627,-2.37356
+IPSWICH,IPS,Ipswich Rail Station,52.05059,1.14443
+IRLAM,IRL,Irlam Rail Station,53.43431,-2.43323
+IRVN,IRV,Irvine Rail Station,55.61087,-4.67515
+ISLEWTH,ISL,Isleworth Rail Station,51.47476,-0.33691
+ISLIP,ISP,Islip Rail Station,51.82575,-1.23818
+IVER,IVR,Iver Rail Station,51.5085,-0.50673
+IVRGRD,IGD,Invergordon Rail Station,57.68902,-4.17484
+IVRKTHG,INK,Inverkeithing Rail Station,56.03513,-3.39549
+IVRNESS,INV,Inverness Rail Station,57.47987,-4.22336
+IVYBDGE,IVY,Ivybridge Rail Station,50.39341,-3.9042
+JAMCOK,JCH,James Cook University Hospital Rail Station,54.55203,-1.20857
+JAMESST,LVJ,Liverpool James Street Rail Station,53.40476,-2.99196
+JHNSTND,JOH,Johnston (Pembrokeshire) Rail Station,51.75674,-4.99633
+JOHNSTN,JHN,Johnstone Rail Station,55.83431,-4.50314
+JORDANH,JOR,Jordanhill Rail Station,55.8827,-4.32492
+KCLD,KDY,Kirkcaldy Rail Station,56.11206,-3.16703
+KDRMNST,KID,Kidderminster Rail Station,52.38448,-2.23847
+KEARSLY,KSL,Kearsley Rail Station,53.54414,-2.37512
+KEIGHLY,KEI,Keighley Rail Station,53.86796,-1.90165
+KEITH,KEH,Keith Rail Station,57.55142,-2.95402
+KELVEDN,KEL,Kelvedon Rail Station,51.8407,0.70239
+KEMBLE,KEM,Kemble Rail Station,51.67699,-2.02282
+KEMSING,KMS,Kemsing Rail Station,51.29719,0.24743
+KENDAL,KEN,Kendal Rail Station,54.33209,-2.73965
+KENISHD,KNS,Kennishead Rail Station,55.81331,-4.32525
+KENLSTN,KNW,Kenilworth Rail Station,52.3427,-1.57274
+KENNETT,KNE,Kennett Rail Station,52.27726,0.49046
+KENOLYM,KPA,Kensington (Olympia) Rail Station,51.4979,-0.21036
+KENR,KNR,Kensal Rise Rail Station,51.53455,-0.21996
+KENSLG,KNL,Kensal Green Rail Station,51.53047,-0.2239
+KENTHOS,KTH,Kent House Rail Station,51.41221,-0.04525
+KETR,KET,Kettering Rail Station,52.39355,-0.73156
+KEWBDGE,KWB,Kew Bridge Rail Station,51.48951,-0.28711
+KEWGRDN,KWG,Kew Gardens Rail Station,51.47707,-0.28505
+KEYHAM,KEY,Keyham Rail Station,50.38988,-4.1796
+KEYNSCH,KYN,KEYNSHAM CHURCH,51.41717,-2.49463
+KEYNSHM,KYN,Keynsham Rail Station,51.41798,-2.49563
+KGHN,KGH,Kinghorn Rail Station,56.06934,-3.17415
+KGPK,KGP,Kings Park Rail Station,55.81954,-4.24652
+KGSTON,KNG,Kingston Rail Station,51.41275,-0.30117
+KGUSSIE,KIN,Kingussie Rail Station,57.07778,-4.05219
+KGWD,KND,Kingswood Rail Station,51.29472,-0.21125
+KIDBROK,KDB,Kidbrooke Rail Station,51.46212,0.0275
+KIDSGRV,KDG,Kidsgrove Rail Station,53.08656,-2.24482
+KIDWELY,KWL,Kidwelly Rail Station,51.73434,-4.31699
+KILDONN,KIL,Kildonan Rail Station,58.17081,-3.86911
+KILGETY,KGT,Kilgetty Rail Station,51.7321,-4.71516
+KILMRNK,KMK,Kilmarnock Rail Station,55.61212,-4.49868
+KILWNNG,KWN,Kilwinning Rail Station,55.65595,-4.71002
+KINBRAC,KBC,Kinbrace Rail Station,58.25831,-3.94121
+KINGHAM,KGM,Kingham Rail Station,51.90225,-1.62879
+KINSSTN,KGS,Kings Sutton Rail Station,52.02135,-1.28093
+KINSVSQ,KGS,KINGS SUTTON V. SQUARE,52.02022,-1.28006
+KIRBYX,KBX,Kirby Cross Rail Station,51.8414,1.21499
+KIRKHAM,KKM,Kirkham & Wesham Rail Station,53.78691,-2.88294
+KKBY,KIR,Kirkby Rail Station,53.48619,-2.90283
+KKSNDAL,KKS,Kirk Sandall Rail Station,53.56388,-1.07406
+KLBRNHR,KBN,Kilburn High Road Rail Station,51.53728,-0.19224
+KLDL,KLD,Kildale Rail Station,54.47776,-1.06814
+KLGL,KGL,Kings Langley Rail Station,51.70635,-0.43842
+KLMAURS,KLM,Kilmaurs Rail Station,55.63721,-4.53049
+KLPTRCK,KPT,Kilpatrick Rail Station,55.9247,-4.45341
+KLYNBUS,KLS,KINGS LYNN BUS STATION GN,52.7542,0.40048
+KLYNN,KLN,Kings Lynn Rail Station,52.75392,0.40345
+KMPSTNH,KMH,Kempston Hardwick Rail Station,52.09222,-0.50391
+KMPTNPK,KMP,Kempton Park Rail Station,51.42098,-0.40975
+KMSLY,KML,Kemsley Rail Station,51.36244,0.73536
+KNCKHLT,KCK,Knockholt Rail Station,51.34579,0.13085
+KNEBWTH,KBW,Knebworth Rail Station,51.86685,-0.18729
+KNGW,KGE,Kingsknowe Rail Station,55.91881,-3.26497
+KNGX,KGX,London Kings Cross Rail Station,51.53106,-0.12356
+KNIGHTN,KNI,Knighton Rail Station,52.34507,-3.0422
+KNLY,KLY,Kenley Rail Station,51.32478,-0.10093
+KNLYBUS,KEB,KENLEY (A22),51.32548,-0.09975
+KNORTON,KNN,Kings Norton Rail Station,52.41429,-1.93233
+KNRSBGH,KNA,Knaresborough Rail Station,54.00902,-1.47042
+KNTBRY,KIT,Kintbury Rail Station,51.40252,-1.44599
+KNTNGLY,KNO,Knottingley Rail Station,53.70654,-1.25918
+KNTSHTN,KTN,Kentish Town Rail Station,51.5506,-0.13976
+KNTSHTW,KTW,Kentish Town West Rail Station,51.54655,-0.14666
+KNUCKLS,KNU,Knucklas Rail Station,52.35986,-3.09688
+KNUTSFD,KNF,Knutsford Rail Station,53.30179,-2.37179
+KNYMPTN,KGN,Kings Nympton Rail Station,50.93607,-3.90541
+KRKBYIF,KBF,Kirkby-in-Furness Rail Station,54.23271,-3.18738
+KRKC,KRK,Kirkconnel Rail Station,55.38756,-3.9986
+KRKDALE,KKD,Kirkdale Rail Station,53.4409,-2.98112
+KRKH,KKH,Kirkhill Rail Station,55.81391,-4.1671
+KRKNWTN,KKN,Kirknewton Rail Station,55.88869,-3.43251
+KRKSLFR,KLF,Kirkstall Forge Rail Station,53.82372,-1.62248
+KRKWOOD,KWD,Kirkwood Rail Station,55.85419,-4.0484
+KRKYCEN,KKB,Kirkby in Ashfield Rail Station,53.1001,-1.25306
+KRTNLND,KTL,Kirton Lindsey Rail Station,53.48484,-0.59391
+KSNY,KSN,Kearsney Rail Station,51.14937,1.27206
+KSTP,KSW,Kirkby Stephen Rail Station,54.45486,-2.3686
+KTBK,KBK,Kents Bank Rail Station,54.1729,-2.92523
+KTON,KNT,Kenton Rail Station,51.58153,-0.31646
+KVTNBDG,KIV,Kiveton Bridge Rail Station,53.34096,-1.26718
+KVTNPK,KVP,Kiveton Park Rail Station,53.33671,-1.23984
+KYLELSH,KYL,Kyle of Lochalsh Rail Station,57.27977,-5.71381
+LADYBNK,LDY,Ladybank Rail Station,56.2742,-3.12185
+LAINDON,LAI,Laindon Rail Station,51.56752,0.42429
+LAIRG,LRG,Lairg Rail Station,58.00183,-4.39989
+LAKEIOW,LKE,Lake (Isle of Wight) Rail Station,50.64648,-1.16635
+LAKNHTH,LAK,Lakenheath Rail Station,52.4474,0.5352
+LAMBH,GSC,Gilshochill Rail Station,55.89734,-4.28268
+LAMPHEY,LAM,Lamphey Rail Station,51.66718,-4.87326
+LANARK,LNK,Lanark Rail Station,55.67361,-3.77329
+LANCSTR,LAN,Lancaster Rail Station,54.04873,-2.80746
+LANDUDJ,LLJ,Llandudno Junction Rail Station,53.28394,-3.8091
+LANFRFC,LLF,Llanfairfechan Rail Station,53.25729,-3.9832
+LANGLEY,LNY,Langley (Berks) Rail Station,51.50806,-0.54176
+LAPFORD,LAP,Lapford Rail Station,50.857,-3.81064
+LAPWRTH,LPW,Lapworth Rail Station,52.34225,-1.72569
+LARBERT,LBT,Larbert Rail Station,56.0227,-3.83058
+LARGS,LAR,Largs Rail Station,55.79274,-4.8672
+LARKHAL,LRH,Larkhall Rail Station,55.73859,-3.97551
+LAWRNCH,LWH,Lawrence Hill Rail Station,51.45801,-2.56443
+LAYTON,LAY,Layton (Lancs) Rail Station,53.83527,-3.02999
+LAZKRKO,LZB,Lazonby & Kirkoswald Rail Station,54.75044,-2.70321
+LBDR,LBR,Llanbedr Rail Station,52.82085,-4.1102
+LBGHJN,LGJ,Loughborough Junction Rail Station,51.4663,-0.10218
+LCEILOB,LHE,Loch Eil Outward Bound Rail Station,56.85527,-5.19158
+LCHALRT,LCL,Lochailort Rail Station,56.88096,-5.66339
+LCHBSDL,LCB,LOCHBOISDALE,57.15225,-7.30499
+LCHC,LIC,Lichfield City Rail Station,52.68014,-1.82542
+LCHESDE,LCS,Locheilside Rail Station,56.85541,-5.29004
+LCHGLLY,LCG,Lochgelly Rail Station,56.13533,-3.31294
+LCHLCHR,LCC,Lochluichart Rail Station,57.62176,-4.80905
+LCHTTVH,LTV,Lichfield Trent Valley High Level Rail Station,52.68657,-1.79984
+LCHTTVL,LTV,Lichfield Trent Valley Rail Station,52.68692,-1.80025
+LCHWNCH,LHW,Lochwinnoch Rail Station,55.78715,-4.61608
+LCKRBIE,LOC,Lockerbie Rail Station,55.12305,-3.35353
+LDBURY,LED,Ledbury Rail Station,52.04525,-2.42586
+LDLNGTN,LID,Lidlington Rail Station,52.04153,-0.55893
+LDYW,LAD,Ladywell Rail Station,51.45624,-0.01904
+LEABDGE,LEB,Lea Bridge Rail Station,51.56655,-0.03667
+LEAGRVE,LEA,Leagrave Rail Station,51.90516,-0.4585
+LEAHALL,LEH,Lea Hall Rail Station,52.48064,-1.78601
+LEALHLM,LHM,Lealholm Rail Station,54.46059,-0.82572
+LEASOWE,LSW,Leasowe Rail Station,53.40804,-3.09959
+LEEDS,LDS,Leeds Rail Station,53.79454,-1.54783
+LEEE,LEE,Lee Rail Station,51.44975,0.01349
+LEGR,LEG,Lea Green Rail Station,53.42681,-2.72498
+LEIGBUS,LFL,LEIGH (FLEUR-DE-LIS P.H.),51.19591,0.21124
+LEIGHK,LIH,Leigh (Kent) Rail Station,51.1939,0.21049
+LELANT,LEL,Lelant Rail Station,50.18412,-5.43655
+LELANTS,LTS,Lelant Saltings Rail Station,50.17877,-5.44093
+LENHAM,LEN,Lenham Rail Station,51.23448,0.70776
+LENZIE,LNZ,Lenzie Rail Station,55.92132,-4.15389
+LEOMNST,LEO,Leominster Rail Station,52.22568,-2.73034
+LESTER,LEI,Leicester Rail Station,52.63131,-1.12449
+LETHRHD,LHD,Leatherhead Rail Station,51.29882,-0.33323
+LEUCHRS,LEU,Leuchars Rail Station,56.3751,-2.89371
+LEWES,LWS,Lewes Rail Station,50.87063,0.01133
+LEWISHM,LEW,Lewisham Rail Station,51.46569,-0.01402
+LEYLAND,LEY,Leyland Rail Station,53.69885,-2.68715
+LEYTNMR,LEM,Leyton Midland Road Rail Station,51.56972,-0.00805
+LFPW,LPG,Llanfairpwll Rail Station,53.22094,-4.20922
+LGBK,LGB,Langbank Rail Station,55.92452,-4.58527
+LGFD,LGF,Longfield Rail Station,51.39615,0.30036
+LGHO,LHO,Langho Rail Station,53.80483,-2.44866
+LGML,LGM,Langley Mill Rail Station,53.01806,-1.33124
+LGRN,LGG,Langley Green Rail Station,52.49387,-2.00496
+LGWITH,LAG,Langwith - Whaley Thorns Rail Station,53.23184,-1.20934
+LGWOOD,LGD,Lingwood Rail Station,52.6221,1.48994
+LHONSEA,LES,Leigh-on-Sea Rail Station,51.54127,0.64041
+LHVN,LVN,Littlehaven Rail Station,51.07975,-0.30798
+LIMHSE,LHS,Limehouse Rail Station,51.51253,-0.0398
+LINCLNC,LCN,Lincoln Central Rail Station,53.22609,-0.53992
+LINGFLD,LFD,Lingfield Rail Station,51.17645,-0.00716
+LIPHOOK,LIP,Liphook Rail Station,51.07131,-0.80023
+LISKARD,LSK,Liskeard Rail Station,50.44686,-4.46957
+LISS,LIS,Liss Rail Station,51.04357,-0.89287
+LITLBRO,LTL,Littleborough Rail Station,53.64299,-2.09465
+LIVST,LST,London Liverpool Street Rail Station,51.51799,-0.08143
+LKWD,LCK,Lockwood Rail Station,53.63473,-1.80079
+LLANDAF,LLN,Llandaf Rail Station,51.50844,-3.22861
+LLBRDCH,LNB,Llanbradach Rail Station,51.60325,-3.23305
+LLBSTRD,LLT,Llanbister Road Rail Station,52.33642,-3.21342
+LLDEILO,LLL,Llandeilo Rail Station,51.88534,-3.98689
+LLDODW,LLO,Llandrindod Rail Station,52.24236,-3.37914
+LLDVERY,LLV,Llandovery Rail Station,51.99531,-3.80283
+LLDYBIE,LLI,Llandybie Rail Station,51.82103,-4.00365
+LLGADOG,LLG,Llangadog Rail Station,51.94021,-3.89315
+LLGMMRW,LLM,Llangammarch Rail Station,52.1143,-3.55482
+LLGNNCH,LLH,Llangennech Rail Station,51.69113,-4.07893
+LLGUNLO,LGO,Llangynllo Rail Station,52.34962,-3.16137
+LLHARAN,LLR,Llanharan Rail Station,51.53758,-3.44078
+LLHLETH,LTH,Llanhilleth Rail Station,51.7003,-3.13519
+LLISHEN,LLS,Llanishen Rail Station,51.53274,-3.18198
+LLNLLI,LLE,Llanelli Rail Station,51.67386,-4.1613
+LLNSMLT,LAS,Llansamlet Rail Station,51.6615,-3.88469
+LLNWTMR,LWM,Llantwit Major Rail Station,51.40975,-3.48162
+LLWRDA,LNR,Llanwrda Rail Station,51.96259,-3.87167
+LLWRTYW,LNW,Llanwrtyd Rail Station,52.10471,-3.63216
+LLWYNYP,LLY,Llwynypia Rail Station,51.634,-3.45351
+LMNGTNS,LMS,Leamington Spa Rail Station,52.28449,-1.53621
+LMTNPIR,LYP,Lymington Pier Rail Station,50.7583,-1.52945
+LMTNTWN,LYT,Lymington Town Rail Station,50.76091,-1.53716
+LNAB,LLA,Llanaber Rail Station,52.7415,-4.07718
+LNCG,LAC,Lancing Rail Station,50.82708,-0.32311
+LNDC,LLC,Llandecwyn Rail Station,52.92068,-4.05703
+LNDNBDC,LBG,London Bridge Rail Station,51.50499,-0.08559
+LNDNBDE,LBG,London Bridge Rail Station,51.50504,-0.08548
+LNDW,LDN,Llandanwg Rail Station,52.83616,-4.12386
+LNDYW,LAW,Landywood Rail Station,52.65654,-2.02073
+LNGBKBY,LBK,Long Buckby Rail Station,52.29471,-1.08647
+LNGCROS,LNG,Longcross Rail Station,51.38517,-0.59457
+LNGEATN,LGE,Long Eaton Rail Station,52.88499,-1.28752
+LNGNDRY,LND,Longniddry Rail Station,55.97648,-2.88834
+LNGP,LPT,Longport Rail Station,53.04188,-2.21645
+LNLTHGW,LIN,Linlithgow Rail Station,55.97645,-3.59585
+LNRWST,LWR,Llanrwst Rail Station,53.13885,-3.7944
+LNSD,LGS,Langside Rail Station,55.82113,-4.27734
+LNTN,LGN,Longton Rail Station,52.98995,-2.13701
+LOCHAWE,LHA,Loch Awe Rail Station,56.40201,-5.04198
+LOGHBRO,LBO,Loughborough (Leics) Rail Station,52.77895,-1.19593
+LONB,LOB,Longbridge Rail Station,52.39642,-1.98129
+LONFLDS,LOF,London Fields Rail Station,51.54115,-0.05775
+LONGBCK,LGK,Longbeck Rail Station,54.58922,-1.03047
+LOOE,LOO,Looe Rail Station,50.35922,-4.45616
+LOSTCKP,LOT,Lostock Rail Station,53.57293,-2.49427
+LOWDHAM,LOW,Lowdham Rail Station,53.00628,-0.99842
+LOWMOOR,LMR,Low Moor Rail Station,53.74993,-1.7534
+LOWSTFT,LWT,Lowestoft Rail Station,52.47444,1.74971
+LPRESTN,LPR,Long Preston Rail Station,54.01684,-2.25559
+LRDGFD,LRD,London Road (Guildford) Rail Station,51.24065,-0.56507
+LRNCKRK,LAU,Laurencekirk Rail Station,56.83635,-2.46593
+LSTG,LTG,Lostock Gralam Rail Station,53.26766,-2.4652
+LSTH,LOH,Lostock Hall Rail Station,53.72424,-2.68748
+LSTWTHL,LOS,Lostwithiel Rail Station,50.40718,-4.66597
+LSYDNHM,LSY,Lower Sydenham Rail Station,51.42483,-0.03335
+LTCE,LET,Letchworth Rail Station,51.97996,-0.22926
+LTHH,LVT,Lisvane & Thornhill Rail Station,51.54458,-3.1856
+LTLHMPT,LIT,Littlehampton Rail Station,50.81011,-0.54599
+LTLKMBL,LTK,Little Kimble Rail Station,51.75223,-0.80845
+LTLPORT,LTP,Littleport Rail Station,52.46238,0.31656
+LTLSUTN,LTT,Little Sutton Rail Station,53.28551,-2.94329
+LTNBZRD,LBZ,Leighton Buzzard Rail Station,51.9163,-0.67701
+LUDLOW,LUD,Ludlow Rail Station,52.37128,-2.71622
+LUDO,LLD,Llandudno Rail Station,53.32091,-3.827
+LUTOAPY,LTN,Luton Airport Parkway Rail Station,51.87244,-0.39588
+LUTON,LUT,Luton Rail Station,51.8823,-0.41404
+LUXULYN,LUX,Luxulyan Rail Station,50.39003,-4.74738
+LVHM,LVM,Levenshulme Rail Station,53.44416,-2.19267
+LVNSTNN,LSN,Livingston North Rail Station,55.90138,-3.54435
+LVNSTNS,LVG,Livingston South Rail Station,55.87169,-3.50157
+LVRPLCH,LVC,Liverpool Central Rail Station,53.40447,-2.97997
+LVRPLCL,LVC,Liverpool Central Loop Line,53.40433,-2.97906
+LVRPLSG,LVS,LIVERPOOL LANDING STAGE,53.44749,-3.01027
+LVRPLSH,LIV,Liverpool Lime Street Rail Station,53.40798,-2.97766
+LVRPLSL,LIV,Liverpool Lime Street Low Level Rail Station,53.4075,-2.9773
+LVRPSPY,LPY,Liverpool South Parkway Rail Station,53.3571,-2.89022
+LWBY,LGW,Langwathby Rail Station,54.69436,-2.66368
+LYDNEY,LYD,Lydney Rail Station,51.71413,-2.53086
+LYEE,LYE,Lye (West Midlands) Rail Station,52.45992,-2.11593
+LYMPSTC,LYC,Lympstone Commando Rail Station,50.66224,-3.44084
+LYMPSTN,LYM,Lympstone Village Rail Station,50.64829,-3.43101
+LYNDHRD,ANF,Ashurst New Forest Rail Station,50.88985,-1.52663
+LYNGRIL,LLW,Llwyngwril Rail Station,52.66678,-4.08768
+LYTHAM,LTM,Lytham Rail Station,53.73928,-2.96404
+LYTNSHR,LER,Leytonstone High Road Rail Station,51.56355,0.00842
+MACLSFD,MAC,Macclesfield Rail Station,53.25934,-2.12198
+MAESTER,MEW,Maesteg (Ewenny Road) Rail Station,51.60534,-3.64899
+MAESTGW,MST,Maesteg Rail Station,51.60994,-3.65465
+MAGHNTH,MNS,MAGHULL NORTH STATION,53.51561,-2.92291
+MAGHULL,MAG,Maghull Rail Station,53.50647,-2.93085
+MALDENM,MAL,Malden Manor Rail Station,51.38473,-0.26127
+MALTON,MLT,Malton Rail Station,54.13207,-0.79722
+MANEA,MNE,Manea Rail Station,52.49784,0.17769
+MANNGTR,MNG,Manningtree Rail Station,51.94905,1.04524
+MANORS,MAS,Manors Rail Station,54.97276,-1.60474
+MANRPK,MNP,Manor Park Rail Station,51.55247,0.04634
+MARDEN,MRN,Marden Rail Station,51.17517,0.49317
+MARGATE,MAR,Margate Rail Station,51.38543,1.372
+MARLOW,MLW,Marlow Rail Station,51.57099,-0.76643
+MARPLE,MPL,Marple Rail Station,53.40069,-2.05726
+MARTON,MTO,Marton Rail Station,54.54434,-1.19848
+MARYLBN,MYB,London Marylebone Rail Station,51.52312,-0.16283
+MASH,MTA,Mountain Ash Rail Station,51.68133,-3.37634
+MATLCKB,MTB,Matlock Bath Rail Station,53.12235,-1.55676
+MATLOCK,MAT,Matlock Rail Station,53.13841,-1.55891
+MAXWLPK,MAX,Maxwell Park Rail Station,55.83773,-4.28869
+MAYBOLE,MAY,Maybole Rail Station,55.35473,-4.68529
+MAZEH,MZH,Maze Hill Rail Station,51.48262,0.00291
+MBRK,MBK,Millbrook (Hants) Rail Station,50.91149,-1.43384
+MCHLDVR,MIC,Micheldever Rail Station,51.18239,-1.26068
+MCHYNLT,MCN,Machynlleth Rail Station,52.59514,-3.85453
+MCKLFLD,MIK,Micklefield Rail Station,53.78884,-1.32679
+MDLSBRO,MBR,Middlesbrough Rail Station,54.5791,-1.23472
+MDNHEAD,MAI,Maidenhead Rail Station,51.51867,-0.72266
+MDNNWTN,MDN,Maiden Newton Rail Station,50.78,-2.56943
+MDWD,MDL,Middlewood Rail Station,53.35996,-2.08335
+MEADWHL,MHS,Meadowhall Rail Station,53.41746,-1.41285
+MELDRTH,MEL,Meldreth Rail Station,52.09072,0.00894
+MELKSHM,MKM,Melksham Rail Station,51.37982,-2.1445
+MELROSE,MLS,MELROSE,55.59923,-2.73157
+MELS,MEO,Meols Rail Station,53.39944,-3.15427
+MELTON,MES,Melton (Suffolk) Rail Station,52.10444,1.33824
+MENHENT,MEN,Menheniot Rail Station,50.42623,-4.40922
+MENSTON,MNN,Menston Rail Station,53.89234,-1.73551
+MEOLSCP,MEC,Meols Cop Rail Station,53.64627,-2.9758
+MEOPHAM,MEP,Meopham Rail Station,51.38642,0.35695
+MERSTHM,MHM,Merstham Rail Station,51.26415,-0.15023
+MERTHRV,MEV,Merthyr Vale Rail Station,51.68664,-3.33658
+MERTHYR,MER,Merthyr Tydfil Rail Station,51.74462,-3.37725
+MEXBRGH,MEX,Mexborough Rail Station,53.49099,-1.28856
+MFAM,MFA,Morfa Mawddach Rail Station,52.70713,-4.03217
+MFLDTWN,MFT,Mansfield Rail Station,53.1421,-1.19843
+MFLDWSE,MSW,Mansfield Woodhouse Rail Station,53.16356,-1.20185
+MHERON,MAO,Martins Heron Rail Station,51.40741,-0.7244
+MIDGHAM,MDG,Midgham Rail Station,51.39597,-1.17771
+MILKNPK,MIN,Milliken Park Rail Station,55.82511,-4.53336
+MINEBAN,XBW,MINEHEAD BANCKS STREET,51.20632,-3.46778
+MINEPAR,XBW,MINEHEAD PARADE,51.20585,-3.47771
+MINFORD,MFF,Minffordd Rail Station,52.92613,-4.08497
+MINMARS,MIM,Moreton-in-Marsh Rail Station,51.99228,-1.70038
+MINSTER,MSR,Minster Rail Station,51.32917,1.31722
+MIRFILD,MIR,Mirfield Rail Station,53.6714,-1.69255
+MISTLEY,MIS,Mistley Rail Station,51.94363,1.0814
+MITCHMJ,MIJ,Mitcham Junction Rail Station,51.39295,-0.15776
+MKIN,MNC,Markinch Rail Station,56.20101,-3.13079
+MKNSCEN,MKC,Milton Keynes Central Rail Station,52.03399,-0.77448
+MKTR,MKR,Market Rasen Rail Station,53.38391,-0.3369
+MLAIG,MLG,Mallaig Rail Station,57.00599,-5.8296
+MLBRKB,MLB,Millbrook (Beds) Rail Station,52.05383,-0.5327
+MLDSWTH,MLD,Mouldsworth Rail Station,53.2318,-2.73222
+MLDTHRD,MAU,Mauldeth Road Rail Station,53.43306,-2.20925
+MLFDHVN,MFH,Milford Haven Rail Station,51.71497,-5.04097
+MLFORD,MLF,Milford (Surrey) Rail Station,51.16332,-0.63695
+MLGV,MLN,Milngavie Rail Station,55.94136,-4.31458
+MLHB,MIL,Mill Hill Broadway Rail Station,51.61309,-0.24924
+MLHL,MLH,Mill Hill (Lancs) Rail Station,53.73546,-2.50174
+MLLM,MLM,Millom Rail Station,54.21082,-3.27108
+MLSECMB,MCB,Moulsecoomb Rail Station,50.84672,-0.11884
+MLSHILL,MIH,Mills Hill (Manchester) Rail Station,53.55131,-2.17151
+MLTNSDG,MMO,Melton Mowbray Rail Station,52.76103,-0.88587
+MLVRNLK,MVL,Malvern Link Rail Station,52.12547,-2.31951
+MMIL,MTM,Martin Mill Rail Station,51.17068,1.34822
+MNCRDGT,DGT,Deansgate Rail Station,53.47418,-2.25105
+MNCRIAP,MIA,Manchester Airport Rail Station,53.36504,-2.27298
+MNCROXR,MCO,Manchester Oxford Road Rail Station,53.47403,-2.242
+MNCRPIC,MAN,Manchester Piccadilly Rail Station,53.47701,-2.23047
+MNCRVIC,MCV,Manchester Victoria Rail Station,53.48796,-2.24247
+MNKRISB,MRS,Monks Risborough Rail Station,51.73576,-0.82933
+MNORBER,MRB,Manorbier Rail Station,51.66016,-4.79183
+MNRD,MNR,Manor Road Rail Station,53.39478,-3.17144
+MNTVRNN,MTV,Mount Vernon Rail Station,55.8402,-4.13367
+MOBERLY,MOB,Mobberley Rail Station,53.32914,-2.33367
+MOCHARD,MRD,Morchard Road Rail Station,50.8319,-3.77637
+MONIFTH,MON,Monifieth Rail Station,56.48011,-2.81825
+MONPELR,MTP,Montpelier Rail Station,51.46835,-2.58869
+MONTRSE,MTS,Montrose Rail Station,56.7128,-2.47207
+MORAR,MRR,Morar Rail Station,56.96972,-5.82192
+MORCAME,MCM,Morecambe Rail Station,54.07032,-2.86931
+MORDENS,MDS,Morden South Rail Station,51.39611,-0.19946
+MORETON,MTN,Moreton (Dorset) Rail Station,50.70103,-2.31345
+MORFLDS,MRF,Moorfields Rail Station,53.40856,-2.98919
+MORFNL,MRF,Moorfields Rail Station,53.40856,-2.98925
+MORTHRP,MRP,Moorthorpe Rail Station,53.59499,-1.30495
+MOSSLEY,MSL,Mossley (Manchester) Rail Station,53.51498,-2.04128
+MOTFONT,DBG,Mottisfont & Dunbridge Rail Station,51.03392,-1.54708
+MOTHRWL,MTH,Motherwell Rail Station,55.79167,-3.99433
+MOTNGHM,MTG,Mottingham Rail Station,51.44022,0.05005
+MOTO,MRT,Moreton (Merseyside) Rail Station,53.40721,-3.1135
+MOTSPRP,MOT,Motspur Park Rail Station,51.39519,-0.23953
+MPRT,MRY,Maryport Rail Station,54.71132,-3.49407
+MRCH,MCH,March Rail Station,52.55989,0.0912
+MRGT,MOG,Moorgate Rail Station,51.51849,-0.08894
+MRKSTEY,MKT,Marks Tey Rail Station,51.88094,0.78333
+MRKTHRB,MHR,Market Harborough Rail Station,52.47972,-0.90933
+MRLY,MLY,Morley Rail Station,53.74992,-1.59098
+MRPTHRP,MPT,Morpeth Rail Station,55.16237,-1.68307
+MRRYTON,MEY,Merryton Rail Station,55.74889,-3.97742
+MRSD,MSD,Moorside Rail Station,53.51627,-2.3518
+MRSK,MSK,Marske Rail Station,54.58742,-1.01891
+MRSN,MSN,Marsden Rail Station,53.60318,-1.93075
+MRSTNGR,MGN,Marston Green Rail Station,52.46719,-1.75561
+MRTLKE,MTL,Mortlake Rail Station,51.46809,-0.26711
+MRYHILL,MYH,Maryhill Rail Station,55.89763,-4.30074
+MRYLAND,MYL,Maryland Rail Station,51.54608,0.00582
+MSELBGH,MUB,Musselburgh Rail Station,55.93359,-3.0732
+MSGT,MSS,Moses Gate Rail Station,53.55598,-2.40119
+MSLH,MSH,Mossley Hill Rail Station,53.37904,-2.91544
+MSSD,MOS,Moss Side Rail Station,53.76497,-2.94293
+MSSPARK,MPK,Mosspark Rail Station,55.84083,-4.34829
+MSTN,MSO,Moston Rail Station,53.52342,-2.17102
+MSTONEB,MDB,Maidstone Barracks Rail Station,51.27717,0.51396
+MSTONEE,MDE,Maidstone East Rail Station,51.27783,0.5213
+MSTONEW,MDW,Maidstone West Rail Station,51.27046,0.51577
+MTFL,MFL,Mount Florida Rail Station,55.82655,-4.26113
+MTHRNGH,MGM,Metheringham Rail Station,53.13888,-0.39145
+MTIMER,MOR,Mortimer Rail Station,51.37208,-1.03551
+MUIREND,MUI,Muirend Rail Station,55.80946,-4.27439
+MUROORD,MOO,Muir of Ord Rail Station,57.51785,-4.46023
+MYTHLMR,MYT,Mytholmroyd Rail Station,53.729,-1.98143
+NABT,NTA,Newton Abbot Rail Station,50.52958,-3.59917
+NAFERTN,NFN,Nafferton Rail Station,54.01122,-0.38608
+NAILSEA,NLS,Nailsea & Backwell Rail Station,51.41941,-2.75063
+NAIRN,NRN,Nairn Rail Station,57.58024,-3.872
+NANTWCH,NAN,Nantwich Rail Station,53.06357,-2.51896
+NARBRO,NBR,Narborough Rail Station,52.57129,-1.20335
+NAVGTNR,NVR,Navigation Road Rail Station,53.39537,-2.34342
+NBARNET,NBA,New Barnet Rail Station,51.64857,-0.173
+NBCKNHM,NBC,New Beckenham Rail Station,51.41677,-0.03527
+NBERWCK,NBW,North Berwick Rail Station,56.05703,-2.73074
+NBRWGE,NBE,Newbridge Rail Station,51.66581,-3.14289
+NBTN,NBN,New Brighton Rail Station,53.4374,-3.04796
+NCRAGHA,NEW,Newcraighall Rail Station,55.93312,-3.09084
+NDULWCH,NDL,North Dulwich Rail Station,51.45451,-0.08792
+NEATH,NTH,Neath Rail Station,51.66236,-3.80722
+NEEDHAM,NMT,Needham Market Rail Station,52.15259,1.05526
+NEILSTN,NEI,Neilston Rail Station,55.78304,-4.42695
+NESTON,NES,Neston Rail Station,53.29185,-3.06308
+NETHRTN,NRT,Nethertown Rail Station,54.45641,-3.56584
+NETLEY,NTL,Netley Rail Station,50.87491,-1.3419
+NEWANG,NNG,Newark North Gate Rail Station,53.08176,-0.79985
+NEWBRYR,NRC,Newbury Racecourse Rail Station,51.39846,-1.3078
+NEWBURY,NBY,Newbury Rail Station,51.39765,-1.32286
+NEWCLEE,NCE,New Clee Rail Station,53.57438,-0.06081
+NEWHVNH,NVH,Newhaven Harbour Rail Station,50.78979,0.05499
+NEWHVNT,NVN,Newhaven Town Rail Station,50.79485,0.05495
+NEWLANE,NLN,New Lane Rail Station,53.61166,-2.86772
+NEWMLDN,NEM,New Malden Rail Station,51.40407,-0.25594
+NEWNGTN,NGT,Newington Rail Station,51.35334,0.66857
+NEWPRTE,NWE,Newport (Essex) Rail Station,51.97987,0.21514
+NEWQUAY,NQY,Newquay Rail Station,50.41509,-5.07565
+NEWSGAT,NSG,New Southgate Rail Station,51.61411,-0.14304
+NEWXGEL,NXG,New Cross Gate ELL Rail Station,51.47518,-0.04023
+NEWXGTE,NXG,New Cross Gate Rail Station,51.47513,-0.0404
+NHOL,NHL,New Holland Rail Station,53.70192,-0.36021
+NINIANP,NNP,Ninian Park Rail Station,51.47661,-3.20169
+NITSH,NIT,Nitshill Rail Station,55.81193,-4.35996
+NLANRST,NLR,North Llanrwst Rail Station,53.14382,-3.80273
+NLRTN,NTR,Northallerton Rail Station,54.33307,-1.44127
+NLSN,NEL,Nelson Rail Station,53.835,-2.21376
+NMBRLPK,NUM,Northumberland Park Rail Station,51.60197,-0.05393
+NMILTON,NWM,New Milton Rail Station,50.75575,-1.65781
+NMPTN,NMP,Northampton Rail Station,52.23736,-0.907
+NNTN,NUN,Nuneaton Rail Station,52.52637,-1.46388
+NORBURY,NRB,Norbury Rail Station,51.41144,-0.12193
+NORMNTN,NOR,Normanton Rail Station,53.70052,-1.4234
+NORWDJ,NWD,Norwood Junction Rail Station,51.39702,-0.07522
+NPUD,NPD,New Pudsey Rail Station,53.80448,-1.68079
+NQNSFRY,NQU,North Queensferry Rail Station,56.0125,-3.39458
+NRBERTH,NAR,Narberth Rail Station,51.79937,-4.72717
+NRBITON,NBT,Norbiton Rail Station,51.41236,-0.28402
+NRCH,NRW,Norwich Rail Station,52.62665,1.30695
+NRMNSBY,NSB,Normans Bay Rail Station,50.8261,0.38946
+NRTF,NFD,Northfield Rail Station,52.40819,-1.96585
+NRTHCA,NFL,NORTHFLEET - THE HIVE,51.44576,0.32429
+NRTHFLT,NFL,Northfleet Rail Station,51.44584,0.32433
+NSHEEN,NSH,North Sheen Rail Station,51.46515,-0.28788
+NSTCYRE,NTC,Newton St Cyres Rail Station,50.77893,-3.58939
+NTHCAMP,NCM,North Camp Rail Station,51.27579,-0.7312
+NTHOLTP,NLT,Northolt Park Rail Station,51.55754,-0.35947
+NTHRFLD,NET,Netherfield Rail Station,52.96141,-1.07985
+NTHWICH,NWI,Northwich Rail Station,53.26145,-2.49692
+NTNG,NOT,Nottingham Rail Station,52.94707,-1.14638
+NTRD,NRD,North Road Rail Station,54.5362,-1.55395
+NUNHEAD,NHD,Nunhead Rail Station,51.46683,-0.05227
+NUNTHRP,NNT,Nunthorpe Rail Station,54.52788,-1.16945
+NUTBBUS,NUT,NUTBOURNE (A259),50.84638,-0.88351
+NUTBORN,NUT,Nutbourne Rail Station,50.84607,-0.88295
+NUTFILD,NUF,Nutfield Rail Station,51.22681,-0.13253
+NWALSHM,NWA,North Walsham Rail Station,52.81688,1.38445
+NWCMNCK,NCK,New Cumnock Rail Station,55.40228,-4.1826
+NWCOURT,NCO,Newcourt Rail Station,50.70504,-3.47278
+NWCRELL,NWX,New Cross ELL Rail Station,51.47634,-0.03244
+NWCROSS,NWX,New Cross Rail Station,51.47628,-0.03264
+NWCSTLE,NCL,Newcastle Rail Station,54.96832,-1.61731
+NWCSTLL,NCZ,NEWCASTLE (METRO),54.96818,-1.61716
+NWELTHM,NEH,New Eltham Rail Station,51.43806,0.07053
+NWEMBLY,NWB,North Wembley Rail Station,51.56239,-0.30356
+NWHYTHE,NHE,New Hythe Rail Station,51.313,0.45493
+NWMILSC,NMC,New Mills Central Rail Station,53.36484,-2.00567
+NWMILSN,NMN,New Mills Newtown Rail Station,53.35963,-2.00853
+NWMKET,NMK,Newmarket Rail Station,52.23794,0.40621
+NWPTRTG,NWP,Newport (S Wales) Rail Station,51.58879,-3.00054
+NWRKCAS,NCT,Newark Castle Rail Station,53.08,-0.81316
+NWSTEAD,NSD,Newstead Rail Station,53.06998,-1.22179
+NWTA,NAY,Newton Aycliffe Rail Station,54.6137,-1.58965
+NWTGRNG,NEG,Newtongrange Rail Station,55.867,-3.06937
+NWTH,NWN,Newton for Hyde Rail Station,53.45638,-2.06714
+NWTL,NTN,Newton (S Lanarks) Rail Station,55.81878,-4.13305
+NWTM,NWR,Newtonmore Rail Station,57.05914,-4.11911
+NWTNLW,NLW,Newton-le-Willows Rail Station,53.45306,-2.6136
+NWTOA,NOA,Newton-on-Ayr Rail Station,55.47405,-4.62583
+NWTP,NWT,Newtown (Powys) Rail Station,52.51231,-3.31139
+OAKHAM,OKM,Oakham Rail Station,52.67221,-0.73417
+OAKNGTS,OKN,Oakengates Rail Station,52.6934,-2.45019
+OBAN,OBN,Oban Rail Station,56.41248,-5.47393
+OCKENDN,OCK,Ockendon Rail Station,51.52199,0.29047
+OCKLYAC,OLY,Ockley Rail Station,51.15151,-0.33601
+OKHMPTN,OKE,Okehampton Rail Station,50.73238,-3.99621
+OKLGHPK,OKL,Oakleigh Park Rail Station,51.63768,-0.16621
+OLDFLBR,OLF,OLDFIELD PARK LWR BRSTL RD,51.38204,-2.3808
+OLDFLDP,OLF,Oldfield Park Rail Station,51.37923,-2.38051
+OLDROAN,ORN,Old Roan Rail Station,53.48689,-2.95107
+OLDST,OLD,Old Street Rail Station,51.52563,-0.08751
+OLHL,OHL,Old Hill Rail Station,52.47093,-2.05619
+OLTON,OLT,Olton Rail Station,52.43851,-1.80431
+OPOL,OVE,Overpool Rail Station,53.28405,-2.92406
+OREE,ORE,Ore Rail Station,50.86695,0.59157
+ORELPKH,OPK,Orrell Park Rail Station,53.4619,-2.96332
+ORMSKRK,OMS,Ormskirk Rail Station,53.56927,-2.88119
+ORPNGTN,ORP,Orpington Rail Station,51.37329,0.08909
+ORRELL,ORR,Orrell Rail Station,53.53031,-2.70884
+OTFORD,OTF,Otford Rail Station,51.31291,0.1972
+OULTNBN,OUN,Oulton Broad North Rail Station,52.47776,1.71571
+OULTNBS,OUS,Oulton Broad South Rail Station,52.4696,1.70766
+OUTWOOD,OUT,Outwood Rail Station,53.71529,-1.5104
+OVTN,OVR,Overton Rail Station,51.25429,-1.25927
+OXENHLM,OXN,Oxenholme Lake District Rail Station,54.30493,-2.72187
+OXFD,OXF,Oxford Rail Station,51.75349,-1.27015
+OXFPWAY,OXP,Oxford Parkway Rail Station,51.80407,-1.27449
+OXSHOTT,OXS,Oxshott Rail Station,51.33639,-0.36242
+OXTED,OXT,Oxted Rail Station,51.25791,-0.00483
+PADGATE,PDG,Padgate Rail Station,53.40579,-2.55681
+PADTON,PAD,London Paddington Rail Station,51.5164,-0.17656
+PAIGNTN,PGN,Paignton Rail Station,50.43472,-3.56488
+PALMRSG,PAL,Palmers Green Rail Station,51.61831,-0.11044
+PANGBRN,PAN,Pangbourne Rail Station,51.4854,-1.09047
+PANNAL,PNL,Pannal Rail Station,53.95832,-1.53347
+PARBOLD,PBL,Parbold Rail Station,53.59075,-2.77075
+PARR,PAR,Par Rail Station,50.35532,-4.70468
+PARSNST,PSN,Parson Street Rail Station,51.43332,-2.60774
+PARTON,PRN,Parton Rail Station,54.57037,-3.5808
+PATCHWY,PWY,Patchway Rail Station,51.52593,-2.56269
+PATERTN,PTT,Patterton Rail Station,55.79061,-4.3353
+PBRO,PBO,Peterborough Rail Station,52.5746,-0.2503
+PBRODMP,DEB,DEREHAM MARKET PLACE,52.68267,0.94107
+PBROKLB,KLB,KINGS LYNN BUS STATION,52.75423,0.399
+PBROSTI,SWB,SWAFFHAM MARKET PLACE,52.64819,0.68888
+PBRT,PEM,Pemberton Rail Station,53.53041,-2.67035
+PCHESTR,PTC,Portchester Rail Station,50.84875,-1.12424
+PCKHMQD,QRP,Queens Road Peckham Rail Station,51.47356,-0.05731
+PCKHMRY,PMR,Peckham Rye Rail Station,51.4698,-0.06925
+PEARTRE,PEA,Peartree Rail Station,52.89699,-1.47321
+PEGSWD,PEG,Pegswood Rail Station,55.17813,-1.64417
+PEMBRKD,PMD,Pembroke Dock Rail Station,51.69391,-4.93805
+PEMBROK,PMB,Pembroke Rail Station,51.67294,-4.90602
+PENARTH,PEN,Penarth Rail Station,51.43589,-3.17444
+PENCOED,PCD,Pencoed Rail Station,51.52461,-3.50048
+PENEW,PNW,Penge West Rail Station,51.41755,-0.06084
+PENGAM,PGM,Pengam Rail Station,51.67045,-3.2301
+PENHELG,PHG,Penhelig Rail Station,52.54568,-4.03503
+PENISTN,PNS,Penistone Rail Station,53.52554,-1.62278
+PENMERE,PNM,Penmere Rail Station,50.15033,-5.08319
+PENYCHN,PNC,Penychain Rail Station,52.90288,-4.33872
+PENZNCE,PNZ,Penzance Rail Station,50.12167,-5.53257
+PERANWL,PRW,Perranwell Rail Station,50.21658,-5.11207
+PERSHOR,PSH,Pershore Rail Station,52.13055,-2.07154
+PERTH,PTH,Perth Rail Station,56.39209,-3.4397
+PETSWD,PET,Petts Wood Rail Station,51.38862,0.07448
+PEWSEY,PEW,Pewsey Rail Station,51.34219,-1.77068
+PHBR,PMH,Portsmouth Harbour Rail Station,50.79696,-1.10784
+PHLD,PTL,Priesthill & Darnley Rail Station,55.81217,-4.34289
+PILNING,PIL,Pilning Rail Station,51.55663,-2.62711
+PINHOE,PIN,Pinhoe Rail Station,50.73778,-3.46933
+PITSEA,PSE,Pitsea Rail Station,51.56036,0.50629
+PKHMRYC,PMR,Peckham Rye Rail Station,51.47016,-0.06956
+PKST,PKT,Park Street Rail Station,51.72546,-0.34028
+PKWD,PDW,Paddock Wood Rail Station,51.18227,0.38915
+PLKLHDE,PLE,Pollokshields East Rail Station,55.84107,-4.2686
+PLKLHDW,PLW,Pollokshields West Rail Station,55.8377,-4.27575
+PLKSHWE,PWE,Pollokshaws East Rail Station,55.82464,-4.28689
+PLKSHWW,PWW,Pollokshaws West Rail Station,55.82383,-4.30161
+PLMPTON,PMP,Plumpton Rail Station,50.92866,-0.06018
+PLMS,PLU,Plumstead Rail Station,51.48979,0.08426
+PLOCKTN,PLK,Plockton Rail Station,57.33356,-5.666
+PLSNGTN,PLS,Pleasington Rail Station,53.73096,-2.54412
+PLTH,PLN,Portlethen Rail Station,57.06173,-2.1277
+PLTNLFY,PFY,Poulton-le-Fylde Rail Station,53.84842,-2.99062
+PLUCKLY,PLC,Pluckley Rail Station,51.15647,0.7474
+PLUMLEY,PLM,Plumley Rail Station,53.27467,-2.41966
+PLYMTH,PLY,Plymouth Rail Station,50.37783,-4.14332
+PMBRYBP,PBY,Pembrey & Burry Port Rail Station,51.6841,-4.249
+PNALLY,PNA,Penally Rail Station,51.65892,-4.72205
+PNDRSEN,PON,Ponders End Rail Station,51.64225,-0.03508
+PNGEE,PNE,Penge East Rail Station,51.41933,-0.05422
+PNKRDG,PKG,Penkridge Rail Station,52.7235,-2.11929
+PNMNMWR,PMW,Penmaenmawr Rail Station,53.27046,-3.92351
+PNRHCBR,PER,Penrhiwceiber Rail Station,51.66992,-3.35994
+PNSHBUS,PHR,PENSHURST LITTLE BROWN JUG,51.19722,0.17368
+PNSHRST,PHR,Penshurst Rail Station,51.19734,0.17347
+PNTADLS,PTD,Pontarddulais Rail Station,51.71762,-4.04554
+PNTH,PNR,Penrith North Lakes Rail Station,54.6618,-2.75888
+PNTLTYN,PLT,Pontlottyn Rail Station,51.74663,-3.27896
+PNTRBCH,PTB,Pentre-Bach Rail Station,51.72501,-3.36232
+PNTYFYN,PTF,Pantyffynnon Rail Station,51.77888,-3.99743
+PNYF,PNF,Penyffordd Rail Station,53.14309,-3.05484
+PNYPANT,PYP,Pont-y-Pant Rail Station,53.06513,-3.86272
+PNZQUAY,PNQ,PENZANCE QUAY,50.11728,-5.52928
+POKSDWN,POK,Pokesdown Rail Station,50.73109,-1.8251
+POLGATE,PLG,Polegate Rail Station,50.82124,0.24514
+POLMONT,PMT,Polmont Rail Station,55.98474,-3.71497
+POLSBDG,POL,Polsloe Bridge Rail Station,50.73128,-3.50195
+PONTYPL,PPL,Pontypool & New Inn Rail Station,51.69706,-3.01392
+PONYCLN,PYC,Pontyclun Rail Station,51.52377,-3.39292
+POOLE,POO,Poole Rail Station,50.71943,-1.98332
+POPLTON,POP,Poppleton Rail Station,53.9759,-1.1486
+PORH,POR,Porth Rail Station,51.61254,-3.40719
+POSILPK,PPK,Possilpark & Parkhouse Rail Station,55.89014,-4.25851
+POTRSBR,PBR,Potters Bar Rail Station,51.69707,-0.19261
+POYNTON,PYT,Poynton Rail Station,53.35038,-2.13441
+PPAN,PST,Prestonpans Rail Station,55.9531,-2.97477
+PREES,PRS,Prees Rail Station,52.8993,-2.68966
+PRESCOT,PSC,Prescot Rail Station,53.42356,-2.79917
+PRHN,PRH,Penrhyndeudraeth Rail Station,52.92882,-4.06456
+PRINRIS,PRR,Princes Risborough Rail Station,51.71786,-0.84388
+PRITLWL,PRL,Prittlewell Rail Station,51.55069,0.71068
+PRKSTON,HPQ,Harwich International Rail Station,51.94729,1.25512
+PRSP,PRP,Preston Park Rail Station,50.84594,-0.15517
+PRSPBUS,PPR,PRESTON PARK (LONDON ROAD),50.84608,-0.15197
+PRST,PRE,Preston Rail Station,53.75534,-2.70711
+PRTHMDG,PTM,Porthmadog Rail Station,52.93092,-4.13445
+PRTSMTA,PMA,Portsmouth Arms Rail Station,50.957,-3.95058
+PRUDHOE,PRU,Prudhoe Rail Station,54.96583,-1.86487
+PRYBR,PRY,Perry Barr Rail Station,52.51648,-1.90196
+PRYN,PYN,Penryn Rail Station,50.17071,-5.11161
+PSBY,PRB,Prestbury Rail Station,53.29338,-2.14548
+PSEA,PMS,Portsmouth & Southsea Rail Station,50.79849,-1.09091
+PSLDAWH,PLD,Portslade Rail Station,50.83568,-0.20534
+PSLT,PSL,Port Sunlight Rail Station,53.34925,-2.99803
+PSLYCAN,PCN,Paisley Canal Rail Station,55.84008,-4.42412
+PSLYGST,PYG,Paisley Gilmour Street Rail Station,55.84735,-4.42451
+PSLYSTJ,PYJ,Paisley St James Rail Station,55.85212,-4.44244
+PSRN,PES,Pensarn (Gwynedd) Rail Station,52.8307,-4.11216
+PSTA,PRT,Prestatyn Rail Station,53.3365,-3.40713
+PSTONE,PKS,Parkstone (Dorset) Rail Station,50.72298,-1.94796
+PTALBOT,PTA,Port Talbot Parkway Rail Station,51.59244,-3.78173
+PTCK,PTK,Partick Rail Station,55.86985,-4.30928
+PTFTBHL,PFR,Pontefract Baghill Rail Station,53.69188,-1.30335
+PTFTMHL,PFM,Pontefract Monkhill Rail Station,53.69898,-1.30369
+PTFTTSF,POT,Pontefract Tanshelf Rail Station,53.69413,-1.31891
+PTGLSGW,PTG,Port Glasgow Rail Station,55.93351,-4.68983
+PTLCHRY,PIT,Pitlochry Rail Station,56.7025,-3.73557
+PTRCRFT,PAT,Patricroft Rail Station,53.48478,-2.35824
+PTRSFLD,PTR,Petersfield Rail Station,51.00672,-0.94114
+PTYPRID,PPD,Pontypridd Rail Station,51.59937,-3.34137
+PULBRO,PUL,Pulborough Rail Station,50.95736,-0.51656
+PURFLET,PFL,Purfleet Rail Station,51.48101,0.23677
+PURLEY,PUR,Purley Rail Station,51.33758,-0.11404
+PURLEYO,PUO,Purley Oaks Rail Station,51.34704,-0.09886
+PUTNEY,PUT,Putney Rail Station,51.4613,-0.21647
+PVNSYAW,PEV,Pevensey & Westham Rail Station,50.8158,0.32481
+PVNSYBY,PEB,Pevensey Bay Rail Station,50.81746,0.34291
+PWCK,PTW,Prestwick Rail Station,55.5017,-4.61516
+PWCKAPT,PRA,Prestwick Intl Airport Rail Station,55.50903,-4.61417
+PWLHELI,PWL,Pwllheli Rail Station,52.88783,-4.4167
+PWTH,PSW,Polesworth Rail Station,52.62583,-1.61054
+PYBONT,PNY,Pen-y-Bont Rail Station,52.27394,-3.32193
+PYECRNR,PYE,PYE CORNER,51.57913,-3.03829
+PYLE,PYL,Pyle Rail Station,51.5253,-3.69767
+QNTRLDW,QUI,Quintrell Downs Rail Station,50.40405,-5.02849
+QPRK,QPW,Queens Park (London) Rail Station,51.53383,-0.20493
+QTRDBAT,QRB,Queenstown Road (Battersea) Rail Station,51.47497,-0.14668
+QUAKRSY,QYD,Quakers Yard Rail Station,51.66072,-3.3228
+QUENBRO,QBR,Queenborough Rail Station,51.41564,0.74967
+QUNPARK,QPK,Queens Park (Glasgow) Rail Station,55.8353,-4.26675
+RADLETT,RDT,Radlett Rail Station,51.68519,-0.31724
+RADNOT,RDF,Radcliffe (Notts) Rail Station,52.94878,-1.03733
+RADYR,RDR,Radyr Rail Station,51.51632,-3.24835
+RAINHMK,RAI,Rainham (Kent) Rail Station,51.3663,0.61134
+RAMSGTE,RAM,Ramsgate Rail Station,51.34121,1.40572
+RANNOCH,RAN,Rannoch Rail Station,56.68604,-4.57687
+RAUCEBY,RAU,Rauceby Rail Station,52.9852,-0.45661
+RAWCLIF,RWC,Rawcliffe Rail Station,53.68904,-0.96086
+RAYLEGH,RLG,Rayleigh Rail Station,51.58929,0.59998
+RAYNSPK,RAY,Raynes Park Rail Station,51.40917,-0.23015
+RBRN,RVB,Ravensbourne Rail Station,51.41419,-0.00756
+RBRTSBD,RBR,Robertsbridge Rail Station,50.98493,0.46878
+RCHDALE,RCD,Rochdale Rail Station,53.61031,-2.15352
+RCHE,ROC,Roche Rail Station,50.41854,-4.8302
+RCHT,RTR,Rochester Rail Station,51.38555,0.51028
+RCKMNSW,RIC,Rickmansworth Rail Station,51.64025,-0.47328
+RCTRYRD,REC,Rectory Road Rail Station,51.5585,-0.06827
+RDHAMN,REE,Reedham (Norfolk) Rail Station,52.5645,1.55965
+RDIT,RDC,Redditch Rail Station,52.30632,-1.94525
+RDLEY,RAD,Radley Rail Station,51.6862,-1.24048
+RDLSDWN,RDD,Riddlesdown Rail Station,51.33248,-0.09939
+RDNG4AB,RDG,Reading Rail Station,51.45878,-0.97186
+RDNGBUS,RBU,Reading Rail Station,51.45814,-0.97166
+RDNGSTN,RDG,Reading Rail Station,51.45878,-0.97185
+REDBDGE,RDB,Redbridge (Hants) Rail Station,50.91994,-1.47016
+REDCARC,RCC,Redcar Central Rail Station,54.61623,-1.07087
+REDCARE,RCE,Redcar East Rail Station,54.60925,-1.05229
+REDGWST,RDW,Reading West Rail Station,51.4555,-0.99013
+REDHILL,RDH,Redhill Rail Station,51.2402,-0.1659
+REDISHN,RDN,Reddish North Rail Station,53.44941,-2.15625
+REDISHS,RDS,Reddish South Rail Station,53.43592,-2.15876
+REDLAND,RDA,Redland Rail Station,51.46838,-2.59912
+REDRUTH,RED,Redruth Rail Station,50.23325,-5.22592
+REEDHMS,RHM,Reedham (Surrey) Rail Station,51.33112,-0.12342
+REIGATE,REI,Reigate Rail Station,51.24196,-0.20383
+RENTON,RTN,Renton Rail Station,55.97043,-4.58613
+RGHTNRD,RNR,Roughton Road Rail Station,52.91802,1.29979
+RGLS,RAV,Ravenglass Rail Station,54.35571,-3.40881
+RHIL,RNH,Rainhill Rail Station,53.41712,-2.7664
+RHIWBNA,RHI,Rhiwbina Rail Station,51.52118,-3.21397
+RHOOSE,RIA,Rhoose Rail Station,51.38706,-3.34938
+RHOSNGR,RHO,Rhosneigr Rail Station,53.23484,-4.50664
+RHYL,RHL,Rhyl Rail Station,53.31842,-3.48911
+RHYMNEY,RHY,Rhymney Rail Station,51.75884,-3.2893
+RIBLHED,RHD,Ribblehead Rail Station,54.20584,-2.36086
+RICELA,RIL,Rice Lane Rail Station,53.45777,-2.96232
+RICHMND,RMD,Richmond (London) Rail Station,51.463,-0.30137
+RICHNLL,RMD,Richmond NLL Rail Station,51.46323,-0.30142
+RIDGMNT,RID,Ridgmont Rail Station,52.0264,-0.59456
+RIDNGML,RDM,Riding Mill Rail Station,54.94873,-1.97155
+RISCA,RCA,Risca & Pontymister Rail Station,51.60585,-3.09221
+RISHTON,RIS,Rishton Rail Station,53.76381,-2.42016
+RMSWILP,RGW,Ramsgreave & Wilpshire Rail Station,53.77977,-2.47814
+RNFD,RNF,Rainford Rail Station,53.5171,-2.78947
+RNHAME,RNM,Rainham (London) Rail Station,51.51672,0.19063
+ROBY,ROB,Roby Rail Station,53.41004,-2.85593
+ROCHFD,RFD,Rochford Rail Station,51.58173,0.7023
+ROCKFRY,RFY,Rock Ferry Rail Station,53.37265,-3.01083
+ROGART,ROG,Rogart Rail Station,57.98871,-4.15818
+ROGRSTN,ROR,Rogerstone Rail Station,51.59561,-3.06661
+ROHL,RSH,Rose Hill Marple Rail Station,53.39622,-2.07652
+ROLSTN,ROL,Rolleston Rail Station,53.06528,-0.89967
+ROMANBG,RMB,Roman Bridge Rail Station,53.04441,-3.92165
+ROMFORD,RMF,Romford Rail Station,51.57483,0.18324
+ROMILEY,RML,Romiley Rail Station,53.41401,-2.08933
+ROMSEY,ROM,Romsey Rail Station,50.99253,-1.49314
+ROOSE,ROO,Roose Rail Station,54.11516,-3.19457
+ROSG,RSG,Rose Grove Rail Station,53.78619,-2.2828
+ROSLARE,RSB,ROSSLARE HARBOUR,52.2513,-6.33775
+ROSYTH,ROS,Rosyth Rail Station,56.04552,-3.42731
+ROTHCEN,RMC,Rotherham Central Rail Station,53.43225,-1.36043
+ROWLEYR,ROW,Rowley Regis Rail Station,52.47732,-2.03087
+ROYBDGE,RYB,Roy Bridge Rail Station,56.88836,-4.83724
+ROYDON,RYN,Roydon Rail Station,51.77549,0.03625
+ROYSTON,RYS,Royston Rail Station,52.05308,-0.02692
+RSAY,RTY,ROTHESAY,55.8385,-5.05178
+RSKNGTN,RKT,Ruskington Rail Station,53.04146,-0.38076
+RTFD,RET,Retford Rail Station,53.31515,-0.94788
+RTFDLL,RET,Retford Low Level Rail Station,53.31406,-0.94477
+RTHERHI,ROE,Rotherhithe Rail Station,51.50081,-0.05205
+RTHGLEN,RUT,Rutherglen Rail Station,55.83059,-4.2121
+RTHP,RVN,Ravensthorpe Rail Station,53.67552,-1.65558
+RUABON,RUA,Ruabon Rail Station,52.98713,-3.04314
+RUFDORD,RUF,Rufford Rail Station,53.63446,-2.80784
+RUGBY,RUG,Rugby Rail Station,52.37909,-1.25048
+RUGL,RGL,Rugeley Trent Valley Rail Station,52.76965,-1.92985
+RUGLTWN,RGT,Rugeley Town Rail Station,52.75438,-1.93684
+RUNCORN,RUN,Runcorn Rail Station,53.33869,-2.73925
+RUNCRNE,RUE,Runcorn East Rail Station,53.32757,-2.6657
+RUSWARP,RUS,Ruswarp Rail Station,54.47019,-0.62777
+RWLNDSC,RLN,Rowlands Castle Rail Station,50.89217,-0.95747
+RYDE,RYD,Ryde Esplanade Rail Station,50.73287,-1.15962
+RYDP,RYP,Ryde Pier Head Rail Station,50.73918,-1.16013
+RYDRBRW,RRB,Ryder Brow Rail Station,53.45658,-2.17309
+RYDS,RYR,Ryde St Johns Road Rail Station,50.72436,-1.15657
+RYEE,RYE,Rye Rail Station,50.95237,0.7307
+RYEHOUS,RYH,Rye House Rail Station,51.76941,0.00563
+SABR,SNA,Sandal & Agbrigg Rail Station,53.66308,-1.48142
+SACTON,SAT,South Acton Rail Station,51.49969,-0.27016
+SADWRD,SAR,St Andrews Road Rail Station,51.51277,-2.69631
+SAIR,SAE,Saltaire Rail Station,53.83849,-1.79048
+SALFDS,SAF,Salfords (Surrey) Rail Station,51.20175,-0.16249
+SALHOUS,SAH,Salhouse Rail Station,52.67557,1.39142
+SALWICK,SLW,Salwick Rail Station,53.78154,-2.81704
+SANDH,SDL,Sandhills Rail Station,53.42994,-2.99149
+SANKEY,SNK,Sankey for Penketh Rail Station,53.39246,-2.65047
+SANQHAR,SQH,Sanquhar Rail Station,55.37017,-3.92452
+SANWBUS,SAO,ST ANDREWS BUS STATION,56.34095,-2.80394
+SARN,SRR,Sarn Rail Station,51.53871,-3.58991
+SASH,STS,Saltash Rail Station,50.40735,-4.20911
+SAXILBY,SXY,Saxilby Rail Station,53.2672,-0.66404
+SBCH,SDB,Sandbach Rail Station,53.15017,-2.39351
+SBDGWTH,SAW,Sawbridgeworth Rail Station,51.81435,0.16041
+SBOUBUS,SOB,SOUTHBOURNE (A259),50.84841,-0.90761
+SBOURNE,SOB,Southbourne Rail Station,50.84828,-0.90811
+SBRMNDS,SBM,South Bermondsey Rail Station,51.48813,-0.05468
+SBRN,SLB,Saltburn Rail Station,54.58345,-0.97413
+SBROUGH,SLL,Stallingborough Rail Station,53.58709,-0.18367
+SBURY,SBU,Southbury Rail Station,51.6487,-0.05244
+SBYD,SYB,Stalybridge Rail Station,53.48458,-2.06274
+SCARBRO,SCA,Scarborough Rail Station,54.27979,-0.4057
+SCNTHRP,SCU,Scunthorpe Rail Station,53.58617,-0.65098
+SCRBSTR,SCB,SCRABSTER,58.61138,-3.54224
+SCROYDN,SCY,South Croydon Rail Station,51.36296,-0.09346
+SCSCLDR,SCT,Scotscalder Rail Station,58.48299,-3.55205
+SCTSTNH,SCH,Scotstounhill Rail Station,55.88514,-4.35289
+SDAL,SVR,Silverdale Rail Station,54.16991,-2.80384
+SDBRYHH,SDH,Sudbury Hill Harrow Rail Station,51.55846,-0.3358
+SDBRYHR,SUD,Sudbury & Harrow Road Rail Station,51.5544,-0.31547
+SDLG,SDG,Sandling Rail Station,51.09037,1.06604
+SDON,SWI,Swindon Rail Station,51.56547,-1.78551
+SDPLACE,SDP,Sandplace Rail Station,50.38675,-4.46448
+SDRSFOT,SDF,Saundersfoot Rail Station,51.72246,-4.71802
+SDSD,SNR,Sanderstead Rail Station,51.34828,-0.09368
+SEABURN,SEB,Seaburn Rail Station,54.9295,-1.38666
+SEAFORD,SEF,Seaford Rail Station,50.77284,0.10013
+SEAHAM,SEA,Seaham Rail Station,54.83905,-1.34634
+SEAMER,SEM,Seamer Rail Station,54.24075,-0.41703
+SEASCAL,SSC,Seascale Rail Station,54.39587,-3.48451
+SEERGRN,SRG,Seer Green Rail Station,51.60984,-0.60782
+SELAFLD,SEL,Sellafield Rail Station,54.41658,-3.51046
+SELBY,SBY,Selby Rail Station,53.78278,-1.06379
+SELHRST,SRS,Selhurst Rail Station,51.39193,-0.0883
+SELLING,SEG,Selling Rail Station,51.27735,0.94087
+SELMSAL,SES,South Elmsall Rail Station,53.59461,-1.28486
+SELYOAK,SLY,Selly Oak Rail Station,52.44198,-1.93581
+SEMILLS,SML,Sea Mills Rail Station,51.47999,-2.64995
+SESARDM,SEE,Southease Rail Station,50.83126,0.03064
+SETNCRW,SEC,Seaton Carew Rail Station,54.65831,-1.20043
+SETTLE,SET,Settle Rail Station,54.06691,-2.28071
+SEVNSIS,SVS,Seven Sisters Rail Station,51.58227,-0.07527
+SEVTNLJ,STJ,Severn Tunnel Junction Rail Station,51.58468,-2.77789
+SFRTHAL,SFL,Seaforth & Litherland Rail Station,53.46627,-3.00562
+SGFORD,SGN,South Greenford Rail Station,51.53375,-0.3367
+SGRLOAF,SUG,Sugar Loaf Rail Station,52.08227,-3.68695
+SHADWEL,SDE,Shadwell Rail Station,51.51128,-0.05693
+SHALFD,SFR,Shalford (Surrey) Rail Station,51.21432,-0.5668
+SHAMPTN,SHH,Shirehampton Rail Station,51.48435,-2.67927
+SHANKLN,SHN,Shanklin Rail Station,50.63391,-1.17983
+SHAWFD,SHW,Shawford Rail Station,51.02212,-1.32777
+SHBN,SIE,Sherburn-in-Elmet Rail Station,53.79715,-1.23268
+SHBRYNS,SRY,Shoeburyness Rail Station,51.53097,0.79534
+SHDN,SHD,Shildon Rail Station,54.62616,-1.63661
+SHEFFLD,SHF,Sheffield Rail Station,53.37822,-1.46211
+SHELFD,SED,Shelford (Cambs) Rail Station,52.14883,0.13998
+SHENFLD,SNF,Shenfield Rail Station,51.63088,0.32985
+SHEPRTN,SHP,Shepperton Rail Station,51.3968,-0.44679
+SHERBRN,SHE,Sherborne Rail Station,50.94402,-2.51307
+SHIFNAL,SFN,Shifnal Rail Station,52.66607,-2.37184
+SHILDMR,SDM,Shieldmuir Rail Station,55.77729,-3.95749
+SHIRLEY,SRL,Shirley Rail Station,52.40342,-1.84518
+SHLIER,SIH,St Helier (London) Rail Station,51.3899,-0.19877
+SHMPSTD,SOH,South Hampstead Rail Station,51.54143,-0.17888
+SHNS,SEN,Shenstone Rail Station,52.63936,-1.8442
+SHOLING,SHO,Sholing Rail Station,50.89675,-1.36491
+SHOTTHL,SHT,Shotton High Level Rail Station,53.21353,-3.0377
+SHOTTON,SHT,Shotton Rail Station,53.21254,-3.03842
+SHPDSB,SPB,Shepherds Bush Rail Station,51.50528,-0.21765
+SHPLAKE,SHI,Shiplake Rail Station,51.51146,-0.8826
+SHPRTH,STH,Shepreth Rail Station,52.11416,0.03132
+SHPY,SHY,Shipley Rail Station,53.83305,-1.77349
+SHRBROK,SHB,Shirebrook Rail Station,53.20424,-1.20244
+SHRDHST,SDC,Shoreditch High Street Rail Station,51.52326,-0.07487
+SHRGHAM,SHM,Sheringham Rail Station,52.94143,1.21032
+SHRHMBS,SSE,Shoreham-by-Sea (Sussex) Rail Station,50.83443,-0.27172
+SHRKSKS,SRO,Shireoaks Rail Station,53.32477,-1.16799
+SHRMKT,SEH,Shoreham (Kent) Rail Station,51.33222,0.18889
+SHRNSOS,SSS,Sheerness-on-Sea Rail Station,51.44106,0.75853
+SHRTLND,SRT,Shortlands Rail Station,51.4058,0.00178
+SHRWBY,SHR,Shrewsbury Rail Station,52.71193,-2.74976
+SHTLSTN,SLS,Shettleston Rail Station,55.85354,-4.16004
+SHTT,SHS,Shotts Rail Station,55.81865,-3.79832
+SHVN,STN,Stonehaven Rail Station,56.96682,-2.2253
+SHWFAIR,SFI,Shawfair Rail Station,55.91994,-3.07871
+SHWLNDS,SHL,Shawlands Rail Station,55.82921,-4.29234
+SIDCUP,SID,Sidcup Rail Station,51.43387,0.10379
+SILCRFT,SIC,Silecroft Rail Station,54.22596,-3.33444
+SILEBY,SIL,Sileby Rail Station,52.73159,-1.10999
+SINGER,SIN,Singer Rail Station,55.90767,-4.40549
+SIVRST,SLV,Silver Street Rail Station,51.61469,-0.06724
+SKEGNES,SKG,Skegness Rail Station,53.14318,0.33435
+SKENTON,SOK,South Kenton Rail Station,51.57029,-0.30832
+SKEWEN,SKE,Skewen Rail Station,51.66139,-3.84651
+SKPT,SKI,Skipton Rail Station,53.95869,-2.02587
+SKSCMN,SLK,Silkstone Common Rail Station,53.53492,-1.56348
+SLADEGN,SGR,Slade Green Rail Station,51.46778,0.19049
+SLATEFD,SLA,Slateford Rail Station,55.92669,-3.24346
+SLCT,SLT,Saltcoats Rail Station,55.63388,-4.78429
+SLEFD,SLR,Sleaford Rail Station,52.99547,-0.41035
+SLEGHTS,SLH,Sleights Rail Station,54.46105,-0.66248
+SLEHOPE,SFO,Stanford-le-Hope Rail Station,51.51436,0.42304
+SLFDCT,SLD,Salford Crescent Rail Station,53.48659,-2.27575
+SLFDORD,SFD,Salford Central Rail Station,53.48282,-2.25558
+SLOUGH,SLO,Slough Rail Station,51.51188,-0.59151
+SLSBRY,SAL,Salisbury Rail Station,51.07055,-1.80639
+SLTHWTE,SWT,Slaithwaite Rail Station,53.62383,-1.88158
+SLTMRSH,SAM,Saltmarshe Rail Station,53.72192,-0.80949
+SMALBRK,SAB,Smallbrook Junction Rail Station,50.71149,-1.15507
+SMARGRT,SMT,St Margarets (Herts) Rail Station,51.78784,0.00127
+SMBG,SMB,Smithy Bridge Rail Station,53.63325,-2.1135
+SMERTON,SMO,South Merton Rail Station,51.40299,-0.20516
+SMILFD,SOM,South Milford Rail Station,53.78232,-1.25053
+SMINSTR,SMN,Southminster Rail Station,51.66062,0.83519
+SMLHTH,SMA,Small Heath Rail Station,52.46376,-1.85939
+SMRLYTN,SYT,Somerleyton Rail Station,52.51023,1.65226
+SMTHKRS,SMR,Smethwick Rolfe Street Rail Station,52.49638,-1.97064
+SNAITH,SNI,Snaith Rail Station,53.69311,-1.02846
+SNDHRST,SND,Sandhurst Rail Station,51.34693,-0.80459
+SNDOWN,SAN,Sandown Rail Station,50.65687,-1.16239
+SNDP,SUP,Sundridge Park Rail Station,51.41378,0.02145
+SNDRLND,SUN,Sunderland Rail Station,54.90613,-1.3824
+SNDRMNK,STZ,St Peters Rail Station,54.91142,-1.38386
+SNDWDUD,SAD,Sandwell & Dudley Rail Station,52.50866,-2.0116
+SNDY,SDY,Sandy Rail Station,52.12473,-0.28119
+SNGT,SOG,Stonegate Rail Station,51.01997,0.36387
+SNODLND,SDA,Snodland Rail Station,51.33023,0.44824
+SNSS,SOS,STROMNESS,58.96324,-3.29674
+SNWDNAN,SWO,Snowdown Rail Station,51.2153,1.21371
+SOAV,SAV,Stratford-upon-Avon Rail Station,52.19425,-1.71629
+SOAVPWY,STY,Stratford-upon-Avon Parkway Rail Station,52.20678,-1.73084
+SOLEST,SOR,Sole Street Rail Station,51.38314,0.3781
+SOLIHUL,SOL,Solihull Rail Station,52.41439,-1.78839
+SOTON,SOU,Southampton Central Rail Station,50.90745,-1.4136
+SOTPKWY,SOA,Southampton Airport Parkway Rail Station,50.95081,-1.3631
+SOUTHPT,SOP,Southport Rail Station,53.64652,-3.00243
+SPALDNG,SPA,Spalding Rail Station,52.7888,-0.15688
+SPDN,SPO,Spondon Rail Station,52.91222,-1.41109
+SPEANBD,SBR,Spean Bridge Rail Station,56.89001,-4.92161
+SPFD,SPF,Springfield Rail Station,56.29497,-3.05245
+SPHL,SPP,Shippea Hill Rail Station,52.43021,0.41335
+SPHS,SPU,Staplehurst Rail Station,51.17147,0.55044
+SPITAL,SPI,Spital Rail Station,53.33994,-2.99391
+SPLY,SPY,Shepley Rail Station,53.58874,-1.70493
+SPONRRW,SPN,Spooner Row Rail Station,52.535,1.08648
+SPRD,SRI,Spring Road Rail Station,52.44341,-1.83739
+SPRNGBN,SPR,Springburn Rail Station,55.88194,-4.23053
+SPTN,SIP,Shipton Rail Station,51.86565,-1.59269
+SQUIRES,SQU,Squires Gate Rail Station,53.77733,-3.0503
+SRUISLP,SRU,South Ruislip Rail Station,51.55706,-0.39919
+STAFFRD,STA,Stafford Rail Station,52.80349,-2.12235
+STAINES,SNS,Staines Rail Station,51.43245,-0.50316
+STALBCY,SAC,St Albans City Rail Station,51.75047,-0.32754
+STALBNA,SAA,St Albans Abbey Rail Station,51.74473,-0.34257
+STAMFD,SMD,Stamford Rail Station,52.64783,-0.48012
+STANAIR,SSD,Stansted Airport Rail Station,51.88859,0.26082
+STANMFC,SST,Stansted Mountfitchet Rail Station,51.90144,0.19978
+STARBCK,SBE,Starbeck Rail Station,53.999,-1.50113
+STAS,SAS,St Annes-on-the-Sea Rail Station,53.75303,-3.0291
+STAUSTL,SAU,St Austell Rail Station,50.33952,-4.78936
+STAVELY,SVL,Staveley Rail Station,54.37553,-2.81886
+STBDXFR,SBF,St Budeaux Ferry Road Rail Station,50.40139,-4.18681
+STBDXVR,SBV,St Budeaux Victoria Road Rail Station,50.40201,-4.1874
+STBEES,SBS,St Bees Rail Station,54.49253,-3.59115
+STCKSFL,SKS,Stocksfield Rail Station,54.94705,-1.91676
+STCLMBR,SCR,St Columb Road Rail Station,50.3987,-4.94076
+STCN,STC,Strathcarron Rail Station,57.42273,-5.42861
+STCR,SCG,Stone Crossing Rail Station,51.45133,0.26377
+STDENYS,SDN,St Denys Rail Station,50.92219,-1.38776
+STDI,STI,STADIUM OF LIGHT STN T&WM,54.91819,-1.38313
+STECHFD,SCF,Stechford Rail Station,52.48482,-1.81103
+STEETON,SON,Steeton & Silsden Rail Station,53.90003,-1.94472
+STEPPS,SPS,Stepps Rail Station,55.89013,-4.14081
+STERTH,SER,St Erth Rail Station,50.17049,-5.44425
+STEVNGE,SVG,Stevenage Rail Station,51.90169,-0.20711
+STEWRTN,STT,Stewarton Rail Station,55.68215,-4.51806
+STFD,SRA,Stratford (London) Rail Station,51.54154,-0.0044
+STFODOM,SFA,Stratford International Rail Station,51.54483,-0.00878
+STGRMNS,SGM,St Germans Rail Station,50.39427,-4.3084
+STHALL,STL,Southall Rail Station,51.50595,-0.37861
+STHBANK,SBK,South Bank Rail Station,54.58383,-1.17667
+STHCENT,SOC,Southend Central Rail Station,51.53706,0.71173
+STHEAIR,SIA,Southend Airport Rail Station,51.56867,0.70505
+STHGYLE,SGL,South Gyle Rail Station,55.93635,-3.29948
+STHLNSC,SNH,St Helens Central Rail Station,53.45312,-2.7303
+STHLNSJ,SHJ,St Helens Junction Rail Station,53.43372,-2.70026
+STHNDE,SOE,Southend East Rail Station,51.53897,0.73181
+STHS,SHC,Streethouse Rail Station,53.67615,-1.40012
+STHVIC,SOV,Southend Victoria Rail Station,51.54151,0.7115
+STHWICK,SWK,Southwick Rail Station,50.83251,-0.23596
+STIRLNG,STG,Stirling Rail Station,56.11987,-3.93454
+STIVES,SIV,St Ives (Cornwall) Rail Station,50.20904,-5.47791
+STJAMSP,SJP,St James Park (Devon) Rail Station,50.73115,-3.52199
+STJMSST,SJS,St James Street (London) Rail Station,51.58098,-0.03292
+STJOHNS,SAJ,St Johns (London) Rail Station,51.46939,-0.02272
+STKEYNE,SKN,St Keyne Wishing Well Halt (Rail Station),50.42304,-4.46352
+STKM,SKM,Stoke Mandeville Rail Station,51.78779,-0.78409
+STKNWNG,SKW,Stoke Newington Rail Station,51.56523,-0.07289
+STKP,SPT,Stockport Rail Station,53.40554,-2.16301
+STKSMR,SSM,Stocksmoor Rail Station,53.59409,-1.72325
+STLEIGH,SNL,Stoneleigh Rail Station,51.3634,-0.24867
+STLNRWS,SLQ,St Leonards Warrior Square Rail Station,50.85569,0.56028
+STMAQUY,SMQ,ST. MARYS QUAY,49.916,-6.31855
+STMCHLS,STM,St Michaels Rail Station,53.3756,-2.9528
+STMFDHL,SMH,Stamford Hill Rail Station,51.57447,-0.07668
+STMGTS,SMG,St Margarets (London) Rail Station,51.45523,-0.3202
+STMRYC,SMY,St Mary Cray Rail Station,51.39475,0.10638
+STNBGPK,SBP,Stonebridge Park Rail Station,51.54404,-0.27598
+STNEOTS,SNO,St Neots Rail Station,52.23157,-0.24741
+STNGBRN,SIT,Sittingbourne Rail Station,51.34198,0.73468
+STNHPO,SHU,STONEHOUSE POST OFFICE,51.74607,-2.2795
+STNHSE,SHU,Stonehouse Rail Station,51.74589,-2.2795
+STNLWAT,SNT,Stanlow & Thornton Rail Station,53.27836,-2.84205
+STOCTON,STK,Stockton Rail Station,54.56962,-1.31854
+STOKEOT,SOT,Stoke-on-Trent Rail Station,53.00798,-2.18099
+STOKHAN,HNY,HANLEY BUS STATION,53.02377,-2.1729
+STONE,SNE,Stone Rail Station,52.90832,-2.15504
+STONECS,SCN,STONE CROWN STREET,52.90065,-2.14713
+STONEGS,SGQ,STONE GRANVILLE SQUARE,52.90514,-2.14715
+STOTNHM,STO,South Tottenham Rail Station,51.58037,-0.0721
+STOW,SOI,Stow Rail Station,55.69175,-2.86684
+STPADOM,STP,London St Pancras International Rail Station,51.53251,-0.12646
+STPLTNR,SRD,Stapleton Road Rail Station,51.46751,-2.56622
+STPX,STP,London St Pancras International Rail Station,51.53239,-0.12719
+STPXBOX,STP,London St Pancras International LL Rail Station,51.53217,-0.12734
+STRBDG1,SBJ,Stourbridge Junction Rail Station,52.44754,-2.13388
+STRBDGJ,SBJ,Stourbridge Junction Rail Station,52.44759,-2.13385
+STRBDGT,SBT,Stourbridge Town Rail Station,52.45558,-2.14182
+STRCROS,SCS,Starcross Rail Station,50.6278,-3.4477
+STRETHM,STE,Streatham Rail Station,51.42581,-0.13155
+STRHCOM,SRC,Streatham Common Rail Station,51.41873,-0.13601
+STRHILL,SRH,Streatham Hill Rail Station,51.43819,-0.12716
+STRINES,SRN,Strines Rail Station,53.37504,-2.03392
+STRMFRY,STF,Stromeferry Rail Station,57.3523,-5.55116
+STRNRR,STR,Stranraer Rail Station,54.9096,-5.02474
+STROOD,SOO,Strood Rail Station,51.39655,0.50019
+STRUD,STD,Stroud (Glos) Rail Station,51.74462,-2.21938
+STRWBYH,STW,Strawberry Hill Rail Station,51.43896,-0.33936
+STTNPWY,SPK,Sutton Parkway Rail Station,53.11409,-1.24557
+STURRY,STU,Sturry Rail Station,51.30107,1.12226
+STVNSTN,STV,Stevenston Rail Station,55.63428,-4.75079
+STWMRKT,SMK,Stowmarket Rail Station,52.18971,1.00001
+STWRTBY,SWR,Stewartby Rail Station,52.06908,-0.52069
+STWY,SOY,STORNOWAY,58.20633,-6.38748
+STYAL,SYA,Styal Rail Station,53.34833,-2.24046
+SUDBURY,SUY,Sudbury (Suffolk) Rail Station,52.03628,0.73544
+SUMRSTN,SUM,Summerston Rail Station,55.89883,-4.29154
+SUNBURY,SUU,Sunbury Rail Station,51.41831,-0.41778
+SUNDRTN,SDR,Saunderton Rail Station,51.6759,-0.82547
+SUNNGDL,SNG,Sunningdale Rail Station,51.39194,-0.63304
+SUNYMDS,SNY,Sunnymeads Rail Station,51.47029,-0.55937
+SURBITN,SUR,Surbiton Rail Station,51.39246,-0.30396
+SURREYQ,SQE,Surrey Quays Rail Station,51.49319,-0.04752
+SUTCO,SUT,Sutton Coldfield Rail Station,52.56494,-1.82484
+SUTTON,SUO,Sutton (London) Rail Station,51.35953,-0.19121
+SUTTONC,SUC,Sutton Common Rail Station,51.37489,-0.19634
+SVNKNGS,SVK,Seven Kings Rail Station,51.56402,0.0971
+SVNOAKS,SEV,Sevenoaks Rail Station,51.27686,0.18167
+SVRNBCH,SVB,Severn Beach Rail Station,51.56003,-2.66448
+SWALE,SWL,Swale Rail Station,51.38923,0.74713
+SWANSEA,SWA,Swansea Rail Station,51.62532,-3.94086
+SWAY,SWY,Sway Rail Station,50.7847,-1.61
+SWCH,SDW,Sandwich Rail Station,51.2699,1.34257
+SWELL,SPH,Shepherds Well Rail Station,51.1884,1.22991
+SWINTN,SWN,Swinton (South Yorks) Rail Station,53.48624,-1.30582
+SWLY,SAY,Swanley Rail Station,51.39339,0.16923
+SWNDRBY,SWD,Swinderby Rail Station,53.16955,-0.70268
+SWNSCMB,SWM,Swanscombe Rail Station,51.44907,0.30954
+SWNSGD,SWM,SWANSCOMBE-GEORGE & DRAGON,51.45028,0.3113
+SWNT,SNN,Swinton (Manchester) Rail Station,53.51483,-2.33746
+SWNWICK,SNW,Swanwick Rail Station,50.87567,-1.26585
+SWRBBDG,SOW,Sowerby Bridge Rail Station,53.70784,-1.90702
+SWSHEAD,SWE,Swineshead Rail Station,52.9698,-0.18717
+SWYTHLN,SWG,Swaythling Rail Station,50.94115,-1.37641
+SXMNDHM,SAX,Saxmundham Rail Station,52.21489,1.49016
+SYDENHM,SYD,Sydenham Rail Station,51.42725,-0.05424
+SYDNHMH,SYH,Sydenham Hill Rail Station,51.43271,-0.08034
+SYONLA,SYL,Syon Lane Rail Station,51.48178,-0.32484
+SYSTON,SYS,Syston Rail Station,52.69421,-1.0824
+TABY,TBY,Thornaby Rail Station,54.55927,-1.30141
+TACKLEY,TAC,Tackley Rail Station,51.88124,-1.29754
+TADWBUS,TTA,TADWORTH (THE AVENUE),51.29168,-0.23883
+TADWTH,TAD,Tadworth Rail Station,51.29164,-0.23596
+TAFFSWL,TAF,Taffs Well Rail Station,51.5408,-3.26294
+TAIN,TAI,Tain Rail Station,57.81442,-4.05205
+TALB,TLB,Talybont Rail Station,52.77263,-4.0966
+TALYCFN,TLC,Tal-y-Cafn Rail Station,53.22836,-3.81826
+TAMEBDG,TAB,Tame Bridge Parkway Rail Station,52.55293,-1.97621
+TAPLOW,TAP,Taplow Rail Station,51.52356,-0.68137
+TATNHMC,TAT,Tattenham Corner Rail Station,51.30918,-0.24261
+TAUNTON,TAU,Taunton Rail Station,51.0233,-3.10274
+TAYNULT,TAY,Taynuilt Rail Station,56.43081,-5.23961
+TCULVRT,TPC,Thorpe Culvert Rail Station,53.12309,0.19942
+TDITTON,THD,Thames Ditton Rail Station,51.3891,-0.33915
+TEDNGTN,TED,Teddington Rail Station,51.42448,-0.33271
+TEINMTH,TGM,Teignmouth Rail Station,50.54806,-3.49466
+TELFRDC,TFC,Telford Central Rail Station,52.68111,-2.44097
+TENBY,TEN,Tenby Rail Station,51.67294,-4.7067
+TEYNHAM,TEY,Teynham Rail Station,51.33339,0.80743
+THABBEY,TNA,Thornton Abbey Rail Station,53.6543,-0.32302
+THAL,THT,Thorntonhall Rail Station,55.76868,-4.25116
+THATCHM,THA,Thatcham Rail Station,51.39384,-1.24319
+THBDGS,TBD,Three Bridges Rail Station,51.11692,-0.16118
+THBLDSG,TEO,Theobalds Grove Rail Station,51.69245,-0.03483
+THEALE,THE,Theale Rail Station,51.43345,-1.07497
+THELAKS,TLK,The Lakes Rail Station,52.35914,-1.84467
+THETFD,TTF,Thetford Rail Station,52.41912,0.74507
+THFORD,THO,Thornford Rail Station,50.91057,-2.57899
+THHT,THH,Thatto Heath Rail Station,53.43658,-2.75937
+THIRSK,THI,Thirsk Rail Station,54.22821,-1.37259
+THLB,THB,Thornliebank Rail Station,55.8111,-4.31171
+THOK,TOK,Three Oaks Rail Station,50.90111,0.61305
+THOKLB,TOK,THREE OAKS - LANE BRIDGE,50.89985,0.61106
+THOPBAY,TPB,Thorpe Bay Rail Station,51.53757,0.76173
+THORNEN,TNN,Thorne North Rail Station,53.61606,-0.97233
+THORNES,TNS,Thorne South Rail Station,53.60333,-0.95511
+THPLESK,TLS,Thorpe-le-Soken Rail Station,51.84763,1.1614
+THRGRTN,THU,Thurgarton Rail Station,53.02894,-0.96226
+THTH,TTH,Thornton Heath Rail Station,51.39878,-0.10031
+THURSO,THS,Thurso Rail Station,58.59018,-3.52755
+THUSTON,TRS,Thurston Rail Station,52.25,0.80865
+TILEH,THL,Tile Hill Rail Station,52.3951,-1.59685
+TILHRST,TLH,Tilehurst Rail Station,51.47151,-1.02982
+TIPTON,TIP,Tipton Rail Station,52.53044,-2.0657
+TIRPHIL,TIR,Tir-phil Rail Station,51.7209,-3.24638
+TISBURY,TIS,Tisbury Rail Station,51.06085,-2.079
+TIVIPW,TVP,Tiverton Parkway Rail Station,50.91718,-3.35964
+TLBYRSD,TBR,TILBURY RIVERSIDE,51.45128,0.36568
+TLBYTWN,TIL,Tilbury Town Rail Station,51.46236,0.35404
+TLSRNAU,TAL,Talsarnau Rail Station,52.90431,-4.06815
+TMPCMB,TMC,Templecombe Rail Station,51.0015,-2.41772
+TMWTHHL,TAM,Tamworth High Level Rail Station,52.63689,-1.68649
+TMWTHLL,TAM,Tamworth Rail Station,52.63755,-1.68753
+TNYPNDY,TNP,Tonypandy Rail Station,51.61976,-3.44887
+TODMRDN,TOD,Todmorden Rail Station,53.71382,-2.09966
+TOLWTH,TOL,Tolworth Rail Station,51.37686,-0.27946
+TONBDG,TON,Tonbridge Rail Station,51.19141,0.27097
+TONDU,TDU,Tondu Rail Station,51.54736,-3.59555
+TONFNAU,TNF,Tonfanau Rail Station,52.61354,-4.1237
+TONPNTR,TPN,Ton Pentre Rail Station,51.6478,-3.48619
+TOOTING,TOO,Tooting Rail Station,51.41985,-0.16128
+TOPSHAM,TOP,Topsham Rail Station,50.68621,-3.46442
+TORQUAY,TQY,Torquay Rail Station,50.46113,-3.54328
+TORRE,TRR,Torre Rail Station,50.47319,-3.54642
+TOTNES,TOT,Totnes Rail Station,50.43586,-3.68869
+TOTTON,TTN,Totton Rail Station,50.91788,-1.48242
+TOWNGRN,TWN,Town Green Rail Station,53.54281,-2.90449
+TRDYRHW,TRD,Troed-y-Rhiw Rail Station,51.71242,-3.34674
+TREFRST,TRF,Trefforest Rail Station,51.59146,-3.32512
+TREHAFD,TRH,Trehafod Rail Station,51.61015,-3.38097
+TREHRBT,TRB,Treherbert Rail Station,51.67224,-3.5363
+TREORCY,TRY,Treorchy Rail Station,51.65753,-3.50573
+TRFDPK,TRA,Trafford Park Rail Station,53.45482,-2.31063
+TRFRSTE,TRE,Trefforest Estate Rail Station,51.56829,-3.29025
+TRIMLEY,TRM,Trimley Rail Station,51.97653,1.31954
+TRING,TRI,Tring Rail Station,51.80074,-0.62244
+TRNO,THC,Thurnscoe Rail Station,53.54504,-1.30878
+TROON,TRN,Troon Rail Station,55.54281,-4.6553
+TRURO,TRU,Truro Rail Station,50.26384,-5.06481
+TRWBRDG,TRO,Trowbridge Rail Station,51.31983,-2.21433
+TSDARPR,TEA,Tees-side Airport Rail Station,54.51813,-1.42531
+TTNHMHL,TOM,Tottenham Hale Rail Station,51.58831,-0.05993
+TULLOCH,TUL,Tulloch Rail Station,56.88428,-4.70132
+TULSEH,TUH,Tulse Hill Rail Station,51.43986,-0.10508
+TUNWELL,TBW,Tunbridge Wells Rail Station,51.13023,0.26281
+TURKYST,TUR,Turkey Street Rail Station,51.67263,-0.04722
+TUTBURY,TUT,Tutbury & Hatton Rail Station,52.86413,-1.68223
+TWCKNHM,TWI,Twickenham Rail Station,51.45003,-0.33039
+TWDBANK,TWB,Tweedbank Rail Station,55.60561,-2.75842
+TWYFORD,TWY,Twyford Rail Station,51.47553,-0.86329
+TYCROES,TYC,Ty Croes Rail Station,53.22256,-4.47473
+TYGLAS,TGS,Ty Glas Rail Station,51.52154,-3.19653
+TYGWYN,TYG,Tygwyn Rail Station,52.89378,-4.07865
+TYNDRML,TYL,Tyndrum Lower Rail Station,56.43372,-4.71371
+TYNDRMU,UTY,Upper Tyndrum Rail Station,56.43466,-4.70372
+TYSL,TYS,Tyseley Rail Station,52.45411,-1.83912
+TYWYN,TYW,Tywyn Rail Station,52.58557,-4.09356
+UCKFILD,UCK,Uckfield Rail Station,50.96874,0.09638
+UDNGSTN,UDD,Uddingston Rail Station,55.82353,-4.0867
+UHALIFD,UPH,Upper Halliford Rail Station,51.41307,-0.43091
+UIGG,UIG,UIG,57.58525,-6.3719
+ULCEBY,ULC,Ulceby Rail Station,53.6192,-0.30083
+ULESKLF,ULL,Ulleskelf Rail Station,53.85361,-1.21397
+ULLAPOL,ULP,ULLAPOOL,57.89478,-5.16002
+ULVRSTN,ULV,Ulverston Rail Station,54.19158,-3.09792
+UMBRLGH,UMB,Umberleigh Rail Station,50.99675,-3.98289
+UNVRSYB,UNI,University Rail Station,52.45124,-1.93668
+UPHALL,UHA,Uphall Rail Station,55.91904,-3.50212
+UPHOLND,UPL,Upholland Rail Station,53.52838,-2.7414
+UPMNSP6,UPM,Upminster Rail Station,51.55911,0.25088
+UPMNSTR,UPM,Upminster Rail Station,51.55915,0.25095
+UPRHLWY,UHL,Upper Holloway Rail Station,51.56363,-0.12951
+UPTON,UPT,Upton Rail Station,53.38649,-3.08415
+UPWEY,UPW,Upwey Rail Station,50.64827,-2.46614
+URMSTON,URM,Urmston Rail Station,53.44827,-2.3538
+UTOXETR,UTT,Uttoxeter Rail Station,52.89679,-1.85725
+UWRLNGH,UWL,Upper Warlingham Rail Station,51.30851,-0.07795
+VALLEY,VAL,Valley Rail Station,53.28128,-4.56337
+VAUXHLM,VXH,Vauxhall Rail Station,51.48619,-0.12289
+VICTRIC,VIC,London Victoria Rail Station,51.49526,-0.14456
+VICTRIE,VIC,London Victoria Rail Station,51.49526,-0.14454
+VRGNWTR,VIR,Virginia Water Rail Station,51.4018,-0.56217
+WADDON,WDO,Waddon Rail Station,51.3674,-0.11734
+WADHRST,WAD,Wadhurst Rail Station,51.07346,0.31317
+WAINFLT,WFL,Wainfleet Rail Station,53.10512,0.23473
+WALAGRD,WLG,Wallasey Grove Road Rail Station,53.428,-3.06971
+WALASYV,WLV,Wallasey Village Rail Station,53.42288,-3.06913
+WALERTN,WSA,West Allerton Rail Station,53.36912,-2.90696
+WALHAMX,WLC,Waltham Cross Rail Station,51.68506,-0.02656
+WALKDEN,WKD,Walkden Rail Station,53.51977,-2.39632
+WALLYFD,WAF,Wallyford Rail Station,55.94028,-3.01495
+WALMER,WAM,Walmer Rail Station,51.20332,1.38287
+WALNGTN,WLT,Wallington Rail Station,51.36038,-0.15083
+WALSALL,WSL,Walsall Rail Station,52.5844,-1.98475
+WALTONM,WAO,Walton (Merseyside) Rail Station,53.45621,-2.96575
+WANBRO,WAN,Wanborough Rail Station,51.24452,-0.66759
+WANDCMN,WSW,Wandsworth Common Rail Station,51.44618,-0.16339
+WAPPING,WPE,Wapping Rail Station,51.50439,-0.05593
+WARE,WAR,Ware Rail Station,51.80796,-0.02878
+WARGRAV,WGV,Wargrave Rail Station,51.49816,-0.87652
+WARHAM,WRM,Wareham Rail Station,50.69289,-2.11525
+WARNHAM,WNH,Warnham Rail Station,51.0929,-0.32946
+WARWICK,WRW,Warwick Rail Station,52.28654,-1.58185
+WARWPWY,WRP,Warwick Parkway Rail Station,52.2861,-1.61206
+WATBECH,WBC,Waterbeach Rail Station,52.2623,0.19679
+WATCHET,WCT,WATCHET (WEST SOMERSET RY),51.18137,-3.32906
+WATFDHS,WFH,Watford High Street Rail Station,51.65265,-0.39171
+WATFDJ,WFJ,Watford Junction Rail Station,51.66391,-0.39593
+WATFDN,WFN,Watford North Rail Station,51.6757,-0.38993
+WATFJDC,WFJ,Watford Junction Rail Station,51.66366,-0.39598
+WATLGTN,WTG,Watlington Rail Station,52.67317,0.38332
+WATONAS,WAS,Watton-at-Stone Rail Station,51.85644,-0.11943
+WATRLMN,WAT,London Waterloo Rail Station,51.50251,-0.11214
+WATSTND,WTS,Whatstandwell Rail Station,53.08331,-1.50409
+WAUNGRN,WNG,Waun-gron Park Rail Station,51.48819,-3.22965
+WBRMPTN,WBP,West Brompton Rail Station,51.48706,-0.19559
+WBYFLET,WBY,West Byfleet Rail Station,51.33922,-0.50549
+WCALDER,WCL,West Calder Rail Station,55.8538,-3.56702
+WCHAPEL,ZLW,Whitechapel Rail Station,51.51947,-0.05976
+WCHR,WTC,Whitchurch (Shrops) Rail Station,52.96806,-2.6717
+WCKHMMR,WCM,Wickham Market Rail Station,52.1511,1.39868
+WCLIFF,WCF,Westcliff-on-Sea Rail Station,51.53733,0.69147
+WCOMBEP,WCB,Westcombe Park Rail Station,51.4842,0.01839
+WCROYDN,WCY,West Croydon Rail Station,51.37843,-0.10259
+WDEN,WDN,Walsden Rail Station,53.69626,-2.10446
+WDGRNPK,WGR,Woodgrange Park Rail Station,51.54926,0.04442
+WDHAMFR,SOF,South Woodham Ferrers Rail Station,51.64946,0.60651
+WDHOUSE,WDH,Woodhouse Rail Station,53.36374,-1.35755
+WDLESFD,WDS,Woodlesford Rail Station,53.75679,-1.44288
+WDMNSTR,WME,Woodmansterne Rail Station,51.31902,-0.15426
+WDND,WDE,Wood End Rail Station,52.34368,-1.84421
+WDNYMNR,WMR,Widney Manor Rail Station,52.39593,-1.77437
+WDON,WIM,Wimbledon Rail Station,51.42113,-0.2061
+WDRNGTN,WDD,Widdrington Rail Station,55.2413,-1.61647
+WDRYTON,WDT,West Drayton Rail Station,51.51005,-0.47223
+WDST,WST,Wood Street Rail Station,51.58658,-0.00241
+WDULCRD,WDU,WEST DULWICH - CROXTED RD,51.44043,-0.09066
+WDULWCH,WDU,West Dulwich Rail Station,51.44072,-0.09137
+WDWTOWN,WNT,Wandsworth Town Rail Station,51.46105,-0.18813
+WEALING,WEA,West Ealing Rail Station,51.5135,-0.32013
+WEDGORB,WER,WEDGWOOD  WEDGWOOD LANE,52.95367,-2.16071
+WEDGORD,WEO,WEDGWOOD ENTRANCE OLD ROAD,52.95095,-2.17558
+WEELEY,WEE,Weeley Rail Station,51.8531,1.11548
+WEETON,WET,Weeton Rail Station,53.92318,-1.58122
+WELHAMG,WMG,Welham Green Rail Station,51.73635,-0.21069
+WELLING,WLI,Welling Rail Station,51.4648,0.10169
+WELNGTN,WLN,Wellington (Shropshire) Rail Station,52.7013,-2.51717
+WELSHPL,WLP,Welshpool Rail Station,52.65749,-3.13987
+WEMBLSM,WCX,Wembley Stadium Rail Station,51.55441,-0.28561
+WEMM,WEM,Wem Rail Station,52.85641,-2.71802
+WEMYSSB,WMS,Wemyss Bay Rail Station,55.87614,-4.88908
+WENDOVR,WND,Wendover Rail Station,51.76176,-0.74737
+WENHNGR,WHA,Westenhanger Rail Station,51.09496,1.03805
+WENNGTN,WNN,Wennington Rail Station,54.1237,-2.58751
+WESGTOS,WGA,Westgate-on-Sea Rail Station,51.38144,1.33836
+WESTRTN,WES,Westerton Rail Station,55.90481,-4.33488
+WETHERL,WRL,Wetheral Rail Station,54.88384,-2.83171
+WEYBDGB,WYB,Weybridge Rail Station,51.36177,-0.45774
+WEYBDGE,WYB,Weybridge Rail Station,51.36177,-0.45772
+WEYMTH,WEY,Weymouth Rail Station,50.61531,-2.45422
+WGSTS,SWS,South Wigston Rail Station,52.58222,-1.13408
+WHAILES,WTA,Wester Hailes Rail Station,55.91432,-3.28434
+WHALLEY,WHE,Whalley Rail Station,53.82402,-2.41225
+WHALYBG,WBR,Whaley Bridge Rail Station,53.33023,-1.98465
+WHAMHL,WEH,West Ham Rail Station,51.52849,0.00543
+WHCH,WHT,Whitchurch (Cardiff) Rail Station,51.52075,-3.22325
+WHHL,WDL,Woodhall Rail Station,55.9312,-4.6554
+WHHRTLA,WHL,White Hart Lane Rail Station,51.60504,-0.07091
+WHIFLET,WFF,Whifflet Rail Station,55.85369,-4.01866
+WHIMPLE,WHM,Whimple Rail Station,50.76803,-3.35432
+WHINH,WNL,Whinhill Rail Station,55.93837,-4.74669
+WHISTON,WHN,Whiston Rail Station,53.41387,-2.79643
+WHITHVN,WTH,Whitehaven Rail Station,54.55303,-3.58693
+WHLAND,WTL,Whitland Rail Station,51.81803,-4.61439
+WHLE,WTE,Whitlocks End Rail Station,52.39183,-1.85154
+WHMDSTD,WHD,West Hampstead Rail Station,51.54747,-0.19118
+WHMPSTM,WHP,West Hampstead Thameslink Rail Station,51.54847,-0.19184
+WHORNDN,WHR,West Horndon Rail Station,51.56794,0.34064
+WHSTBLE,WHI,Whitstable Rail Station,51.35758,1.03329
+WHTBDGE,WBD,Whitley Bridge Rail Station,53.69913,-1.15828
+WHTCHRH,WCH,Whitchurch (Hants) Rail Station,51.23754,-1.33775
+WHTLSEA,WLE,Whittlesea Rail Station,52.54953,-0.11899
+WHTTON,WTN,Whitton Rail Station,51.44961,-0.35768
+WHWLL,WWL,Whitwell (Derbys) Rail Station,53.27996,-1.20021
+WHYTBUS,WHS,WHYTELEAFE SOUTH (A22),51.30443,-0.07766
+WHYTELF,WHY,Whyteleafe Rail Station,51.30996,-0.08115
+WHYTLFS,WHS,Whyteleafe South Rail Station,51.30339,-0.07692
+WICK,WCK,Wick Rail Station,58.44157,-3.09686
+WIDNES,WID,Widnes Rail Station,53.37849,-2.73354
+WIGANNW,WGN,Wigan North Western Rail Station,53.54366,-2.63327
+WIGANWL,WGW,Wigan Wallgate Rail Station,53.54482,-2.63319
+WIGTON,WGT,Wigton Rail Station,54.82912,-3.16434
+WIKFORD,WIC,Wickford Rail Station,51.61502,0.51919
+WILMCOT,WMC,Wilmcote Rail Station,52.223,-1.75601
+WILNECT,WNE,Wilnecote (Staffs) Rail Station,52.61071,-1.67971
+WIMBLDN,WIM,Wimbledon Rail Station,51.42122,-0.20598
+WIMLCHS,WBO,Wimbledon Chase Rail Station,51.40956,-0.21403
+WINCHLS,WSE,Winchelsea Rail Station,50.93376,0.70226
+WINCNEW,WNI,WINCHELSEA - NEW INN,50.92373,0.70774
+WINDSEC,WNC,Windsor & Eton Central Rail Station,51.48327,-0.61038
+WINERSH,WNS,Winnersh Rail Station,51.43028,-0.87686
+WINETGL,WTI,Winnersh Triangle Rail Station,51.43674,-0.89133
+WISBBUS,WIS,WISBECH BUS STATION,52.66533,0.15898
+WISHAW,WSH,Wishaw Rail Station,55.77204,-3.92642
+WITHAME,WTM,Witham (Essex) Rail Station,51.80597,0.63913
+WITLEY,WTY,Witley Rail Station,51.13316,-0.64578
+WITTON,WTT,Witton (West Midlands) Rail Station,52.51238,-1.88443
+WIVENHO,WIV,Wivenhoe Rail Station,51.85653,0.95614
+WKFLDKG,WKK,Wakefield Kirkgate Rail Station,53.67866,-1.48857
+WKFLDWG,WKF,Wakefield Westgate Rail Station,53.68307,-1.50611
+WKILBRD,WKB,West Kilbride Rail Station,55.69615,-4.85175
+WKIRBY,WKI,West Kirby Rail Station,53.37317,-3.18377
+WKNT,WKG,Workington Rail Station,54.64509,-3.5585
+WLDMILL,WMI,Wildmill Rail Station,51.52087,-3.57963
+WLDNGHM,WOH,Woldingham Rail Station,51.29016,-0.05187
+WLMSL,WML,Wilmslow Rail Station,53.32685,-2.22633
+WLNGBRO,WEL,Wellingborough Rail Station,52.30378,-0.67665
+WLNTNON,WIL,Willington Rail Station,52.85364,-1.56336
+WLOE,WAE,London Waterloo East Rail Station,51.50407,-0.1089
+WLOO,WLO,Waterloo (Merseyside) Rail Station,53.47495,-3.02554
+WLSDJHL,WIJ,Willesden Junction Rail Station,51.53199,-0.2434
+WLSDNJL,WIJ,Willesden Junction Low Level Rail Station,51.53247,-0.24516
+WLTHQRD,WMW,Walthamstow Queens Road Rail Station,51.5815,-0.02385
+WLTWCEN,WHC,Walthamstow Central Rail Station,51.58292,-0.01981
+WLVR,WOL,Wolverton Rail Station,52.06588,-0.80427
+WLWYNGC,WGC,Welwyn Garden City Rail Station,51.80105,-0.20407
+WLWYNN,WLW,Welwyn North Rail Station,51.8235,-0.19209
+WMALING,WMA,West Malling Rail Station,51.29202,0.41865
+WMBY,WMB,Wembley Central Rail Station,51.55234,-0.29645
+WMBYDC,WMB,Wembley Central DC,51.55224,-0.29677
+WMER,WDM,Windermere Rail Station,54.3796,-2.90339
+WMILTON,WNM,Weston Milton Rail Station,51.34847,-2.94239
+WMOR,WSR,Woodsmoor Rail Station,53.38647,-2.14209
+WMWD,WLM,Williamwood Rail Station,55.79368,-4.29033
+WNCFILD,WNF,Winchfield Rail Station,51.28495,-0.90698
+WNCHSTR,WIN,Winchester Rail Station,51.06721,-1.3197
+WNDSWRD,WWR,Wandsworth Road Rail Station,51.47021,-0.13852
+WNMHILL,WIH,Winchmore Hill Rail Station,51.63394,-0.1009
+WNORWOD,WNW,West Norwood Rail Station,51.43175,-0.10383
+WNOTLEY,WNY,White Notley Rail Station,51.83891,0.59586
+WNSFD,WSF,Winsford Rail Station,53.19051,-2.4946
+WNSTDPK,WNP,Wanstead Park Rail Station,51.55169,0.02621
+WOBURNS,WOB,Woburn Sands Rail Station,52.01815,-0.65408
+WODBDGE,WDB,Woodbridge Rail Station,52.09044,1.31777
+WOKING,WOK,Woking Rail Station,51.31847,-0.55696
+WOKNGHM,WKM,Wokingham Rail Station,51.41122,-0.84254
+WOLSTON,WLS,Woolston Rail Station,50.89892,-1.37706
+WOLWCDY,WWD,Woolwich Dockyard Rail Station,51.49113,0.05464
+WOLWCHA,WWA,Woolwich Arsenal Rail Station,51.48991,0.06919
+WOMBWEL,WOM,Wombwell Rail Station,53.51734,-1.41616
+WONNAZE,WON,Walton-on-the-Naze Rail Station,51.84617,1.26767
+WONT,WAL,Walton-on-Thames Rail Station,51.37293,-0.41463
+WOODLEY,WLY,Woodley Rail Station,53.42925,-2.09327
+WOOL,WOO,Wool Rail Station,50.68164,-2.22146
+WORCSFS,WOF,Worcester Foregate Street Rail Station,52.19514,-2.2216
+WORCSSH,WOS,Worcester Shrub Hill Rail Station,52.19472,-2.20941
+WORKSOP,WRK,Worksop Rail Station,53.31151,-1.12277
+WORLE,WOR,Worle Rail Station,51.35803,-2.90962
+WORSTED,WRT,Worstead Rail Station,52.77742,1.40408
+WORTHNG,WRH,Worthing Rail Station,50.8185,-0.37617
+WOTONWN,WWW,Wootton Wawen Rail Station,52.2669,-1.7847
+WRABNES,WRB,Wrabness Rail Station,51.93951,1.1715
+WRBLNGT,WBL,Warblington Rail Station,50.85344,-0.96716
+WRCSTRP,WCP,Worcester Park Rail Station,51.38125,-0.24517
+WRENBRY,WRE,Wrenbury Rail Station,53.01939,-2.59595
+WRESSLE,WRS,Wressle Rail Station,53.77292,-0.92435
+WREXHMC,WXC,Wrexham Central Rail Station,53.04619,-2.99905
+WREXHMG,WRX,Wrexham General Rail Station,53.05023,-3.00244
+WRGT,WAC,Warrington Central Rail Station,53.39181,-2.59317
+WRGTNBQ,WBQ,Warrington Bank Quay Rail Station,53.38601,-2.60236
+WRMNSTR,WMN,Warminster Rail Station,51.20677,-2.17673
+WROXHAM,HXM,Hoveton & Wroxham Rail Station,52.71557,1.408
+WRPLSDN,WPL,Worplesdon Rail Station,51.28798,-0.58248
+WRUISLP,WRU,West Ruislip Rail Station,51.56976,-0.43777
+WRUNTON,WRN,West Runton Rail Station,52.93552,1.24546
+WRYSBRY,WRY,Wraysbury Rail Station,51.45771,-0.54192
+WSLE,WLD,West St Leonards Rail Station,50.85315,0.53994
+WSMARE,WSM,Weston-super-Mare Rail Station,51.34432,-2.97166
+WSORAER,WNR,Windsor & Eton Riverside Rail Station,51.48565,-0.60653
+WSTBRYW,WSB,Westbury (Wilts) Rail Station,51.26698,-2.19918
+WSTHOTN,WHG,Westhoughton Rail Station,53.55567,-2.52373
+WSTRFLD,WFI,Westerfield Rail Station,52.08098,1.1659
+WSUTTON,WSU,West Sutton Rail Station,51.36585,-0.20517
+WTBY,WTB,Whitby Rail Station,54.48461,-0.6154
+WTCR,WCR,Whitecraigs Rail Station,55.79032,-4.31016
+WTLESFD,WLF,Whittlesford Parkway Rail Station,52.10359,0.16562
+WTRNGBY,WTR,Wateringbury Rail Station,51.24973,0.42247
+WTRORTN,WTO,Water Orton Rail Station,52.51858,-1.74309
+WVLSFLD,WVF,Wivelsfield Rail Station,50.96429,-0.12079
+WVRMPTN,WVH,Wolverhampton Rail Station,52.58784,-2.11951
+WVRTTEC,WAV,Wavertree Technology Park Rail Station,53.40519,-2.92291
+WWICKHM,WWI,West Wickham Rail Station,51.3813,-0.01443
+WWODVIL,AVF,WESTWOOD VILLAGE,51.33965,-2.28133
+WWRTHNG,WWO,West Worthing Rail Station,50.81835,-0.39299
+WYEE,WYE,Wye Rail Station,51.18501,0.9293
+WYGN,WYL,Wylde Green Rail Station,52.54571,-1.83141
+WYLAM,WYM,Wylam Rail Station,54.97497,-1.81406
+WYMNDHM,WMD,Wymondham Rail Station,52.56541,1.11803
+WYTH,WYT,Wythall Rail Station,52.37993,-1.86553
+YAAM,YRM,Yarm Rail Station,54.4939,-1.35155
+YALDING,YAL,Yalding Rail Station,51.22648,0.41216
+YARMTH,GYM,Great Yarmouth Rail Station,52.61216,1.72089
+YATE,YAE,Yate Rail Station,51.5406,-2.43252
+YATTON,YAT,Yatton Rail Station,51.39101,-2.82778
+YEOFORD,YEO,Yeoford Rail Station,50.77692,-3.72712
+YMTHIOW,YMH,YARMOUTH (I.O.W.),50.70766,-1.50003
+YNYSWEN,YNW,Ynyswen Rail Station,51.66497,-3.5216
+YOKER,YOK,Yoker Rail Station,55.89259,-4.38629
+YORK,YRK,York Rail Station,53.95796,-1.09318
+YORKPCK,PIZ,PICKERING EASTGATE,54.24367,-0.77541
+YORKWHT,WTZ,WHITBY BUS STATION,54.48378,-0.62161
+YORTON,YRT,Yorton Rail Station,52.80896,-2.73646
+YOVILJN,YVJ,Yeovil Junction Rail Station,50.92475,-2.61246
+YOVILPM,YVP,Yeovil Pen Mill Rail Station,50.94452,-2.61343
+YRDLYWD,YRD,Yardley Wood Rail Station,52.4215,-1.85438
+YSTRADM,YSM,Ystrad Mynach Rail Station,51.64093,-3.2413
+YSTRBWD,XKW,BLACKWOOD,51.66478,-3.19568
+YTMNSTR,YET,Yetminster Rail Station,50.89576,-2.57376
+YTRHOND,YSR,Ystrad Rhondda Rail Station,51.64364,-3.46668
+BARKGLT,ZBK,Barking LT,51.53944,0.08109
+BRNSTLT,ZBC,Barons Court LT,51.49031,-0.2134
+CHNRBVH,,Chinnor Bledlow Village Hall,51.72013,-0.87611
+CHNRESW,,Chinnor Estover Way,51.7005,-0.91805
+CHNRRED,XCQ,Chinnor The Red Lion,51.70611,-0.90811
+CHNRWHT,,Chinnor The Wheatsheaf,51.69766,-0.91673
+CIVI,CIC,Park Lane (Sunderland),54.90239,-1.38441
+EPHT,ZEL,Elephant & Castle LT,51.49535,-0.10054
+HAMDLUL,ZHA,Hammersmith LT,51.49348,-0.22483
+KNSGHST,ZHS,Kensington High Street LT,51.50031,-0.19217
+LILBDGE,,Lillie Bridge Depot LUL,51.48993,-0.20037
+LRDDEAC,,London Road Depot,51.4979,-0.10502
+MINEBUT,,Minehead Butlins,51.20635,-3.46179
+MLLF,MIF,Millfield [Nexus],54.90644,-1.40095
+NWCSRC,REG,Newcastle Regent Centre,55.01202,-1.62167
+PADTLUL,,Paddington Bakerloo LUL,51.51584,-0.17484
+PALL,PAI,Pallion (Nexus),54.91287,-1.41716
+PELAWTW,PAW,Pelaw Tyne & Wear Metro,54.95262,-1.54224
+SGOS,SGH,South Gosforth,55.00609,-1.60807
+TOWERHL,ZTH,Tower Hill LT,51.50983,-0.07706
+TRNHMGN,ZTG,Turnham Green LT,51.49508,-0.25453
+UNIV,UNV,University (Sunderland),54.90274,-1.3922
+UPMNLT,ZUM,Upminster LT,51.55898,0.25094
+YORKECP,EDZ,York Eden Camp,54.15113,-0.77897
+BSPSBUS,,Bishops Lydeard Lydeard Arms,51.0554,-3.18876
+STHH,SHZ,South Hylton,54.90432,-1.44793
+ABHLJN,,Abbeyhill Junction,55.95542,-3.17036
+CWLRSWJ,CWR,Cowlairs West Junction,55.88609,-4.2396
+DGNHELT,ZDE,Dagenham East LT,51.54399,0.16504
+DLTNCGP,XGO,Darlington Catterick Garrison (Post Office),54.37538,-1.70892
+FARE825,,FAREHAM SIGNAL E825,50.85582,-1.19396
+TRENTL,,DOWN TRENT LOOP,52.88994,-1.25905
+BSTWDPJ,,BESTWOOD PARK JN,53.01344,-1.18712
+GRNSFDJ,,GREENSFIELD JN.,54.96345,-1.60816
+EUSKJN,,EAST USK JN.,51.58452,-2.96298
+HARSLP,,HARESFIELD LOOP,51.78979,-2.27227
+QNTNSHL,,QUINTINSHILL PASS LOOPS,55.01426,-3.06484
+TISBRYL,,TISBURY LOOP,51.06265,-2.07567
+REDGGPK,,READING GREEN PARK,51.45789,-0.9888
+RESTON,,RESTON,55.84587,-2.17513
+SNDRBDS,,SUNDERLAND BURDON DOCK SDG,54.90298,-1.38243
+SOHAM,,SOHAM,52.3342,0.32798
+SOKEJN,,STOKE JN.,52.83906,-0.58012
+WILTON,,WILTON,51.08486,-1.85601
+CAMPBLT,CBT,CAMPBELTOWN,55.42354,-5.59985
+MWRWSTN,MRW,MERIDIAN WATER STATION,51.61063,-0.05031
+NUTFBUS,XET,NUTFIELD (MEMORIAL HALL),51.23876,-0.13198
+RBRYSTN,RRN,ROBROYSTON,55.88683,-4.17277
+SESAA26,SSA,SOUTHEASE A26,50.83041,0.03344
+WORCPHL,WOP,WORCESTERSHIRE PARKWAY HL,52.15537,-2.16074
+WORCPWY,WOP,WORCESTERSHIRE PARKWAY LL,52.15537,-2.16074
+PORTREE,PEE,Portree,57.4109,-6.19044
+BROADFO,BDD,Broadford,57.24145,-5.90983
+KYLEAKN,KYK,Kyleakin (Skye),57.27341,-5.72559
+WRGTWST,WAW,Warrington West,53.39361,-2.63861
+NLRT478,,Northallerton Signal Y478,54.3473,-1.43854
+ABWDXR,ABW,ABBEY WOOD (CROSSRAIL),51.49108,0.11975
+BARKRIV,BGV,BARKING RIVERSIDE,51.53035,0.11927
+BONDST,BDS,BOND STREET,51.51332,-0.14959
+BOWSTRT,BOW,BOW STREET,52.43981,-4.03038
+CANWHRF,CWX,CANARY WHARF,51.50628,-0.01909
+CHBUVIL,CVG,CHARLBURY VILLAGE,51.87384,-1.4843
+CUSTMHS,CUS,CUSTOM HOUSE,51.5098,0.02585
+FRNDXR,ZFD,FARRINGDON CROSSRAIL,51.51931,-0.10527
+HORD,HRE,HORDEN,54.7639,-1.30739
+KINTORE,KTR,KINTORE,57.24335,-2.35028
+LIVSTLL,LST,LIVERPOOL ST CROSSRAIL,51.5176,-0.08023
+PADTLL,PAD,PADDINGTON CROSSRAIL,51.51631,-0.17791
+TOTCTRD,TCR,TOTTENHAM COURT ROAD,51.51574,-0.1322
+WCHAPXR,WHX,WHITECHAPEL CROSSRAIL,51.51987,-0.06096
+WOLWXR,WWC,WOOLWICH,51.49175,0.07137
+BRENTX,BCZ,BRENT CROSS WEST,51.56847,-0.22671
+PTWYPR,PRI,PORTWAY PARK AND RIDE,51.48902,-2.68984
+RESTSTN,RSN,RESTON,55.85015,-2.19483
+CANNA,CNA,CANNA,57.05628,-6.49097
+COLL,CLO,COLL,56.61414,-6.5296
+EIGG,EIG,EIGG,56.87513,-6.1374
+HBOLTN,HBL,HEADBOLT LANE,53.49076,-2.88017
+IVRNABS,INB,INVERNESS AIRPORT BUS STN,57.53941,-4.06472
+IVRNAIR,IVA,INVERNESS AIRPORT,57.53514,-4.05111
+IVRNBUS,IBS,INVERNESS BUS STATION,57.48006,-4.22651
+MUCK,MUK,MUCK,56.83169,-6.22611
+RHUM,RHU,RUM,57.01086,-6.27282
+THANETP,THP,THANET PARKWAY,51.3304,1.36193
+TIREE,TEE,TIREE,56.50766,-6.80156
+WBRNPKS,WBP,WESTBOURNE PARK CS,49.76680,-7.557159
+VRGN217,VRG,VIRGINIA WATER S217,51.401309,-0.56240489
+STAN143,STN,STANSTED AIRPORT S143,49.766809,-7.5571598
+GFORDEJ,GFD,GREENFORD EAST SIGNALLING,51.539472,-0.33454901
+GFORDWJ,GFD,GREENFORD WEST JUNCTION,51.542291,-0.34309863
+LNDNBDG,LDB,LONDON BRIDGE,51.499558,-0.076667583
+STPANCI,SPX,ST PANCRAS INTERNATIONAL,49.766809,-7.5571598
+LONDEUR,LNE,LONDON EUROSTAR,49.766809,-7.5571598
+TIMPRLY,TIM,TIMPERLEY METROLINK,53.40427,-2.33837
+STADJN,STA,ST ANDREWS JUNCTION,52.474945,-1.8771565
+VICTRIA,VIC,VICTORIA LONDON,58.472511,8.3099342
+WATRLOO,WAT,WATERLOO LONDON,51.501995,-0.11157777
+HTRWTM3,HWE,HEATHROW TERMINAL 3,51.471293,-0.452314147
+WATRINT,WIT,WATERLOO INTERNATIONAL,51.503301,-0.11505397
+WEDGWD,WED,WEDGWOOD,52.950957,-2.1711192
+ALTRMET,XMA,ALTRINCHAM METROLINK,53.3873,-2.3476159
+LONDNBS,ZBS,LONDON BAKER STREET,51.52320,-0.15695207
+ABARASQ,ABA,X,0,0
+ABDARAR,ABD,X,0,0
+ABNGHST,ABN,Abingdon High Street,51.7118211,-1.2350622
+ABNGSTR,ABN,Abingdon Stratton Way,51.6739395,-1.2838141
+ACTONTN,ACT,Acton Town (Bus),51.5023416,-0.2788746
+ACTONW,ACT,Acton West Jn,51.5149226,-0.2900566
+ALBNFCL,ALB,Albany Park - Footscray Lane (Bus),51.438775,0.1185951
+ALBNHV,ALB,Albany Park-Hrst Rd/Val Av,51.4384728,0.132025
+ALBURGH,ALB,Aldeburgh,52.1555382,1.5971038
+ALDGEST,ALD,Aldgate East L.U.L,51.5143264,-0.0757573
+ALFREMD,ALF,E Mids Designer Outlet,53.1075943,-1.3143079
+ALVCRLP,ALV,Alvechurch Red Lion Pub,52.3511753,-1.9634214
+AMNGTNJ,AMN,Amington Jn,52.6385679,-1.6651714
+ANSL3,ANS,Anniesland,55.8900694,-4.3213574
+ARKW,ARK,X,0,0
+ASHFKI,ASH,Ashford International,51.1430512,0.8759152
+ASHGTN,ASH,Ashington (Construction),55.1829872,-1.5730679
+ASHYDN,ASH,X,0,0
+AVEBRED,AVE,X,0,0
+AXMNSTS,AXM,X,0,0
+BAGMTLK,BAG,X,0,0
+BARLSTN,BAR,Barlaston,52.942898,-2.1682795
+BATHBUS,BAT,Bath Spa Bus Station,51.3779091,-2.3590283
+BCKNBUS,BCK,X,0,0
+BDLNTN,BDL,Bedlington (Construction),55.1406056,-1.5691523
+BEDFDN,BED,Bedford North Jn,52.1433929,-0.4874228
+BELFBUS,BEL,Belford (Bus),55.5992687,-1.8287569
+BENMTLK,BEN,X,0,0
+BHAMNEC,BHA,Birmingham Int'l Bus Station,52.4522511,-1.7321048
+BLENHEM,BLE,X,0,0
+BLFSTCL,BLF,X,0,0
+BLMMTLK,BLM,X,0,0
+BNDSLUL,BND,X,0,0
+BNWDJN,BNW,Barnwood Jn,51.8636352,-2.2165271
+BOMOHAP,BOM,Bournemouth Hurn Airport,49.766809,-7.5571598
+BOROBDR,BOR,Boroughbridge Road L.C.,54.3316216,-1.4418752
+BOWKERV,BOW,X,0,0
+BRAY,BRA,X,0,0
+BRKLNDS,BRK,X,0,0
+BRMNDSY,BRM,Bermondsey L.T.,51.4977904,-0.0644175
+BRSTAIR,BRS,Bristol Internatl Airport,51.3813172,-2.7161566
+BRSTSTA,BRS,X,0,0
+BSAUWEA,BSA,Bishop Auckland West,54.6570569,-1.6814956
+BSNGSEB,BSN,Basingstoke East Bay,51.2684868,-1.0903407
+BSTBARN,BST,X,0,0
+BSTMNR,BST,Boston Manor (Bus),51.4960232,-0.3250301
+BTCHBUS,BTC,Betchworth (A25),51.2398892,-0.2723853
+BURY,BUR,X,0,0
+BUSBYJ,BUS,Busby Jn,55.8195048,-4.3083967
+BYBEB,BYB,Blyth Bebside (Construction),55.1253216,-1.5572682
+CALLNRD,CAL,X,0,0
+CALNSTR,CAL,X,0,0
+CARICOS,CAR,X,0,0
+CATEZKX,CAT,X,0,0
+CATEZWY,CAT,X,0,0
+CATZ,CAT,X,0,0
+CATZ001,CAT,X,0,0
+CATZ002,CAT,X,0,0
+CATZ003,CAT,X,0,0
+CATZ004,CAT,X,0,0
+CATZ005,CAT,X,0,0
+CATZ006,CAT,X,0,0
+CATZ007,CAT,WIRKSWORTH,49.766809,-7.5571598
+CATZ008,CAT,X,0,0
+CATZ009,CAT,X,0,0
+CATZ010,CAT,X,0,0
+CATZ011,CAT,X,0,0
+CATZ012,CAT,X,0,0
+CATZ014,CAT,X,0,0
+CATZ016,CAT,X,0,0
+CATZ151,CAT,X,0,0
+CATZANM,CAT,X,0,0
+CATZATM,CAT,X,0,0
+CATZATO,CAT,X,0,0
+CATZATR,CAT,X,0,0
+CATZATY,CAT,X,0,0
+CATZBAO,CAT,X,0,0
+CATZBAX,CAT,X,0,0
+CATZBBY,CAT,X,0,0
+CATZBHN,CAT,X,0,0
+CATZBIH,CAT,X,0,0
+CATZBMA,CAT,X,0,0
+CATZBNU,CAT,X,0,0
+CATZBOQ,CAT,X,0,0
+CATZBPO,CAT,X,0,0
+CATZBSG,CAT,X,0,0
+CATZCAH,CAT,X,0,0
+CATZCAW,CAT,X,0,0
+CATZCCN,CAT,X,0,0
+CATZCEI,CAT,X,0,0
+CATZCHJ,CAT,X,0,0
+CATZCKA,CAT,X,0,0
+CATZCLB,CAT,X,0,0
+CATZCLQ,CAT,X,0,0
+CATZCLZ,CAT,X,0,0
+CATZCMI,CAT,X,0,0
+CATZCOQ,CAT,X,0,0
+CATZCOU,CAT,X,0,0
+CATZCRZ,CAT,X,0,0
+CATZCSE,CAT,X,0,0
+CATZDBP,CAT,X,0,0
+CATZDMD,CAT,X,0,0
+CATZDRA,CAT,X,0,0
+CATZDUK,CAT,X,0,0
+CATZDVR,CAT,X,0,0
+CATZEFD,CAT,X,0,0
+CATZENN,CAT,X,0,0
+CATZFAR,CAT,X,0,0
+CATZFAX,CAT,X,0,0
+CATZFOT,CAT,X,0,0
+CATZFXF,CAT,X,0,0
+CATZGOY,CAT,X,0,0
+CATZGSO,CAT,X,0,0
+CATZKDR,CAT,X,0,0
+CATZKNY,CAT,X,0,0
+CATZLBN,CAT,X,0,0
+CATZLFO,CAT,X,0,0
+CATZLPO,CAT,X,0,0
+CATZMAE,CAT,X,0,0
+CATZMAJ,CAT,X,0,0
+CATZMBH,CAT,X,0,0
+CATZMCZ,CAT,X,0,0
+CATZMIE,CAT,X,0,0
+CATZMOM,CAT,X,0,0
+CATZMOZ,CAT,X,0,0
+CATZMUL,CAT,X,0,0
+CATZNBG,CAT,X,0,0
+CATZNEN,CAT,X,0,0
+CATZNWY,CAT,X,0,0
+CATZPAD,CAT,X,0,0
+CATZPEE,CAT,X,0,0
+CATZPRO,CAT,X,0,0
+CATZPTO,CAT,X,0,0
+CATZQCF,CAT,X,0,0
+CATZQDK,CAT,X,0,0
+CATZQDM,CAT,X,0,0
+CATZQED,CAT,X,0,0
+CATZQEO,CAT,X,0,0
+CATZQGL,CAT,X,0,0
+CATZQGS,CAT,X,0,0
+CATZQHC,CAT,X,0,0
+CATZQND,CAT,X,0,0
+CATZQNO,CAT,X,0,0
+CATZQXD,CAT,X,0,0
+CATZQXO,CAT,X,0,0
+CATZRCM,CAT,X,0,0
+CATZRCR,CAT,X,0,0
+CATZRDU,CAT,X,0,0
+CATZRMR,CAT,X,0,0
+CATZRSS,CAT,X,0,0
+CATZSDT,CAT,X,0,0
+CATZSLI,CAT,X,0,0
+CATZTEM,CAT,X,0,0
+CATZTHM,CAT,X,0,0
+CATZTPY,CAT,X,0,0
+CATZTUM,CAT,X,0,0
+CATZTUS,CAT,X,0,0
+CATZWLA,CAT,X,0,0
+CATZWPT,CAT,X,0,0
+CATZXPX,CAT,X,0,0
+CATZZND,CAT,X,0,0
+CATZZSO,CAT,X,0,0
+CCKFLUL,CCK,Cockfosters (Bus),51.6516374,-0.1499449
+CHIPNEW,CHI,X,0,0
+CHLTRAC,CHL,Cheltenham Racecourse (Bus),51.9243322,-2.0678101
+CHNLYNJ,CHN,Chinley North Jn,53.3381004,-1.9220538
+CHNOBUS,CHN,Chipping Norton West St,51.9402593,-1.5462203
+CHRSBUS,CHR,X,0,0
+CHSM,CHS,X,0,0
+CHUSTON,CHU,Churston T&D Railway,50.3961318,-3.5570188
+CLONMEL,CLO,X,0,0
+CLPHMJN,CLP,Clapham Junction,51.4640126,-0.1691937
+CMRNBDG,CMR,X,0,0
+COLWICH,COL,Colwich Jn,52.7887206,-1.9857413
+CORK,COR,X,0,0
+CORSNEW,COR,X,0,0
+COVNNY,COV,Coventry North Yard,52.4026066,-1.5232749
+COWESE,COW,X,0,0
+COWESW,COW,X,0,0
+CRDFBUS,CRD,Cardiff Central Bus Station,51.4760934,-3.1792542
+CREW998,CRE,X,0,0
+CRMRSEJ,CRM,Carmuirs East Jn,56.007972,-3.8282997
+CRSTRSS,CRS,Carstairs South Jn,55.687086,-3.6600548
+CRUMPSL,CRU,X,0,0
+CRXLEY,CRX,Croxley (lul),51.6507267,-0.4462782
+CSAMTLK,CSA,X,0,0
+CULLMKH,CUL,X,0,0
+DERKER,DER,Derker (Metro),53.5497907,-2.1016128
+DEVIZES,DEV,X,0,0
+DEVNARB,DEV,Devonport Albert Road,50.392871,-4.282395
+DIDCTEJ,DID,Didcot East Jn,51.6069314,-1.2295282
+DIDCTNJ,DID,Didcot North Jn,51.6222235,-1.2441362
+DLMYJN,DLM,Dalmeny Jn,55.9812451,-3.3771826
+DMTHKWR,DMT,Kingswear (For Dartmouth),50.3487375,-3.5730166
+DNRD,DNR,X,0,0
+DONCRHA,DON,Robin Hood Airport,53.4808982,-1.0109591
+DOREWJ,DOR,Dore West Jn,53.3232512,-1.5187653
+DPTFBD,DPT,Deptford Bridge DLR (LT),51.47414,-0.0224141
+DRTMPON,DRT,X,0,0
+DRTMTH,DRT,X,0,0
+DUBLINC,DUB,X,0,0
+DUBLINH,DUB,X,0,0
+DULOE,DUL,Duloe (causeland),50.4000934,-4.4856421
+DUNLHRM,DUN,X,0,0
+EBSFEJN,EBS,Ebbsfleet East Jn (CTRL),51.4347862,0.323995
+EBSFLTI,EBS,Ebbsfleet International,51.4428852,0.3214143
+EFARBUS,EFA,East Farleigh - Bus Stop,51.2521236,0.4839402
+ELINTN,ELI,East Linton (Construction),55.9874068,-2.6634209
+ELLAND,ELL,Elland,53.6904366,-1.8262406
+EMBKMNT,EMB,Embankment L.T.,51.4949783,-0.2517025
+EMPKAR2,EMP,East Mids Aiport (Bus) 2,52.8262433,-1.3281146
+EMPKAR3,EMP,East Mids Aiport (Bus) 3,52.826245,-1.3279241
+ENFCOAK,ENF,Oakwood Lul (enfield),51.6410867,-0.12527
+ENISCTY,ENI,X,0,0
+EPUTNEY,EPU,East Putney,51.458886,-0.2107888
+FALSWTH,FAL,Failsworth (Metro),53.5106422,-2.1628852
+FNCHMET,FNC,Finchley Road L.T.,51.6074641,-0.4639601
+FOWESHT,FOW,X,0,0
+FRWDJN,FRW,Fairwood Jn,51.2588684,-2.2284071
+GALTONJ,GAL,Galton Jn,52.499567,-1.9764293
+GALWAY,GAL,X,0,0
+GLGAPT,GLG,Glasgow Airport,55.8538557,-4.4457325
+GLSTHAL,GLS,X,0,0
+GNBARWJ,GNB,Goonbarrow Jn (Imerys),50.394907,-4.7766983
+GNHTRI,GNH,Greenhithe - Railway Inn,51.4522836,0.3133173
+GOFER,GOF,Gosport Ferry,50.785535,-1.0951306
+GOODSND,GOO,Goodrington Sands,50.425286,-3.5619356
+GOSPMAN,GOS,Gospel Oak Mansfield Road (Bus),51.553527,-0.1586902
+GOSTBUS,GOS,Gosport (Bus),50.7943919,-1.1175826
+GOURSTN,GOU,Gourock Station,55.9612372,-4.8155535
+HAGHLYJ,HAG,Haughley Jn,52.2221576,0.9871132
+HAWESMP,HAW,Hawes Market Place (Bus),54.304152,-2.1994007
+HIGBRNT,HIG,High Barnet LUL,51.6503951,-0.1938808
+HLNDBUS,HLN,Hillingdon Met Line (Bus),51.5533973,-0.448452
+HLNDLT,HLN,Hillingdon L.T.,51.5536104,-0.4504582
+HLSTCOI,HLS,Helston Coinagehall St,50.1008733,-5.2828376
+HLSTWOO,HLS,Helston (Woolworths),50.1011431,-5.274636
+HLWYRLT,HLW,Holloway Road L.T.,51.5527994,-0.112771
+HOLINWS,HOL,X,0,0
+HOLSCAT,HOL,Holsworthy Cattle Market (Bus),50.807045,-4.3528041
+HOLYTNJ,HOL,Holytown Jn,55.8097209,-3.965757
+HONITNS,HON,X,0,0
+HRNSTPL,HRN,Turnpike Lane (Bus),51.5901677,-0.1024497
+HTPK,HTP,X,0,0
+HTRBUS4,HTR,Heathrow Terminal 4 Bus,51.459329,-0.4469676
+HTRWTM2,HTR,Heathrow Terminal 2 Bus,51.470811,-0.4531674
+HTRWUND,HTR,X,0,0
+HUYTJUN,HUY,Huyton Jn,53.4097421,-2.8367851
+HWRDJN,HWR,Heywood Road Jn,51.270908,-2.1783548
+ILFENBP,ILF,Ilford Newbury Park L.T.,51.562058,0.0771065
+IPSWSWD,IPS,X,0,0
+KENLWTH,KEN,Kenilworth Jns,52.351602,-1.5671201
+KEYMERJ,KEY,Keymer Jn,50.9610397,-0.1228029
+KILARNY,KIL,X,0,0
+KIRKMNJ,KIR,Kirkham North Jn,53.7881187,-2.8938864
+KNGBQUY,KNG,X,0,0
+LANGTCR,LAN,X,0,0
+LCHTNJ,LCH,Lichfield TV North Jn (LL),52.6945601,-1.8111875
+LDRY,LDR,X,0,0
+LEEDSFB,LEE,Leeds Festival (Bus),53.8008431,-1.5489566
+LEISTON,LEI,Leiston,52.210232,1.5710744
+LEOMBUS,LEO,X,0,0
+LEVEN,LEV,X,0,0
+LHRBT4,LHR,Heathrow Terminal 4 (Bus),51.4584626,-0.4469553
+LHVNBUS,LHV,Littlehaven Lambs Frm Rd,51.0786758,-0.3083053
+LIMERCJ,LIM,X,0,0
+LIMERIC,LIM,X,0,0
+LMPTBLL,LMP,X,0,0
+LNGMSTN,LNG,Long Marston,52.12084,-1.7805464
+LOGHUNI,LOG,Loughborough University (Bus),52.7684552,-1.227403
+LONDINT,LON,X,0,0
+LUDLCST,LUD,X,0,0
+LUTNAIR,LUT,Luton Airport,51.8791554,-0.3767583
+LVRPJLA,LVR,X,0,0
+LYDNQDF,LYD,X,0,0
+LYNDPKH,LYN,X,0,0
+LYNECMP,LYN,X,0,0
+MAINDEJ,MAI,Maindee East Jn,51.5910234,-2.9853475
+MALLOW,MAL,X,0,0
+MARBORO,MAR,Marlborough High Street (Bus),51.4202255,-1.731838
+MCFMTLK,MCF,X,0,0
+MEVATRE,MEV,X,0,0
+MIDSTHL,MID,X,0,0
+MILNROW,MIL,Milnrow (Metro),53.6081564,-2.1121469
+MIRFEJN,MIR,Mirfield East Jn,53.6715548,-1.6706897
+MLFORLP,MLF,X,0,0
+MLNRYDJ,MLN,Milner Royd Jn,53.7069804,-1.8918932
+MNCMTLK,MNC,X,0,0
+MNCRALM,MNC,X,0,0
+MNCRAML,MNC,X,0,0
+MNCRAMM,MNC,X,0,0
+MNCRANC,MNC,X,0,0
+MNCRASM,MNC,X,0,0
+MNCRAWM,MNC,X,0,0
+MNCRBRM,MNC,X,0,0
+MNCRBWY,MNC,X,0,0
+MNCRCBK,MNC,X,0,0
+MNCRCEM,MNC,X,0,0
+MNCRCHB,MNC,X,0,0
+MNCRCHM,MNC,X,0,0
+MNCRCRM,MNC,X,0,0
+MNCRDML,MNC,X,0,0
+MNCRDVM,MNC,X,0,0
+MNCRECC,MNC,X,0,0
+MNCRECM,MNC,X,0,0
+MNCREDM,MNC,X,0,0
+MNCRELM,MNC,X,0,0
+MNCREQY,MNC,X,0,0
+MNCRFHM,MNC,X,0,0
+MNCRHBC,MNC,X,0,0
+MNCRHTM,MNC,X,0,0
+MNCRKBM,MNC,X,0,0
+MNCRLDW,MNC,X,0,0
+MNCRLWY,MNC,X,0,0
+MNCRMCT,MNC,X,0,0
+MNCRMSM,MNC,X,0,0
+MNCRNBM,MNC,X,0,0
+MNCRNIM,MNC,X,0,0
+MNCRNMM,MNC,X,0,0
+MNCROCM,MNC,X,0,0
+MNCROSM,MNC,X,0,0
+MNCRPOM,MNC,X,0,0
+MNCRRCM,MNC,X,0,0
+MNCRRFW,MNC,X,0,0
+MNCRRSM,MNC,X,0,0
+MNCRSCM,MNC,X,0,0
+MNCRSQY,MNC,X,0,0
+MNCRSWM,MNC,X,0,0
+MNCRUFG,MNC,Manchester United Football Ground,53.4622518,-2.2907686
+MNCRVPM,MNC,X,0,0
+MNCRWDI,MNC,X,0,0
+MNCRWML,MNC,X,0,0
+MNCRWST,MNC,X,0,0
+MNCRWWM,MNC,X,0,0
+MOREWWR,MOR,X,0,0
+MRDMTLK,MRD,X,0,0
+MRLBHST,MRL,X,0,0
+MRSNTC,MRS,Marsden Town Centre (Bus),53.6013233,-1.9273013
+MSBTN,MSB,Marsh Barton,50.7043904,-3.5214668
+NACTON,NAC,North Acton L.T.,51.523557,-0.2596712
+NBRLPK,NBR,Northumberland Park (Construction),55.0331518,-1.5200089
+NHEY,NHE,New Hey (Metro),53.6008242,-2.0946558
+NMPTBAY,NMP,Northampton Bay,52.2379849,-0.9064237
+NMRMTLK,NMR,X,0,0
+NNTNBUS,NNT,X,0,0
+NNTNMIR,NNT,X,0,0
+NSHM,NSH,Newsham (Construction),55.1085028,-1.5281527
+NSMRSTJ,NSM,North Somerset Jn,51.4507375,-2.5638756
+NWTLEJ,NWT,Newton East Jn,55.8207222,-4.1201752
+OKHMGOP,OKH,X,0,0
+OKHMPFS,OKH,Oakhampton Fore Street (Bus),50.7391915,-4.0025854
+OKHMPWS,OKH,Okehampton West Street,51.3326753,-4.5274322
+OLDHAMM,OLD,Oldham Mumps (Metro),53.542413,-2.1034131
+OLDTRFD,OLD,X,0,0
+OVTNVPO,OVT,X,0,0
+OXFDFSQ,OXF,Oxford Frideswide Square (Bus),51.7527582,-1.2685011
+OXFDWBU,OXF,X,0,0
+OXTEDBY,OXT,Oxted Bay,51.2579063,-0.0048193
+PAIGDVL,PAI,Paignton Queens Park Dvlr,50.4312017,-3.5651755
+PARRSTA,PAR,X,0,0
+PBLJWM,PBL,Portobello Jn (West Midlands),52.5865054,-2.0791036
+PBROBST,PBR,Peterborough Queensgate,52.5745708,-0.2464488
+PBROCOR,PBR,Corby Bus (George Street),52.4873672,-0.7036844
+PBROKET,PBR,Kettering Library,52.396348,-0.7278018
+PBROUND,PBR,Oundle Market Place,52.4762174,-0.4684904
+PDSTWBT,PDS,Padstow Old Rly Station,50.5385846,-4.9362001
+PERRBCH,PER,X,0,0
+PETSWDJ,PET,Petts Wood Jn,51.3934103,0.0696564
+PILL,PIL,Pill (Proposed),51.4823427,-2.6888906
+PLHMTLK,PLH,X,0,0
+PLYMSAL,PLY,X,0,0
+PNKRBUS,PNK,X,0,0
+POMOHSP,POM,Portsmouth Harbour - Ship,50.7835331,-1.0971447
+POMOPLD,POM,Portsmouth Portsea Landing,50.7835331,-1.0971447
+PRSH,PRS,X,0,0
+PRSTFGT,PRS,Preston Fishergate (Bus),53.757483,-2.7050157
+PRSTN4B,PRS,Preston No 4 Bay,53.7541327,-2.7068673
+PRTSHD,PRT,Portishead (Proposed),51.4841156,-2.7589041
+PTADOWN,PTA,X,0,0
+PWCH,PWC,X,0,0
+QPRKAC,QPR,Queens Park (AC),51.5337212,-0.2055101
+RADGM,RAD,X,0,0
+RADSVHL,RAD,X,0,0
+RCKCLFH,RCK,Rockcliffe Hall,53.2335953,-3.0928307
+RDHMTLK,RDH,X,0,0
+RDNGORJ,RDN,Oxford Road Jn,51.4559076,-0.9898372
+ROBINHB,ROB,Robin Hoods Bay (Bus),54.4341966,-0.5358625
+ROCKFY1,ROC,X,0,0
+ROCKFYB,ROC,X,0,0
+RWRMTLK,RWR,X,0,0
+RYDCATS,RYD,X,0,0
+RYDEHOV,RYD,X,0,0
+SAFFWAL,SAF,X,0,0
+SALE,SAL,X,0,0
+SCOTEJN,SCO,Southcote Jn,51.4429862,-0.9961159
+SDMMTLK,SDM,X,0,0
+SDONBUS,SDO,X,0,0
+SEHOBUS,SEH,Seahouses Bus,55.5804339,-1.6543436
+SESABUS,SES,Southease (Church),50.8296352,0.0194947
+SETTLEJ,SET,Settle Jn,54.0397182,-2.2858478
+SFRD,SFR,X,0,0
+SHCRPTN,SHC,Shaw & Crompton (metro),53.5761705,-2.0895072
+SHOTTLE,SHO,X,0,0
+SHRTLNJ,SHR,Shortlands Jn,51.4072758,-0.0002334
+SILEBYJ,SIL,Sileby Jn,52.7355207,-1.1145744
+SLSBY5B,SLS,Salisbury 5 Bay,51.0748933,-1.7977473
+SLSBY6B,SLS,Salisbury 6 Bay,51.0748933,-1.7977473
+SLTHWTC,SLT,Slaithwaite Town Centre (Bus),53.6234984,-1.8818754
+SOTNTQ,SOT,Southampton Town Quay,50.8951507,-1.4058303
+SOTONB,SOT,Southampton Down Bay,50.9075505,-1.4158272
+SSEACLE,SSE,Southsea Hoverport,50.7853267,-1.0999899
+STANBUS,STA,Stansted Airport Bus Stop,51.8899654,0.2604608
+STAUEDE,STA,Eden Project,50.3610164,-4.7448289
+STCRHCR,STC,X,0,0
+STDL,STD,Seaton Delaval (Construction),55.0747796,-1.538404
+STETLEI,STE,X,0,0
+STFOEJN,STF,Stratford International East Jn,51.5447362,-0.0007534
+STFORDI,STF,Stratford International,51.5448298,-0.0095152
+STKEYNV,STK,St Keyne Village (Bus),50.4223856,-4.4766444
+STNMORE,STN,Stanmore (LUL),51.6188559,-0.3026283
+STRUMLC,STR,St. Mary's L.C.,51.7188458,-2.166209
+SWNACFC,SWN,Corfe Castle (Swanage R),50.6382592,-2.0546954
+SWNAGE,SWN,Swanage,50.6098594,-1.9603858
+SWPMTLK,SWP,X,0,0
+SYDNFD,SYD,Sydenham Hill Fountain Drive,51.4283811,-0.0521536
+TEYNDVC,TEY,Teynham Dover Castle (Bus),51.3271558,0.802694
+TFBMTLK,TFB,X,0,0
+THBGJN,THB,Thrybergh Jn,53.4629249,-1.3077348
+THNGLYJ,THN,Thingley Jn,51.4372453,-2.1413884
+TINSLSJ,TIN,Tinsley South Jn,53.41255,-1.4045881
+TIVIBUS,TIV,X,0,0
+TOTNSSR,TOT,X,0,0
+TOTNSTA,TOT,X,0,0
+TRALEE,TRA,X,0,0
+TVSTBUS,TVS,X,0,0
+TWGWDLR,TWG,Tower Gateway DLR,51.5106172,-0.0737366
+VAUXHAL,VAU,Vauxhall,51.4861882,-0.1228895
+WANTMPL,WAN,X,0,0
+WATERFD,WAT,X,0,0
+WATFLUL,WAT,X,0,0
+WDBDGBS,WDB,Wadebridge Bus Station,50.5146479,-4.8340297
+WDLNDSR,WDL,X,0,0
+WDNLUL,WDN,Wimbledon L.U.L.,51.4218558,-0.2058903
+WDNPK,WDN,Wimbledon Park,51.4339194,-0.198965
+WEXFDOH,WEX,X,0,0
+WHFD,WHF,X,0,0
+WHTRSE,WHT,White Rose (proposed),53.7607761,-1.5786941
+WINCSEA,WIN,Winchelsea Sea Road (Bus),50.9209795,0.7248616
+WKLW,WKL,X,0,0
+WLLSPRI,WLL,X,0,0
+WLSD,WLS,X,0,0
+WLSDWLJ,WLS,Willesden West London Jn,51.5308093,-0.2409554
+WNCOJN,WNC,Wincobank Jn,53.4150306,-1.4166448
+WREXGUB,WRE,X,0,0
+WSPMTLK,WSP,X,0,0
+WTCMTLK,WTC,X,0,0
+WTNBHST,WTN,X,0,0
+YORKYSJ,YOR,York Yard South Jn,53.9573292,-1.1010162
+YOVIJDP,YOV,Yeovil Jn Down Main Platform,50.92442,-2.6129042
+YOVILJS,YOV,X,0,0
+YOVILPS,YOV,X,0,0
+
+
