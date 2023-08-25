@@ -1,0 +1,24 @@
+Table number: WU03UK_msoa
+Table title: Location of usual residence and place of work by method of travel to work
+Table population: All usual residents aged 16 and over in employment the week before the census
+Coverage: United Kingdom
+Geography: MSOA/SOA/IZ:MSOA/SOA/IZ
+
+CSV columns number: 14
+1 : Area of usual residence
+2 : Area of workplace
+3 : All categories: Method of travel to work
+4 : Work mainly at or from home
+5 : Underground, metro, light rail, tram
+6 : Train
+7 : Bus, minibus or coach
+8 : Taxi
+9 : Motorcycle, scooter or moped
+10:Driving a car or van
+11:Passenger in a car or van
+12:Bicycle
+13:On foot
+14:Other method of travel to work
+
+Consolidated columns:
+Area of usual residence,Area of workplace,All categories: Method of travel to work,Work mainly at or from home,"Underground, metro, light rail, tram",Train,"Bus, minibus or coach",Taxi,"Motorcycle, scooter or moped",Driving a car or van,Passenger in a car or van,Bicycle,On foot,Other method of travel to work
